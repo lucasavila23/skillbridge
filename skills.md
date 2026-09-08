@@ -30,6 +30,10 @@ Installed at user scope and expected to be used here:
   branch is resolved. Run before locking a plan. Invoke: `/grill-me`.
 - **context7** (`context7@claude-plugins-official`, MCP) — live library/framework
   docs; use before web search for API syntax and migration guides.
+- **github** (`github@claude-plugins-official`, MCP) — PR / issue / repo
+  operations against `lucasavila23/skillbridge`. Remote server
+  (`api.githubcopilot.com/mcp/`), auth via `GITHUB_PERSONAL_ACCESS_TOKEN`.
+  Use for structured PR/issue/review work; `gh` CLI still fine for quick ops.
 
 ## Available but unused
 
@@ -100,11 +104,13 @@ here — install on demand, then move the entry up to "Active".
   screenshots, visual verification. Install `if UI`.
 - **codegraph** — structural questions: call flow, callers / callees, blast
   radius. Needs `codegraph init` per repo (separate CLI).
-- **github** (`github@claude-plugins-official`) — PR / issue / repo operations.
-  Install `if GitHub`.
 - **engram** (`engram@engram` marketplace — registered) — cross-session
   persistent memory. Optional if the native file memory suffices.
 
 ## Added this project
 
-<anything installed mid-project — date + reason + how to invoke>
+- **2026-09-08 — github MCP** (`github@claude-plugins-official`). Reason: repo
+  initialised and pushed to `github.com/lucasavila23/skillbridge` (private);
+  collaboration project, want structured PR/issue tooling. Invoke: MCP tools load
+  automatically once `GITHUB_PERSONAL_ACCESS_TOKEN` is in the environment and
+  Claude Code is restarted; check with `/mcp`. Entry promoted to **Active**.

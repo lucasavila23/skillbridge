@@ -80,6 +80,8 @@ Many peers hit the same wall.
 | 2026-09-08 | Team size = **5–6 people** | ✅ confirmed |
 | 2026-09-08 | Prototype medium (`prototype-v0`) | ⏳ undecided — decide as project develops |
 | 2026-09-08 | Assignment logistics: exact deadlines, # of recruited testers, rubric | ❓ deferred (grill Q5) |
+| 2026-09-08 | Repo initialised: private `github.com/lucasavila23/skillbridge`, `main` protected (PR + 1 approval) | ✅ confirmed |
+| 2026-09-08 | GitHub MCP (`github@claude-plugins-official`) adopted for PR/issue tooling | ✅ confirmed (activation pending token + restart) |
 
 ## 6. Open questions
 
@@ -224,3 +226,25 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
   blocks in `opportunities.md` / `assumptions.md`.
 - Still open: primary interviews; assignment logistics; certification anti-gaming
   design; Goals exercise (awaiting `ai-prompt-goals.md`).
+
+### 2026-09-08 — Experiment Card grill + repo init
+- Added `downloads/ai-prompt-experiment-card.md`. Ran `/grill-me` over the
+  Experiment Card for the riskiest assumption (17 questions, full design tree).
+- Draft card agreed in-chat (fake-door demand test + problem-evidence rider;
+  conversion-rate metric + reason-cluster co-output; count threshold with a
+  cold-lead floor; MEDIUM tiered evidence strength; full met/missed/ambiguous
+  decision rule). **Not** written to `evidence-log/experiment-card.md` yet —
+  founder wants it parked. Product/Sprint Goal still an open gap.
+- **Repo initialised.** `git init` + `.gitignore` + initial commit; created
+  private `github.com/lucasavila23/skillbridge` and pushed `main`.
+- `main` branch protection on: PR required + 1 approving review, stale reviews
+  dismissed, no force-push / no deletion. Admin bypass left on for bootstrap.
+- Installed `github@claude-plugins-official` MCP (remote server, auth via
+  `GITHUB_PERSONAL_ACCESS_TOKEN`). `gh auth token` verified against the endpoint
+  (HTTP 200). **Pending:** founder exports the token + restarts Claude Code;
+  `/mcp` to confirm.
+- Added `.github/PULL_REQUEST_TEMPLATE.md`. Promoted github entry to Active in
+  `skills.md`.
+- **Pending:** teammate GitHub usernames to add 5 collaborators.
+- Note: `.gitattributes` declares Git LFS for `prototype/*.{pdf,png}` but
+  `git-lfs` is not installed on this machine — install before adding binaries.
