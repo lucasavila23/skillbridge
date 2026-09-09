@@ -86,6 +86,7 @@ Many peers hit the same wall.
 | 2026-09-08 | GitHub MCP (`github@claude-plugins-official`) adopted for PR/issue tooling | ✅ confirmed (activation pending token + restart) |
 | 2026-09-09 | Product Goal and current Sprint Goal recorded in `evidence-log/goals.md`; Product Goal includes student experience and completed projects for businesses; Sprint Goal addresses business willingness to entrust paid projects to inexperienced student teams | ✅ user-confirmed via confirm-check |
 | 2026-09-09 | Experiment Card recorded: concierge test, 10% conditional deposit, ≥ 2/10 conversions, separate five-pitch follow-up for 1/10, 10-day response window, and Project Kickoff within 5 business days | ✅ plan recorded; test results pending |
+| 2026-09-09 | Pilot projects are delivered by student teams; pitch profiles show individuals from the available talent pool, with final team composition and project matching after the deposit | ✅ user-confirmed |
 
 ## 6. Open questions
 
@@ -113,7 +114,8 @@ The Sprint Goal links to the existing riskiest assumption in section 7b.
 
 **Experiment Card — complete (2026-09-09):** all six fields recorded in
 `evidence-log/experiment-card.md`. The current plan uses a concierge test with
-actual, available student profiles and real business payment commitments.
+actual, available student profiles, delivery by student teams, and real business
+payment commitments.
 Recruitment channels, participant records, and test results remain to document.
 
 ## 7. Problem framing — LOCKED v1 (2026-09-08)
@@ -302,3 +304,10 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 - Saved the six-field card. This replaces the parked September 8 fake-door draft
   as the current experiment design. Results, recruitment records/channels, and
   the low-fidelity prototype and backup remain outstanding.
+
+### 2026-09-09 — Student team delivery clarified
+- The user confirmed that the Hypothesis and Method should consistently describe
+  delivery by **student teams**. Updated team formation, project matching,
+  kickoff introductions, weekly syncs, final evaluation, and decision branches.
+- Individual student profiles remain evidence of capability within the available
+  talent pool; final team composition and project matching follow the deposit.
