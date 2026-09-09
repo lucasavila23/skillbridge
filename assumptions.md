@@ -96,9 +96,14 @@ students."** (Area 2)
 - The founder independently pointed at business-side trust as the riskiest — this
   matches.
 
-**First test:** cold-outreach 10–15 real local small businesses with a concrete
+**Initial test proposal (2026-09-08):** cold-outreach 10–15 real local small businesses with a concrete
 campaign offer and a price; measure how many say yes to a paid pilot. If that
 conversion is near zero, the model needs rethinking before anything else matters.
+
+**Current test design (2026-09-09):** see the
+[Experiment Card](evidence-log/experiment-card.md) for the concierge method,
+primary ten-business test, conditional five-business extension, and precommitted
+metric, threshold, and decision rule.
 
 ---
 
