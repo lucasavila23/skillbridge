@@ -12,8 +12,11 @@ and a commitment to delivering the project.
 projects.
 
 1. Pitch exactly **10 unique, qualifying small businesses**, speaking with the
-   owners or general managers of targeted, operational businesses. Use a
-   **standardized project scope and pricing structure**.
+   owners or general managers of targeted, operational businesses. **Project
+   scope and total price may vary by business.** Define and document the pricing
+   method before the first pitch and apply it consistently across businesses.
+   Keep the **10% deposit percentage and commitment conditions** in step 3 the
+   same for all businesses.
 2. Present **1-page Student Profiles** highlighting each student's relevant
    coursework projects and **Skills Toolkit**, plus a **30-second video
    introduction or a short written "Why this project?" statement**. Profiles and
@@ -22,10 +25,11 @@ projects.
    project match** until after the business places its deposit.
 3. Agree the project scope, boundaries, total price, and completion deadline in
    the project charter before work starts. Ask the business to formally sign the
-   charter and transfer a **10% upfront deposit**. The deposit counts toward the
-   agreed project price and is refunded if the project is not completed by the
-   agreed deadline. Each business has **10 days from receiving the pitch** to
-   sign the charter and transfer the deposit.
+   charter and transfer an **upfront deposit of 10% of that project's agreed
+   total price**. The deposit counts toward the agreed project price and is
+   refunded if the project is not completed by the agreed deadline. Each business
+   has **10 days from receiving the pitch** to sign the charter and transfer the
+   deposit.
 4. On a decision to continue with delivery, reach the **Project Kickoff
    Milestone within 5 business days**: officially confirm the student team match,
    introduce the student team to the business owner by email or phone, and deliver
@@ -37,9 +41,11 @@ projects.
    presents the deliverables and the business provides a written testimonial or
    LinkedIn recommendation if satisfied.
 6. If the decision rule triggers the five-pitch extension, use **five new,
-   qualifying businesses**, the same scope and pricing structure, the same 10%
-   deposit, and the same **10-day response window per business**. Record this
-   follow-up separately from the original ten-business test.
+   qualifying businesses**, the same documented pricing method, **10% deposit
+   percentage**, and commitment conditions in step 3, including the **10-day
+   response window per business**. Project scopes and total prices may vary
+   under that same pricing method. Record this follow-up separately from the
+   original ten-business test.
 
 ## Metric
 
@@ -58,8 +64,9 @@ conversion definition; retain the original ten-business result.
 
 The test clears the threshold if the deposit conversion rate is **≥ 20%** under
 the condition that exactly **10 unique, qualifying small businesses** are pitched
-using a standardized project scope and pricing structure, with each business
-given its **10-day response window**.
+using the same documented pricing method, **10% deposit percentage**, and
+commitment conditions, with each business given its **10-day response window**.
+**Project scopes and total prices may vary by business.**
 
 This requires **at least 2 qualifying conversions out of 10**. Commit to this
 threshold before the test and do not adjust it after seeing results.
