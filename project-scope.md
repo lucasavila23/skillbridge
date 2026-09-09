@@ -7,6 +7,9 @@ of questions.**
 Companion working files (also kept current):
 - `opportunities.md` — compiled Empathize/Define material (feeds `evidence-log/opportunity.md`)
 - `assumptions.md` — compiled assumption brainstorm (feeds `evidence-log/assumptions.md`)
+- `evidence-log/goals.md` — confirmed Product Goal and current Sprint Goal
+- `evidence-log/experiment-card.md` — current concierge test plan and precommitted decision rule
+- `prototype/index.html` — current rough browser walkthrough; versioned snapshots in `prototype/backups/`
 
 ---
 
@@ -78,10 +81,15 @@ Many peers hit the same wall.
 | 2026-09-08 | Target user refined: the **normal** tech student — no strong network, not top-5% GPA (the connected students already get in via referrals) | ✅ confirmed (from research) |
 | 2026-09-08 | Project duration = whole semester, until **December 2026** | ✅ confirmed |
 | 2026-09-08 | Team size = **5–6 people** | ✅ confirmed |
-| 2026-09-08 | Prototype medium (`prototype-v0`) | ⏳ undecided — decide as project develops |
+| 2026-09-08 | Prototype medium (`prototype-v0`) | ✅ resolved 2026-09-09: clickable browser walkthrough |
 | 2026-09-08 | Assignment logistics: exact deadlines, # of recruited testers, rubric | ❓ deferred (grill Q5) |
 | 2026-09-08 | Repo initialised: private `github.com/lucasavila23/skillbridge`, `main` protected (PR + 1 approval) | ✅ confirmed |
 | 2026-09-08 | GitHub MCP (`github@claude-plugins-official`) adopted for PR/issue tooling | ✅ confirmed (activation pending token + restart) |
+| 2026-09-09 | Product Goal and current Sprint Goal recorded in `evidence-log/goals.md`; Product Goal includes student experience and completed projects for businesses; Sprint Goal addresses business willingness to entrust paid projects to inexperienced student teams | ✅ user-confirmed via confirm-check |
+| 2026-09-09 | Experiment Card recorded: concierge test, 10% conditional deposit, ≥ 2/10 conversions, separate five-pitch follow-up for 1/10, 10-day response window, and Project Kickoff within 5 business days | ✅ plan recorded; test results pending |
+| 2026-09-09 | Pilot projects are delivered by student teams; pitch profiles show individuals from the available talent pool, with final team composition and project matching after the deposit | ✅ user-confirmed |
+| 2026-09-09 | Project scopes and total prices may vary by business; define one pricing method before outreach and apply the same method, 10% deposit percentage, and commitment conditions across the original cohort and any five-pitch extension | ✅ user-confirmed |
+| 2026-09-09 | Rough test format: clickable browser walkthrough using an illustrative website project; save the artifact and versioned backup under `prototype/` | ✅ format and example user-selected; v0 created for review |
 
 ## 6. Open questions
 
@@ -102,6 +110,26 @@ captured; duration & team size set. Q5 (logistics) deferred.
 
 **Round 4 — done (autonomous):** ran the Opportunity + Assumptions exercises
 end-to-end. Framing locked (section 7). Assumption map locked (section 7b).
+
+**Goals — complete (2026-09-09):** ran the First pass / Quick exercise. The user
+drafted both goals and confirmed the refined wording in `evidence-log/goals.md`.
+The Sprint Goal links to the existing riskiest assumption in section 7b.
+
+**Experiment Card — complete (2026-09-09):** all six fields recorded in
+`evidence-log/experiment-card.md`. The current plan uses a concierge test with
+actual, available student profiles, delivery by student teams, and real business
+payment commitments. Project scopes and total prices may vary, using the same
+pricing method, 10% deposit percentage, and commitment conditions across businesses.
+The pricing method must be defined and documented before the first pitch.
+Recruitment channels, participant records, and test results remain to document.
+
+**Rough test — v0 created (2026-09-09):** `prototype/index.html` demonstrates
+the offer, student capability, team delivery, and charter/deposit decision. The
+café website brief, €500 quote, and completion date are illustrative. Student
+profiles remain empty templates; signing and payment are simulated. A rehearsal
+plan and versioned backup are saved alongside it. Real student evidence, the
+pricing method, live charter/payment route, and business recruitment remain
+required before running the live experiment.
 
 ## 7. Problem framing — LOCKED v1 (2026-09-08)
 
@@ -148,19 +176,20 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
   resist gaming; will LinkedIn/ATS treat it as legitimate.
 - **RISKIEST:** *An SMB will hand a real, paid project to a team of inexperienced
   students* — the supply the whole loop depends on, least controllable, hardest to
-  fake in a pilot, least evidenced. First test: cold-outreach 10–15 local SMBs
-  with a priced offer, measure paid-pilot conversion.
+  fake in a pilot, least evidenced. Current test design (2026-09-09): the concierge
+  plan in `evidence-log/experiment-card.md`, with ten primary business pitches
+  and a separate five-pitch extension only if the decision rule triggers it.
 
 ## 8. Next steps
 
 1. ~~Run the Opportunity exercise~~ ✅ `evidence-log/opportunity.md` locked v1.
 2. ~~Run the Assumptions exercise~~ ✅ `evidence-log/assumptions.md` locked v1.
 3. Founder review pass on the locked wording; adjust any phrasing.
-4. Set Goals → `evidence-log/goals.md` (needs the `ai-prompt-goals.md` prompt).
-5. Recruit 5+ target students + reach 10–15 SMBs → `evidence-log/recruitment.md`.
-6. Run the riskiest-assumption test (SMB paid-pilot outreach).
-7. Design the experiment → `evidence-log/experiment-card.md`.
-8. Decide prototype medium, build `prototype-v0`.
+4. ~~Set Goals~~ ✅ Product Goal and current Sprint Goal confirmed in `evidence-log/goals.md` (2026-09-09).
+5. Recruit 5+ target students for interviews; document the available student pool and access to 10 qualifying businesses (+5 only if the extension is triggered) → `evidence-log/recruitment.md`.
+6. Run the concierge test using `evidence-log/experiment-card.md` and record the results.
+7. ~~Design the experiment~~ ✅ All six fields recorded in `evidence-log/experiment-card.md` (2026-09-09).
+8. ~~Decide prototype medium, build `prototype-v0`~~ ✅ Browser walkthrough and versioned backup created in `prototype/`; review the flow and replace placeholders before live pitches.
 9. Pin assignment logistics with the professor (deadlines, # testers, rubric).
 
 ---
@@ -248,3 +277,74 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 - **Pending:** teammate GitHub usernames to add 5 collaborators.
 - Note: `.gitattributes` declares Git LFS for `prototype/*.{pdf,png}` but
   `git-lfs` is not installed on this machine — install before adding binaries.
+
+### 2026-09-09 — Goals exercise completed
+- Ran `downloads/ai-prompt-goals.md` using First pass / Quick mode, carrying
+  forward the existing Opportunity and riskiest assumption.
+- The user drafted the Product Goal around students gaining real experience,
+  then explicitly added the business benefit of getting real projects completed.
+- The user drafted the Sprint Goal; clarified that the uncertainty concerns
+  businesses trusting inexperienced student teams with real, paid work.
+- The user accepted the final confirm-check for both goal sentences. Saved that
+  exact wording in `evidence-log/goals.md`.
+- Both goals are confirmed; no open fields remain in the Goals exercise.
+  Primary interviews, recruitment records, and the saved Experiment Card remain
+  outstanding. Experiment methods, metrics, and thresholds belong in that card.
+
+### 2026-09-09 — Experiment Card exercise completed
+- Ran `downloads/ai-prompt-experiment-card.md` as First card / Quick, carrying
+  forward the confirmed goals and business-side riskiest assumption.
+- The user confirmed the hypothesis through a confirm-check and added
+  coursework-level skills. Selected Concierge and drafted the manual service,
+  student profiles, client meetings, payment terms, metric, threshold, evidence
+  rating, and decision branches.
+- Final payment plan: 10% of the project price agreed before work, credited
+  toward that price, refundable if the agreed project completion deadline is
+  missed. This is the current plan after discussing end-of-project tips,
+  success fees, and fixed deposits.
+- Primary threshold: at least two businesses out of exactly ten must both sign
+  the charter and transfer the deposit. One conversion is recorded as missing
+  that threshold and triggers a separately scored five-business extension.
+- The user supplied a 10-day charter-signing window in response to the question
+  about signing and payment deadlines. Applied it to both required conversion
+  actions, for both cohorts, and stated that interpretation before saving.
+- The user confirmed that pitch profiles represent actual, available students;
+  exact matches happen after business deposits. HIGH is the planned evidence
+  strength for conditional financial commitment.
+- The five-business-day deadline covers the Project Kickoff Milestone: confirmed
+  student match, email or phone introduction, and final mutually signed schedule.
+  Project completion follows its separately agreed schedule.
+- Saved the six-field card. This replaces the parked September 8 fake-door draft
+  as the current experiment design. Results, recruitment records/channels, and
+  the low-fidelity prototype and backup remain outstanding.
+
+### 2026-09-09 — Student team delivery clarified
+- The user confirmed that the Hypothesis and Method should consistently describe
+  delivery by **student teams**. Updated team formation, project matching,
+  kickoff introductions, weekly syncs, final evaluation, and decision branches.
+- Individual student profiles remain evidence of capability within the available
+  talent pool; final team composition and project matching follow the deposit.
+
+### 2026-09-09 — Project scope and pricing flexibility clarified
+- The user confirmed that project scopes and total prices may vary by business,
+  while the pricing method, 10% deposit percentage, and commitment conditions
+  remain consistent across businesses.
+- Updated the Experiment Card's Method, five-pitch extension, and Threshold to
+  reflect this distinction. The deposit amount is calculated from each project's
+  agreed total price; the signature requirement, deposit credit, refund rule,
+  and 10-day response window apply consistently.
+- The pricing method must be defined and documented before the first pitch and
+  retained for the original cohort and any five-pitch extension.
+
+### 2026-09-09 — Rough browser walkthrough v0
+- The user selected a clickable browser walkthrough and an illustrative website
+  project. Built a self-contained, low-fidelity artifact in `prototype/index.html`.
+- Four steps expose the business offer, student capability, delivery plan, and
+  charter/deposit commitment. The quote and scope can be edited for rehearsal;
+  the deposit remains 10%, and changing the example clears simulated commitments.
+- Used an explicitly illustrative café website, €500 total, and 9 October 2026
+  completion date. These are not confirmed live-test inputs. Student profiles
+  are empty evidence templates, and signature/transfer actions are simulations.
+- Added a rehearsal plan, usage notes, and a versioned backup under
+  `prototype/backups/v0-2026-09-09/`. The prototype is for review; no businesses
+  have been pitched or conversions recorded through it.

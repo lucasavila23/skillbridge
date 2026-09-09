@@ -94,9 +94,13 @@ students.** (Area 2)
   specifically — the biggest genuine unknown.
 - The founder independently identified business-side trust as riskiest — matches.
 
-**First test:** cold-outreach 10–15 real local small businesses with a priced
+**Initial test proposal (2026-09-08):** cold-outreach 10–15 real local small businesses with a priced
 campaign offer; measure how many agree to a paid pilot. Near-zero conversion =
 rethink the model before anything else.
+
+**Current test design (2026-09-09):** see [Experiment Card](experiment-card.md)
+for the concierge method, primary ten-business test, conditional five-business
+extension, and precommitted metric, threshold, and decision rule.
 
 ---
 

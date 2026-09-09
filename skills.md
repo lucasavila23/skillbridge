@@ -110,3 +110,7 @@ here — install on demand, then move the entry up to "Active".
 - **2026-09-08 — github MCP** (`github@claude-plugins-official`) — team project,
   repo now on GitHub; want structured PR/issue tooling. Auto-loads once its token
   env var is set (see local setup notes); `/mcp` to check. Promoted to Active.
+- **2026-09-09 — sites-building** (bundled Codex skill, already available) —
+  guidance for browser artifacts, responsive layout, and local preview. Used for
+  the rough walkthrough saved in `prototype/`; no plugin installation or product
+  application stack selection was needed.
