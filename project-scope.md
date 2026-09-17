@@ -9,6 +9,8 @@ Companion working files (also kept current):
 - `assumptions.md` — compiled assumption brainstorm (feeds `evidence-log/assumptions.md`)
 - `evidence-log/goals.md` — confirmed Product Goal and current Sprint Goal
 - `evidence-log/experiment-card.md` — current concierge test plan and precommitted decision rule
+- `evidence-log/personas/` — behavioural hypotheses and standalone Persona Agent prompts
+- `evidence-log/jtbd.md` — working Job to Be Done and switching-force evidence status
 - `prototype/index.html` — current rough browser walkthrough; versioned snapshots in `prototype/backups/`
 
 ---
@@ -348,3 +350,42 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 - Added a rehearsal plan, usage notes, and a versioned backup under
   `prototype/backups/v0-2026-09-09/`. The prototype is for review; no businesses
   have been pitched or conversions recorded through it.
+
+### 2026-09-17 — The Tinkerer persona exercise
+- Completed the eight-question Persona Builder exercise. The user selected
+  **The Tinkerer** as a student persona; the business-owner perspective remains
+  separate.
+- Recorded personal projects and coursework as the working current alternatives,
+  limited technical depth/business practicality as the proposed friction, and
+  adapting/customising tools as the proposed behaviour. Trust, verification,
+  recovery and failure patterns remain working assumptions.
+- No recent real student episode was supplied. The persona is explicitly
+  hypothesis-heavy, with grounded evidence, assumptions and unknowns separated.
+- The user selected **sustained commitment** and **delivery with coursework-level
+  skills** as the assumptions to challenge. This is the persona's research focus,
+  not a validated change to the venture-wide risk ranking.
+- Saved the profile, three validation priorities and a complete standalone
+  rehearsal prompt under `evidence-log/personas/`. Synthetic answers do not count
+  as customer evidence.
+- Continued into Jobs to Be Done, reusing the persona answers and existing
+  Opportunity and Goals. The user requested its output in `evidence-log/jtbd.md`;
+  see the completed exercise below.
+
+### 2026-09-17 — Jobs to Be Done exercise completed
+- Reused the persona's context, current alternatives and proposed friction.
+  The user identified an internship/job description explicitly requiring
+  real-world experience as the trigger, a money incentive as Pull, and the
+  absence of business delivery pressure as Habit.
+- Drafted Anxiety from the user's concern about coursework-level skills and
+  the added responsibility of delivering for a business. It remains a proposed
+  interpretation, not an observed or reported student concern.
+- The user accepted the complete synthesis, including the proposed Anxiety.
+  Saved the confirmed eight-element hypothesis in `evidence-log/jtbd.md`.
+  All behavioural claims remain team interpretations; no recent real student
+  episode was supplied.
+- Updated the persona and rehearsal prompt to version 0.2 with the user's
+  trigger and additional money incentive. These are hypothesis refinements,
+  not new real-user evidence.
+- Opportunity, goals, risk ranking and experiment decisions still require
+  reassessment against real-user evidence; this exercise alone supplies no
+  validation results.
