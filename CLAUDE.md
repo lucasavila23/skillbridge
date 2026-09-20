@@ -14,3 +14,9 @@ Before invoking, installing, or searching for any skill or MCP:
    search. After installing, add an entry under "Added this project" with a
    one-line trigger + how to invoke.
 5. Never install a skill / MCP without first showing me the candidate and why.
+
+New to this repo? Some entries in `skills.md`'s "Active" list are plugins
+(auto-available once installed at user scope), but a few are plain skill
+folders or standalone CLIs that only live on the machine that installed them —
+run `skills.md`'s "New collaborator setup" commands once per machine before
+starting work.
