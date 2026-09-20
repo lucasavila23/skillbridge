@@ -201,3 +201,50 @@ Also test:
 “Would seeing a relevant before-and-after example from a previous project make you more comfortable working with us?”
 
 The goal is to test whether a relevant before/after case study addresses concerns from previously burned owners better than a generic student profile.
+
+---
+
+## Persona 4 — The Late Sprinter (tech student, supply side of talent — late-timing variant)
+
+**Races the clock, then disappears.**
+
+- Technically skilled tech student, late in their academic career
+- Has almost no applied, real-world project experience — coursework only, until now
+- Facing a one-time, bounded deadline: graduation or an internship requirement closing in
+
+**Grounding: HYPOTHESIS-HEAVY** — zero primary interviews yet. Full detail,
+evidence ledger and Persona Agent prompt: [`evidence-log/personas/late-sprinter.md`](evidence-log/personas/late-sprinter.md).
+
+**How this differs from the Unconnected Student (Persona 2):** Persona 2 engages
+gradually, over multiple campaigns, seeking a sustained track record. The Late
+Sprinter arrives late, under acute deadline pressure, wants the fastest possible
+route to one verified project, and — as a working assumption — churns off the
+platform the moment an internship is secured. This is a retention-shape
+difference, not just a timing difference.
+
+**Job to be done:** When my graduation or internship deadline is closing in and
+I realise I'm behind on real-world experience, I want the fastest possible way
+to get one verifiable, real project done, so I still have a shot at landing an
+internship before time runs out.
+
+### What we know
+
+| | |
+|---|---|
+| WORKING ASSUMPTION | Currently copes by cramming a solo portfolio project while applying to internships in parallel — no separate tool, this *is* the current approach |
+| WORKING ASSUMPTION | Solo cram projects don't resemble real working scenarios and count against the CV with recruiters — converges directionally with the unverified-claims desk research in `opportunity.md`, but not independently confirmed for this student |
+
+### What we still need to test
+
+| | |
+|---|---|
+| UNKNOWN | Whether engaging with SkillBridge under this profile actually improves internship-landing odds — the central question this persona exists to test |
+| UNKNOWN | Whether the "one-shot, then churn" retention pattern is real, and what it means for a platform built around sustained team campaigns (stresses Area 1 in `evidence-log/assumptions.md`) |
+| HYPOTHESIS | Accepts either a solo project or a small/fast team project interchangeably — the binding constraint is speed and low complexity, not team structure |
+| HYPOTHESIS | Would disengage if matching is slow, the project is too long/complex for the remaining runway, or no certification is issued at the end |
+
+**Note:** this persona has zero OBSERVED or interview evidence — it comes from a
+single planning conversation on 2026-09-20. It directly stresses two different
+risk areas than Personas 1–3: Area 1 sustained commitment (as the structural
+counter-case) and Area 3 credential credibility (as the persona's own central
+unknown).
