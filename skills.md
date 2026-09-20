@@ -32,6 +32,19 @@ Installed at user scope and expected to be used here:
   docs; use before web search for API syntax and migration guides.
 - **github** (`github@claude-plugins-official`, MCP) — structured PR / issue /
   repo operations for the team PR workflow; `gh` CLI still fine for quick ops.
+- **mcp-builder** (`~/.claude/skills/mcp-builder`, from `anthropics/skills`) —
+  guide for building MCP servers (Python FastMCP or Node/TS SDK) that wrap an
+  external API/service. Use when the project needs its own MCP server.
+- **webapp-testing** (`~/.claude/skills/webapp-testing`, from `anthropics/skills`)
+  — Playwright-based toolkit for testing local web apps: functional checks,
+  screenshots, browser console logs. Use to verify `prototype/` in a browser.
+- **codegraph** (`colbymchenry/codegraph`, MCP + CLI, installed 2026-09-20) —
+  structural code-knowledge-graph: call flow, callers/callees, blast radius.
+  Installed globally (`npm i -g @colbymchenry/codegraph`) and wired into Claude
+  Code (`codegraph install --target claude --location global`); indexed here
+  with `codegraph init` (auto-syncs on file changes, `.codegraph/` is
+  git-ignored). Currently has no source files to index (docs/HTML-only repo) —
+  becomes useful once real app code lands.
 
 ## Available but unused
 
@@ -100,8 +113,6 @@ here — install on demand, then move the entry up to "Active".
 
 - **playwright** (`playwright@claude-plugins-official`) — browser automation,
   screenshots, visual verification. Install `if UI`.
-- **codegraph** — structural questions: call flow, callers / callees, blast
-  radius. Needs `codegraph init` per repo (separate CLI).
 - **engram** (`engram@engram` marketplace — registered) — cross-session
   persistent memory. Optional if the native file memory suffices.
 
@@ -114,3 +125,15 @@ here — install on demand, then move the entry up to "Active".
   guidance for browser artifacts, responsive layout, and local preview. Used for
   the rough walkthrough saved in `prototype/`; no plugin installation or product
   application stack selection was needed.
+- **2026-09-20 — mcp-builder + webapp-testing** (from `anthropics/skills`,
+  installed at `~/.claude/skills/`) — user asked to pull in skills from
+  anthropics/skills, obra/superpowers, and colbymchenry/codegraph.
+  obra/superpowers was already the source of the Active `superpowers` plugin
+  (no action needed); of anthropics/skills' 12 not-yet-active skills, user
+  picked mcp-builder and webapp-testing specifically rather than the full
+  `example-skills` bundle (which would've pulled in 10 unrelated skills), so
+  installed by copying just those two skill folders instead of adding the
+  marketplace. Promoted to Active.
+- **2026-09-20 — codegraph** (`colbymchenry/codegraph`) — promoted from seed
+  catalog to Active per user request; installed CLI + MCP wiring + local index
+  (see Active entry above for exact commands).
