@@ -248,3 +248,77 @@ single planning conversation on 2026-09-20. It directly stresses two different
 risk areas than Personas 1–3: Area 1 sustained commitment (as the structural
 counter-case) and Area 3 credential credibility (as the persona's own central
 unknown).
+
+
+
+Persona 5 — The Solo Specialist
+(Student side — different from Unconnected Student)
+
+Tagline: “I can build it alone. I freeze when people and clients get involved.”
+
+How this differs from Unconnected Student
+
+Unconnected Student’s job is get a credential employers recognize (access/proof). Solo Specialist’s job is survive real client + team collaboration without blowing a project they could have shipped solo. Network isn’t the only gap — client-facing teamwork is.
+
+Grounding: mixed / hypothesis-heavy
+
+Situation / trigger
+
+2nd–4th year tech student, strong coursework and solo GitHub. Group projects at school were awkward; they carried the code and avoided Slack. A SkillBridge campaign sounds good for the CV… until standup, scope calls, and design arguments start.
+
+JTBD
+
+When I can ship features alone but freeze in messy human collaboration, I need a structured first client-team experience, so I gain proof I can work with real stakeholders — not just more solo repos.
+
+Recent behaviour (WORKING ASSUMPTION)
+
+Joins optional team things late, takes backend tickets, stays quiet on client calls, over-delivers code, under-communicates blockers.
+
+Current alternative
+
+More solo side projects, online certs, waiting for an internship that demands “team experience” they can’t show.
+
+Friction → consequence
+
+Technical confidence, social/process avoidance. Consequence: teammates see a ghost, client feels ignored, campaign rating tanks even if code is fine — or they quit mid-campaign when conflict appears.
+
+Tool / service behaviour
+
+Deep in VS Code/GitHub; light on Notion/Figma comments. Prefers async text; dreads Zoom with the business owner.
+
+Trust boundary
+
+OK sharing GitHub. Hates being the “client face.” Needs a clear role (e.g. implementer) and a separate communicator lead. (WORKING ASSUMPTION)
+
+Check / recover
+
+Judges success by “did my PR merge?” not “was the client happy?” When conflict hits, goes dark or quietly stops pushing.
+
+Failure threshold (UNKNOWN)
+
+Being forced to lead client calls, or open blame in front of the business, would make them exit.
+
+Evidence
+
+GROUNDED (desk): employers want real team/client signals, not only solo repos
+WORKING ASSUMPTION: a slice of supply-side risk is collaboration dropout, not just recruitment
+UNKNOWN: how often this pattern appears in your student pool; what scaffolding fixes it
+Assumptions this stresses
+
+Area 1 — strangers self-organise; dropout; coursework skills enough only if collaboration holds
+
+Area 3 — gaming/ghost contributors (this persona can become a ghost without meaning to)
+
+Product decisions it changes: role templates, mandatory communicator, lighter client-facing load for specialists, anti-ghost check-ins — not just “come for the certificate.”
+
+Validate next
+
+Student interviews: “Tell me about your last group project — what did you avoid?”
+Pilot roles: named Deliver lead vs Implementer — does Solo Specialist finish?
+Measure ghosting rate vs technical contribution
+Why this pair (vs what’s already in personas.md)
+Already in file	These two
+Business	Guarded Owner = never trusted students	Once-Bitten = trusted someone before and got burned
+Student	Unconnected = blocked by no proof/network	Solo Specialist = has proof of code, blocked by client/team reality
+Main risk	Cold trust / credential value	Repeat purchase after trauma / mid-campaign ghosting
+If you want, I can also rewrite these into the exact personas.md markdown format (with Persona Agent prompts) so you can paste them under a new section like “Alternate personas (v2 draft)”.
