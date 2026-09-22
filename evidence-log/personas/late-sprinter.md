@@ -1,19 +1,29 @@
 # Persona: The Late Sprinter
 
-**Version:** 0.1 — 2026-09-20
+**Version:** 0.2 — 2026-09-22
 
-**Grounding status:** Hypothesis-heavy
+**Grounding status:** Hypothesis-heavy, with limited participant-reported overlap.
 
 **Use:** Research rehearsal and planning real-user validation.
 
 This is one bounded behavioural hypothesis about a late-stage tech student
 racing a graduation or internship deadline. It does not represent a verified
-individual or all tech students, and it is deliberately distinct from
-[The Tinkerer](tinkerer.md), who engages earlier and more gradually. The two
-personas differ on timing, team preference, tool behaviour and — most
-importantly — expected retention.
+individual or all tech students. Proposed differences from
+[The Tinkerer](tinkerer.md) concern urgency, team preferences, tool behaviour and
+retention; earlier or more gradual Tinkerer engagement has not been established.
+
+Version 0.2 reviews UV-S02, supplied as a teammate's interview notes. The user
+identifies Student 2 as an IE student interviewed within September 15–20.
+Deadline-concentrated coursework and timing concerns partly overlap with this
+hypothesis, but graduation proximity, urgent search, certification dependence
+and one-shot retention are unconfirmed. Student 2 is not labelled a validated
+Late Sprinter.
 
 ## Target-user profile contribution
+
+Unless a source is specified, the following profile remains a **working
+hypothesis from the 2026-09-20 exercise**, not a description established for
+Student 2.
 
 - **Context, frequency and trigger:** A tech student late in their academic
   career — technically skilled but with almost no applied, real-world project
@@ -44,9 +54,9 @@ importantly — expected retention.
   remaining runway.
 - **Failure threshold:** No certification issued at the end counts as failure,
   regardless of whether the project itself was completed.
-- **Evidence anchors:** None GROUNDED. All claims trace to a single planning
-  conversation with the founder/team on 2026-09-20, not an interview,
-  observation or verified record.
+- **Evidence anchors:** [UV-S02 Q1–Q6](../validation/interviews-2026-09-22.md#uv-s02)
+  supplies partial overlap and limits, detailed below. It does not establish the
+  proposed solo cram project, near-graduation timing or churn pattern.
 - **Working assumptions:** One-time, bounded engagement; churns off the
   platform once an internship is secured (a one-shot user, not a sustained
   participant); accepts either a solo project or a small/fast team project
@@ -65,16 +75,30 @@ importantly — expected retention.
 
 ### GROUNDED
 
-No real-user evidence anchors support this behavioural pattern yet. Nothing
-in this persona should be treated as observed or reported student behaviour.
+These anchors are **participant-reported** in teammate-shared notes, not
+independently observed work or a verified transcript:
+
+- Q1: a summer-internship application requested an example of something
+  delivered; the student struggled to provide one.
+- Q2–Q4: a class Python dashboard involved data cleaning and charts, with a
+  teammate handling deployment. Effort concentrated near the deadline, with
+  no further work reported after submission and no use outside the course.
+- Q5: the assignment seemed manageable; an interview example is currently
+  prioritised, with pay described as helpful.
+- Q6: timing, avoiding finals and avoiding immediate-fix obligations are
+  stated conditions. A few hours per week is hypothetical availability.
+
+This supports investigating deadline-related participation constraints. It does
+not show an imminent graduation deadline or abandoning client work after an
+internship offer. The reported project was collaborative coursework, not the
+solo portfolio cram project in the original hypothesis.
 
 ### WORKING ASSUMPTIONS
 
-All substantive behavioural claims above are working assumptions from a
-single planning conversation on 2026-09-20. The label is a chosen
-description, not a finding. The "one-shot, then churn" retention pattern in
-particular is a significant product-relevant claim that has not been tested
-against any real student.
+The near-graduation trigger, solo cram alternative, low-vetting matching,
+platform-default preference, certification requirement and "one-shot, then
+churn" retention pattern remain planning hypotheses from 2026-09-20. Partial
+overlap with UV-S02 must not be used to confirm those unreported attributes.
 
 ### UNKNOWN
 
@@ -130,7 +154,11 @@ ranking or a completed test.
 - [Assumptions](../assumptions.md): the two assumption areas this persona is
   selected to stress.
 - [The Tinkerer](tinkerer.md): companion student-side persona, contrasted
-  throughout on timing, tool behaviour, control preference and retention.
+  on proposed tool/control patterns; timing and retention differences are
+  unconfirmed.
+- [UV-S02 interview record](../validation/interviews-2026-09-22.md#uv-s02)
+  and [findings](../validation/findings-2026-09-22.md): limited overlap, different
+  current alternative and unconfirmed central persona attributes.
 - [Complete Persona Agent prompt](late-sprinter-agent-prompt.md): standalone
   prompt for a fresh conversation.
 
