@@ -5,6 +5,13 @@
 framing + desk research. Clean deliverable mirrored in
 `evidence-log/assumptions.md`.
 
+**Current evidence review (2026-09-22):** This file preserves the September 8
+brainstorm and handoff; statements below about no primary interviews describe
+that baseline. Four teammate-reported accounts are now documented in the
+[validation findings](evidence-log/validation/findings-2026-09-22.md). See the
+[current assumption map](evidence-log/assumptions.md) for their implications and
+remaining delivery/payment gaps.
+
 Input carried in: USER / NEED / INSIGHT / HOW MIGHT WE from `opportunities.md`.
 
 ---

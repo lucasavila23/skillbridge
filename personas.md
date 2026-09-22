@@ -1,13 +1,30 @@
 # Personas
 
-**SkillBridge — Persona Builder output. v1, provisional, 2026-09-17.**
-Inputs: `opportunity.md`, `goals.md`, `assumptions.md`, `experiment-card.md`.
+**SkillBridge — provisional persona catalog. Evidence review: 2026-09-22.**
+Inputs: [Opportunity](evidence-log/opportunity.md), [Goals](evidence-log/goals.md),
+[Assumptions](evidence-log/assumptions.md), [Experiment Card](evidence-log/experiment-card.md).
 
-Two personas, one for each side of the marketplace — this is a two-sided
-platform, so "the target customer" is actually two different people with
-different jobs, different evidence bases, and different risk. Per the
-homework rule: **only real-user evidence changes these or the Jobs to Be
-Done grounding** — nothing below has been interview- or pilot-tested yet.
+The catalog has six candidate hypotheses across both sides of the marketplace.
+The [four teammate-reported interviews](evidence-log/validation/interviews-2026-09-22.md)
+provide partial grounding for specific claims, not six validated personas.
+Grounding must distinguish participant reports, stated intentions, workshop
+assumptions and unknowns. Synthetic rehearsal does not count as evidence.
+
+| Candidate | Grounding after this intake | Current profile |
+|---|---|---|
+| The Guarded Owner | UV-B01 partly supports past delegation/checking and stated trust conditions; payment remains untested | Persona 1 below |
+| The Unconnected Student | UV-S01/UV-S02 support difficulty presenting experience, not absent networks or systematic rejection | Persona 2 below |
+| The Once-Bitten Owner | Prior negative paid-provider experience remains a hypothesis | Persona 3 below |
+| The Late Sprinter | UV-S02 partly supports deadline-related effort; graduation urgency and churn remain unconfirmed | [Profile](evidence-log/personas/late-sprinter.md) |
+| The Solo Specialist | No direct grounding for the defining solo/control preferences | Persona 5 below |
+| The Tinkerer | UV-S01 reports tool adaptation, feedback and schedule interruption; delivery remains untested | [Profile](evidence-log/personas/tinkerer.md) |
+
+This round examines the Tinkerer, Late Sprinter and Guarded Owner hypotheses;
+the final selection of at least three critical personas still needs an explicit
+team decision. Nolita is retained as a no-current-project counterexample, not
+forced into a purchasing persona. Existing suggestions for alternative prices,
+payment terms or project tracks are research hypotheses; they do not change
+the current Experiment Card's fixed 10% deposit conditions.
 
 ---
 
@@ -19,6 +36,10 @@ Done grounding** — nothing below has been interview- or pilot-tested yet.
 - Has a real, undone piece of digital work (no website, or a stale one) too small to justify agency pricing
 - Has never worked with a student team, and has no reason yet to think one won't waste her time or money
 
+These profile attributes remain working hypotheses. Baya's owner did not
+establish staffing levels, absence of previous student work or a current open
+project. The illustrative voice below is not an interview quotation.
+
 > "I'll believe it when I see it delivered. With my own money on the line, I need proof this won't blow up in my face." — illustrative persona voice
 
 **Job to be done:** When I have digital work that matters to my business but isn't big enough for an agency budget, I want a low-risk way to get it done properly, so I don't have to choose between overpaying and gambling on an unproven freelancer.
@@ -29,7 +50,25 @@ Done grounding** — nothing below has been interview- or pilot-tested yet.
 |---|---|
 | SUPPORTED | 36% of small businesses spend $1k–$10k on a website (median ~$5k), and ~27% still have none — the underlying digital work and budget genuinely exist (`opportunity.md`) |
 | REPORTED | The founder independently flagged business-side trust as the single riskiest assumption in the whole model (`assumptions.md`) |
-| SUPPORTED | Desk research turned up **no existing evidence** on whether SMBs will trust a student team specifically — this isn't a solved question anywhere, not just internally (`assumptions.md`) |
+| UNKNOWN | No paid student-team commitment or delivery outcome is documented in this project's current evidence; absence of local evidence does not establish a gap across all external research |
+
+### Interview grounding — UV-B01
+
+[Baya's owner](evidence-log/validation/interviews-2026-09-22.md#uv-b01) reports
+that an employee handled Instagram changes while a known friend handled the
+website. The friend's availability delayed an online-menu update. The owner
+checked every price on a phone and requested larger text (Q1–Q4).
+
+Clear pricing, a work example, later editability and a single communication
+contact are **stated future conditions**, with continuity after students become
+busy a concern (Q5–Q6). These partly support the trust hypothesis, but do not
+show acceptance of an offer, a 10% deposit or a new project. This is a past
+menu episode reported in teammate-shared notes, not an observed purchase.
+
+[Nolita's manager](evidence-log/validation/interviews-2026-09-22.md#uv-b02)
+reports no current project, a sufficient existing workflow and a cost in
+briefing/review time even for cheap work. Qualify an actual need before assuming
+that a business fits this persona.
 
 ### What we still need to test
 
@@ -37,10 +76,12 @@ Done grounding** — nothing below has been interview- or pilot-tested yet.
 |---|---|
 | HYPOTHESIS | A signed project charter + refundable 10% deposit + fixed scope/deadline is enough structure to convert guardedness into a "yes" (`experiment-card.md`) |
 | HYPOTHESIS | Seeing real, named student profiles (coursework work, skills toolkit, a short "why this project" statement) lowers perceived risk more than an anonymous pitch (`experiment-card.md`) |
-| UNKNOWN | What specific guarantee or structure actually flips a "no" — the risk-perception interviews to find out haven't happened yet (`assumptions.md`) |
+| UNKNOWN | What guarantee or structure changes an actual decision — Baya supplied stated conditions, but no accept/decline decision on a concrete offer |
 | UNKNOWN | Whether delivered quality will be good enough, often enough, that she'd repeat or refer — untested until a real project ships (`assumptions.md`) |
 
-**Note:** this persona has zero OBSERVED evidence — no business has been pitched yet. The 10-business cold-outreach test in `experiment-card.md` *is* the first real data point, and the whole current sprint goal exists to interrogate this persona specifically.
+**Note:** Interview grounding is partial and participant-reported. No formal
+qualifying pitch, charter or payment is documented. The ten-business test
+remains the planned measure of paid commitment; interview interest is separate.
 
 ---
 
@@ -74,17 +115,33 @@ Done grounding** — nothing below has been interview- or pilot-tested yet.
 | UNKNOWN | Whether 5–6 strangers can self-organize and ship a scoped client project without a paid PM, and what dropout rate that produces (`assumptions.md`) |
 | UNKNOWN | How recruiters and ATS systems would actually read this credential on a CV/LinkedIn — the recruiter interviews haven't happened yet (`assumptions.md`) |
 
-**Note:** same caveat as Persona 1 — founder's account plus market statistics only, no primary student interviews conducted yet (`opportunity.md`, "Open gaps").
+**Interview update:** [UV-S01 and UV-S02](evidence-log/validation/interviews-2026-09-22.md)
+report application requests for examples of work and uncertainty about what to
+show. They do not establish year of study, network access, GPA, rejection rates
+or a preference for certification over pay. The second student's emphasis on
+an interview example and the first student's paid tutoring choice keep motives
+mixed. Profile attributes beyond those reports remain hypotheses.
 
 ---
 
-## Why two personas, not one
+## Why both sides need evidence
 
-The two sides don't share a Job to Be Done — one is buying trust, the other is buying a credential — and they carry very different evidence weight right now. The student persona rests on solid third-party labor-market data (SUPPORTED throughout); the business owner persona rests almost entirely on the absence of contrary evidence and the founder's own read of the risk (REPORTED/HYPOTHESIS/UNKNOWN). That asymmetry is itself useful: it's exactly why `assumptions.md` names business-side trust, not student pull, as the riskiest assumption the model depends on.
+Students seek demonstrable experience; businesses need useful work completed
+with acceptable effort and risk. Neither side's willingness to choose the
+proposed service follows from the other's interest. The interviews add relevant
+episodes and constraints, but do not establish credential value, sustained
+student delivery or business payment. The [current risk review](evidence-log/assumptions.md)
+retains paid business trust as the commercial test while keeping delivery risks
+explicit.
 
 ## Update rule
 
-Per the course workflow: only real-user evidence updates these personas or the Jobs to Be Done above. The 10-business pitch test in `experiment-card.md` is the next event that can move Persona 1 out of pure hypothesis; nothing currently planned tests Persona 2 directly until the student supply-side test triggers on the decision rule.
+Per the course workflow, update grounding from traceable real-user material,
+keeping source limitations and contradictions visible. The supplied interviews
+update specific claims; further interviews, work inspection and behavioural
+tests may update others. Synthetic answers cannot validate them. See the
+[findings](evidence-log/validation/findings-2026-09-22.md) for the limits of this round.
+
 persona 3
 Business side — distinct from Guarded Owner
 
@@ -212,15 +269,14 @@ The goal is to test whether a relevant before/after case study addresses concern
 - Has almost no applied, real-world project experience — coursework only, until now
 - Facing a one-time, bounded deadline: graduation or an internship requirement closing in
 
-**Grounding: HYPOTHESIS-HEAVY** — zero primary interviews yet. Full detail,
+**Grounding: HYPOTHESIS-HEAVY** — UV-S02 supplies limited overlap. Full detail,
 evidence ledger and Persona Agent prompt: [`evidence-log/personas/late-sprinter.md`](evidence-log/personas/late-sprinter.md).
 
-**How this differs from the Unconnected Student (Persona 2):** Persona 2 engages
-gradually, over multiple campaigns, seeking a sustained track record. The Late
-Sprinter arrives late, under acute deadline pressure, wants the fastest possible
-route to one verified project, and — as a working assumption — churns off the
-platform the moment an internship is secured. This is a retention-shape
-difference, not just a timing difference.
+**Proposed difference from the Unconnected Student (Persona 2):** The Late
+Sprinter hypothesis emphasises acute deadline pressure, a fast route to one
+project and possible disengagement after securing an internship. Gradual,
+multi-campaign engagement for Persona 2 and one-shot retention for this persona
+have not been established. UV-S02's class deadline does not confirm either.
 
 **Job to be done:** When my graduation or internship deadline is closing in and
 I realise I'm behind on real-world experience, I want the fastest possible way
@@ -243,11 +299,11 @@ internship before time runs out.
 | HYPOTHESIS | Accepts either a solo project or a small/fast team project interchangeably — the binding constraint is speed and low complexity, not team structure |
 | HYPOTHESIS | Would disengage if matching is slow, the project is too long/complex for the remaining runway, or no certification is issued at the end |
 
-**Note:** this persona has zero OBSERVED or interview evidence — it comes from a
-single planning conversation on 2026-09-20. It directly stresses two different
-risk areas than Personas 1–3: Area 1 sustained commitment (as the structural
-counter-case) and Area 3 credential credibility (as the persona's own central
-unknown).
+**Interview update:** UV-S02 reports last-minute class-project effort, help with
+deployment and no use outside the course; timing and urgent-fix limits are
+stated conditions. Near-graduation status, certification dependence and churn
+after an offer remain unconfirmed. The persona still challenges sustained
+commitment and credential credibility as hypotheses, not measured outcomes.
 
 
 

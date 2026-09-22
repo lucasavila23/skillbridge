@@ -11,6 +11,7 @@ Companion working files (also kept current):
 - `evidence-log/experiment-card.md` — current concierge test plan and precommitted decision rule
 - `evidence-log/personas/` — behavioural hypotheses and standalone Persona Agent prompts
 - `evidence-log/jtbd.md` — working Job to Be Done and switching-force evidence status
+- `evidence-log/validation/` — four teammate-reported interview records, findings, guide and record template
 - `prototype/index.html` — current rough browser walkthrough; versioned snapshots in `prototype/backups/`
 
 ---
@@ -123,7 +124,8 @@ actual, available student profiles, delivery by student teams, and real business
 payment commitments. Project scopes and total prices may vary, using the same
 pricing method, 10% deposit percentage, and commitment conditions across businesses.
 The pricing method must be defined and documented before the first pitch.
-Recruitment channels, participant records, and test results remain to document.
+Formal-pitch recruitment, qualifying business records and test results remain to
+document. Exploratory interview records are linked in the validation update below.
 
 **Rough test — v0 created (2026-09-09):** `prototype/index.html` demonstrates
 the offer, student capability, team delivery, and charter/deposit decision. The
@@ -132,6 +134,14 @@ profiles remain empty templates; signing and payment are simulated. A rehearsal
 plan and versioned backup are saved alongside it. Real student evidence, the
 pricing method, live charter/payment route, and business recruitment remain
 required before running the live experiment.
+
+**Validation intake — partial (2026-09-22):** The user supplied four
+teammate-shared interview accounts from September 15–20: two IE students,
+Baya's owner and Nolita's manager. The accounts partly support an application
+proof gap and a past business task, while exposing availability, technical-help
+and continuity concerns. Nolita has no current project. Updated the JTBD and
+persona grounding with source IDs and limits; no paid commitment or completed
+client delivery is established. See `evidence-log/validation/findings-2026-09-22.md`.
 
 ## 7. Problem framing — LOCKED v1 (2026-09-08)
 
@@ -188,7 +198,7 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 2. ~~Run the Assumptions exercise~~ ✅ `evidence-log/assumptions.md` locked v1.
 3. Founder review pass on the locked wording; adjust any phrasing.
 4. ~~Set Goals~~ ✅ Product Goal and current Sprint Goal confirmed in `evidence-log/goals.md` (2026-09-09).
-5. Recruit 5+ target students for interviews; document the available student pool and access to 10 qualifying businesses (+5 only if the extension is triggered) → `evidence-log/recruitment.md`.
+5. Continue toward 5+ target student interviews (two reported so far), complete source details and inspect work/availability; document the available student pool and access to 10 qualifying businesses (+5 only if the extension is triggered) → `evidence-log/recruitment.md`.
 6. Run the concierge test using `evidence-log/experiment-card.md` and record the results.
 7. ~~Design the experiment~~ ✅ All six fields recorded in `evidence-log/experiment-card.md` (2026-09-09).
 8. ~~Decide prototype medium, build `prototype-v0`~~ ✅ Browser walkthrough and versioned backup created in `prototype/`; review the flow and replace placeholders before live pitches.
@@ -389,3 +399,38 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 - Opportunity, goals, risk ranking and experiment decisions still require
   reassessment against real-user evidence; this exercise alone supplies no
   validation results.
+
+### 2026-09-22 — Real-user validation preparation
+- The user proposed IE University students and Baya coffee shop as interview
+  targets. Recorded them as planned contacts in `evidence-log/recruitment.md`;
+  no actual participant answers or completed interview notes had been supplied
+  at the preparation stage. The subsequent intake is recorded below.
+- Prepared short student and business interview scripts and a blank record
+  template under `evidence-log/validation/`, focused on recent behaviour,
+  sustained commitment, practical delivery and business trust.
+- Added clearly labelled fictional practice interviews under
+  `prototype/rehearsal/`. They are not attributed to actual IE students or
+  Baya and are not customer evidence.
+- The real-user validation criterion remains open. No hypothesis was promoted
+  to grounded evidence and no interview interest was counted as a paid conversion.
+
+### 2026-09-22 — Teammate-reported interview intake
+- Preserved the four supplied sets of answers under stable source IDs in
+  `evidence-log/validation/interviews-2026-09-22.md`. The user confirmed the
+  September 15–20 window, both students' IE affiliation, Baya's owner and
+  Nolita's manager. Exact individual dates and original materials remain open.
+- Added a findings table linking each conclusion to questions, distinguishing
+  past reports, future conditions, counterevidence and untested outcomes.
+- Refined the working JTBD trigger to application requests for project examples
+  or delivered work. The original job-listing requirement was not established
+  by these accounts; the actual switching sequence remains incomplete.
+- Updated Tinkerer grounding from Student 1, limited Late Sprinter overlap from
+  Student 2, Guarded Owner grounding from Baya, and retained Nolita as evidence
+  against assuming every business has an immediate need. Synced the standalone
+  rehearsal prompts; their generated answers remain synthetic.
+- Retained the Product Goal, business-trust Sprint Goal and commercial test.
+  No signature, deposit, conversion rate, client acceptance or campaign
+  retention result was supplied. Interview findings do not clear that threshold.
+- Real-user validation is partial; final persona selection, source completion
+  and behavioural checks remain open. Historical preparation notes and the
+  labelled fictional examples are separate from this intake.

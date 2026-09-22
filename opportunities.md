@@ -5,6 +5,13 @@ autonomously against everything discussed + desk research. The clean deliverable
 version is mirrored in `evidence-log/opportunity.md`; this file keeps the full
 working context, research and sources behind it.
 
+**Current evidence review (2026-09-22):** This file preserves the September 8
+research and handoff; its no-primary-interview statements describe that baseline.
+Four teammate-reported accounts are now documented in the
+[validation findings](evidence-log/validation/findings-2026-09-22.md). The
+[current Opportunity review](evidence-log/opportunity.md) keeps unsupported
+network, hiring-impact and market-wide claims distinct from those accounts.
+
 > Direction (user, tech segment, pain = "experience without experience",
 > certification = A+C) was confirmed directly by the founder. The sharpened
 > wording below is AI-drafted from that direction and is the working lock —

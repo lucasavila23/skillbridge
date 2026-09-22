@@ -3,6 +3,23 @@
 **SkillBridge — Empathize & Define output. v1, locked 2026-09-08.**
 Working notes, research and sources: `../opportunities.md`.
 
+## Evidence review — 2026-09-22
+
+The v1 framing below is retained as the venture proposal. Its claims about
+students' networks, employers' deciding signals and market uniqueness have not
+been established by the new interviews.
+
+[Four teammate-reported accounts](validation/interviews-2026-09-22.md) provide
+partial grounding: two IE students describe difficulty presenting project
+experience in internship applications; Baya's owner describes a past menu-update
+need; Nolita's manager reports no current project and little reason to outsource.
+The supported problem is narrower than universal demand or proven hiring impact.
+
+The [current JTBD](jtbd.md) therefore uses requests for project examples as its
+trigger. Business recruitment should confirm a current unresolved task and a
+reason to outsource. Sustained student commitment, client-accepted delivery and
+paid business demand remain unproven; see [findings](validation/findings-2026-09-22.md).
+
 ## Business idea (one line)
 An open platform where teams of tech students take on small, real, **paid**
 "campaigns" for small businesses and come away with a **verified record of shipped
@@ -59,8 +76,10 @@ have.
 precise USER / NEED / INSIGHT / HMW sentences above.
 
 ## Open gaps
-- No primary-interview evidence yet — founder's own account + market statistics
-  only. Recruit 5+ peers → `recruitment.md`.
+- Four teammate-reported interview records are now available: two students and
+  two businesses. Exact individual dates, original materials and behavioural
+  follow-through remain open. See [recruitment](recruitment.md); the planned
+  5+ student interviews and real delivery/payment tests are not complete.
 - Exact assignment deadlines / rubric not yet pinned (grill Q5, deferred).
 
 ## Supporting evidence (headline figures)

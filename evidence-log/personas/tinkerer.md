@@ -1,14 +1,16 @@
 # Persona: The Tinkerer
 
-**Version:** 0.2 — 2026-09-17
+**Version:** 0.3 — 2026-09-22
 
-**Grounding status:** Hypothesis-heavy
+**Grounding status:** Partial participant-reported grounding; broader pattern and client delivery unvalidated.
 
 **Use:** Research rehearsal and planning real-user validation.
 
-Version 0.2 incorporates the user's JTBD clarifications about the proposed
-trigger and money incentive. These refine the working hypotheses; no new
-real-user evidence has been supplied.
+Version 0.3 incorporates UV-S01 from the teammate-reported interviews received
+on 2026-09-22. The user identifies Student 1 as an IE University student and
+dates the interviews to September 15–20; the individual date and original
+source material are unspecified. This is a reported account, not an observed
+project or a verified transcript.
 
 This is one bounded behavioural hypothesis about a tech student seeking
 experience. It does not represent a verified individual or all tech students.
@@ -18,46 +20,47 @@ this persona.
 ## Target-user profile contribution
 
 - **Context, frequency and trigger:** A tech student applying for internships or
-  jobs, or considering projects proposed by businesses. The proposed trigger is
-  reading an internship or job description explicitly requiring real-world
-  project experience. Frequency and an actual episode remain undocumented.
-- **Progress sought:** Gain practical experience, with earning money as an
-  additional proposed incentive. Whether these motivations sustain commitment
-  is untested.
-- **Most relevant current behaviour:** The working hypothesis is that the
-  student gains experience through personal projects and coursework. No recent
-  real episode, sequence of actions, time invested or outcome is documented.
-- **Current alternative:** Personal projects and coursework — working assumption.
-- **Main friction or consequence:** These projects may lack technical depth and
-  practical relevance to business needs. The frequency of this limitation and
-  its actual consequences for a student remain unknown.
-- **Tool or service behaviour:** Likely to adapt existing tools and customise
-  their own setup. This does not establish their ability to deliver client work.
+  jobs, or considering business projects. UV-S01 Q1 reports an application
+  requesting GitHub and project examples, prompting uncertainty about whether
+  coursework counted. An explicit experience requirement in the listing,
+  frequency and the next action taken remain unconfirmed.
+- **Progress sought:** A useful portfolio project (UV-S01 Q5). The same student
+  reports choosing paid tutoring over a competition when money was needed;
+  this does not establish pay as the main motive for coding or sustained work.
+- **Most relevant current behaviour:** Built a study planner with two classmates,
+  contributed the frontend and needed database-integration help. Weekend work
+  paused during exams; core features were completed but calendar integration was
+  dropped (UV-S01 Q2–Q3). These are reports, not inspected work traces.
+- **Current alternative:** Coursework and collaborative student projects are
+  reported; a solo-project default or switching sequence is not established.
+- **Main friction or consequence:** Uncertainty about presenting coursework as
+  experience, plus a need for integration help. Insufficient business relevance
+  and adverse hiring consequences remain hypotheses.
+- **Tool or service behaviour:** UV-S01 Q2 reports adapting a component library.
+  A general preference for tool customisation and competence to deliver client
+  work are not established by that single example.
 - **Trust and control pattern:** Comfortable letting tools access relevant
   project files and assist with building, debugging and organising work, while
   retaining the ability to inspect, modify or override outputs. Wants control
   over technical decisions and approval of submissions or publication on their
   behalf. This is a working assumption, not a demonstrated permission boundary.
-- **Verification and recovery pattern:** Checks whether a result works as
-  intended, inspects the parts they need to understand and considers practical
-  usefulness. Investigates problems, adapts or patches the solution and tests
-  again. Tolerates rough edges when they can fix them. These are hypothetical
-  behaviours; no actual recovery episode has been supplied.
+- **Verification and recovery pattern:** UV-S01 Q4 reports professor/friend
+  review and simplifying task creation after feedback about too many steps.
+  Inspecting tool outputs, independently debugging and tolerating rough edges
+  remain working assumptions; they were not demonstrated by this account.
 - **Failure threshold:** Would stop relying on an approach when repeated failures
   cost more time than it saves, or when they cannot inspect or modify the result.
   This is a hypothetical threshold, not an observed abandonment event.
-- **Evidence anchors:** No grounded real-user anchors for this persona have been
-  documented. The source is the persona workshop conversation on 2026-09-17,
-  containing descriptions and working hypotheses rather than interviews,
-  observations or verified project records.
-- **Working assumptions:** Experience and earning money may motivate
-  participation; personal projects and coursework are the current alternatives;
-  these may lack business relevance or technical depth; the student adapts tools
-  and values control; the proposed trust, verification, recovery and failure
-  patterns apply.
-- **Known unknowns:** A recent real student episode and its actual trigger;
-  frequency; actual consequences of the current approach; sustained participation;
-  demonstrated capability and business acceptance of the resulting work.
+- **Evidence anchors:** [UV-S01 Q1–Q6](../validation/interviews-2026-09-22.md#uv-s01),
+  supplied as a teammate's notes. The earlier workshop remains the source of
+  untested tool-control and failure-threshold hypotheses.
+- **Working assumptions:** The reported behaviour recurs across situations;
+  portfolio value and pay motivate client-project participation; the proposed
+  trust, technical-control and failure patterns apply. None is established as
+  a stable preference or a cause of sustained commitment.
+- **Known unknowns:** Application-to-project chronology; actual contributions
+  over time; frequency; measured availability; independent technical capability;
+  needed support; client acceptance and hiring outcomes.
 - **Decision this Persona may affect:** Whether SkillBridge can rely on students
   to sustain participation and deliver work a business accepts using
   coursework-level skills with light scaffolding. The decision requires real
@@ -67,23 +70,33 @@ this persona.
 
 ### GROUNDED
 
-No real-user evidence anchors support this particular behavioural pattern yet.
-The founder account and desk research in the broader opportunity material do
-not establish this student's tool use, motivation or delivery behaviour.
+The following grounding is **participant-reported**, with source limitations
+recorded in UV-S01; it is not independent observation:
+
+- Q1: application requested GitHub and project examples.
+- Q2–Q4: component-library adaptation, database help, an exam pause, reduced
+  scope, and revision following professor/friend feedback.
+- Q5: portfolio motivation and a past choice of paid tutoring over a competition.
+- Q6: stated requirements for technical clarity, team/support information,
+  portfolio permission and a finite commitment. These are intentions, not an
+  accepted offer or completed client project.
+
+Exam interruption and reduced scope challenge any claim that an interest in
+experience guarantees dependable availability. Neither student enthusiasm nor
+tool adaptation proves business-ready delivery.
 
 ### WORKING ASSUMPTIONS
 
-All substantive behavioural descriptions above are working assumptions from
-the exercise. The label is a chosen description, not a finding. Any first-person
-language used during rehearsal is a synthetic response, not an interview quote.
-Seeking experience does not establish sustained commitment, and customising
-tools does not establish client-delivery competence.
+The tool-permission boundaries, technical-control preferences, failure
+threshold and generalisation beyond this episode remain workshop assumptions.
+The label is a research hypothesis, not the participant's confirmed identity.
+First-person rehearsal language remains synthetic, not an interview quote.
 
 ### UNKNOWN
 
-The most important gap is a documented recent student episode linking their
-motivation, actual participation and resulting work. No commitment rate, hours
-threshold, completion rate or client acceptance result has been established.
+The reported project supplies an initial episode, but no work trace links
+motivation, actual hours and acceptable business output. No commitment rate,
+hours threshold, campaign completion rate or client acceptance result is known.
 
 ## Assumptions this persona should help challenge
 
@@ -120,7 +133,11 @@ new venture-wide risk ranking or a completed student-supply test.
 - Persona workshop conversation, 2026-09-17, Questions 1–8: working hypotheses
   and the user's selected label and assumptions; no real-user episode supplied.
 - Subsequent JTBD conversation, 2026-09-17: user-supplied trigger and money
-  incentive, retained as hypotheses. See the [confirmed JTBD hypothesis](../jtbd.md).
+  incentive, retained as hypotheses where not supported by the new notes.
+- [UV-S01 interview record](../validation/interviews-2026-09-22.md#uv-s01)
+  and [cross-interview findings](../validation/findings-2026-09-22.md).
+- [Current JTBD hypothesis](../jtbd.md): revised application trigger and
+  claim-level evidence status.
 - [Opportunity](../opportunity.md): venture context, not validation of this persona.
 - [Goals](../goals.md): team intent, not customer evidence.
 - [Assumptions](../assumptions.md): the two selected student-side risks.
