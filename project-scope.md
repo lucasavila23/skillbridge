@@ -135,6 +135,11 @@ required before running the live experiment.
 
 ## 7. Problem framing — LOCKED v1 (2026-09-08)
 
+**Competitive qualification, 2026-10-01:** The “no existing option combines”
+claim in this historical framing is unproven. Use the current
+[competitive alternatives analysis](evidence-log/market-research/competitive-analysis.md)
+for feature overlap, local-access gaps and proposed switching tests.
+
 Full version + research + cross-review handoff: `opportunities.md` /
 `evidence-log/opportunity.md`. Founder-confirmed direction; sentence wording
 AI-drafted and open to adjustment.
@@ -197,6 +202,20 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 ---
 
 ## Session notes
+
+### 2026-10-01 — Competitive alternatives
+- Added a detailed [five-alternative table](evidence-log/market-research/competitive-analysis.md)
+  using the user's screenshot structure: Riipen, conventional internships via a
+  local career-service route, Forage, coursework/peer-project portfolios, and
+  postponing new experience-building.
+- Checked official provider descriptions and traced observed behaviour to the
+  existing interview notes. Local programme access, independent reviews,
+  actual switching and hiring benefits remain explicit gaps.
+- Qualified the older uniqueness claim: published competitor features overlap
+  with the proposed team, employer-feedback and certificate model. Access,
+  timing and support are proposed differentiation tests, not validated advantages.
+- No new outreach or product commitments were made. The market estimate's A4
+  and the existing business experiment remain unvalidated and unchanged.
 
 ### 2026-10-01 — Market research: piano-tuners estimate
 - Pulled the latest `main` and created the user-requested `market-research`

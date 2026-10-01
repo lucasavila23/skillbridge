@@ -54,6 +54,8 @@ number. The current business deposit experiment remains a separate requirement.
 
 ## Files
 
+- [Competitive alternatives](competitive-analysis.md): five representative
+  alternatives, their appeal, evidence gaps and concrete switching tests.
 - [Analysis](analysis.md): why each assumption was chosen, sensitivity, evidence
   limits and the proposed validation steps.
 - [Sources](sources.md): provenance, university rows, coverage and reproduction.
