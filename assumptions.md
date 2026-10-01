@@ -5,6 +5,14 @@
 framing + desk research. Clean deliverable mirrored in
 `evidence-log/assumptions.md`.
 
+**Evidence update, 2026-10-01:** the original brainstorm below is historical.
+September interviews and actual pilot results now provide stronger student
+problem and reported delivery/evaluation evidence. Use the
+[current assumption status](evidence-log/assumptions.md#evidence-update--2026-10-01)
+and [pilot assessment](evidence-log/market-research/pilot-assessment-2026-10-01.md).
+Business signed-and-paid conversion, the Madrid estimate and hiring impact
+remain unvalidated; older “no primary interviews” notes below are superseded.
+
 Input carried in: USER / NEED / INSIGHT / HOW MIGHT WE from `opportunities.md`.
 
 ---

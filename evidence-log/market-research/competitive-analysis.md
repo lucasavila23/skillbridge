@@ -2,9 +2,10 @@
 
 **Research date:** 2026-10-01 · **Scope:** Madrid-region tech undergraduates,
 primarily years 2–4, seeking their first credible examples of practical work.
-**Status:** Desk research plus existing interview evidence; switching remains
-untested. This is a comparison of five representative alternatives, not a
-complete competitor census or a ranking by market share.
+**Status:** Desk research, September interviews and actual pilot findings.
+Campaign commitments and displacement of some personal projects are now
+reported; comparative switching rates remain unmeasured. This compares five
+representative alternatives, not a competitor census or market-share ranking.
 
 ## The choice we are analysing
 
@@ -15,37 +16,52 @@ are possible means of making progress; they are not requirements for an
 alternative to compete for that student's time.
 
 SkillBridge's proposed offer is a scoped, paid small-business campaign delivered
-by a student team, with a record of work and business feedback. This remains a
-prototype/concierge proposal: reliable project access, delivery support, student
-earnings, time to match and recruiter recognition have not been demonstrated.
-Student-facing fees and the allocation of project payments are not established.
-The prototype's illustrative quote is not a validated price.
+by a student team, with a record of work and business feedback. The actual
+pilot report [L3] describes concrete commitments, student payment, accepted
+delivery and clearer recruiter evaluation. This is early reported feasibility,
+with underlying counts, artifacts, costs and budgets missing. Reliable access
+at scale, commercial conversion and hiring impact remain unproven. Actual
+payment amounts/allocation are unspecified; the prototype quote is illustrative.
+See the [pilot assessment](pilot-assessment-2026-10-01.md) for evidence limits.
 
 **Evidence labels:** **Published** means a provider describes the offer; it is
 not independent proof of quality or hiring impact. **Reported** means our
-teammate-supplied interview notes. **Hypothesis** identifies our interpretation
+teammate-supplied interview notes or user-supplied actual pilot report [L3],
+as identified in each cell; underlying records have not been independently
+checked. **Hypothesis** identifies our interpretation
 of a student's choice. **Unknown** remains an explicit research gap.
 
 ## Detailed alternatives table
 
-The five columns follow the supplied example. Reasons to choose an alternative
-are hypotheses unless tied to a reported episode. Each row includes its
-strengths as well as the possible opening for SkillBridge.
+The six columns follow the updated screenshot, including a dedicated
+**Target-user behaviour evidence** column. Reasons to choose an alternative
+remain hypotheses unless tied to a reported episode. The
+[coverage audit and measurement plan](validation-audit.md) defines how to test
+setup friction, price, fit, traceability, integration, repeatability, quality
+and support burden for SkillBridge.
 
-| Alternative | Simple test | Compare on | Evidence to collect | So what? Decision / action |
-|---|---|---|---|---|
-| **CA1 — Direct competitor: Riipen employer projects**<br>Closest functional benchmark; a Madrid student's access is **unknown**. | **Same user, essentially the same job? Yes:** learners complete employer projects to gain demonstrable experience. An educator/programme can organise access even though the learner's job overlaps with SkillBridge. **Why choose it:** an established institutional route may combine coursework, guidance and career evidence. | **Features/trust — Published:** individual or team projects, company skill ratings and portfolio reviews [R1]; completion certificates with project/company details and LinkedIn sharing [R3]. **Price/pay:** Riipen advertises free student access; course projects are typically unpaid, while some programmes pay [R2]. **Switching:** an existing course place, academic credit and familiar supervision could outweigh SkillBridge's proposed pay; changing routes consumes time and creates delivery risk. Exact workload and access depend on the programme. | **Collected:** learner guide, fee/payment description, certificate documentation and access instructions [R1], [R2], [R3], [R4], [R5]. **Unknown:** an actual eligible Madrid route, available software/data briefs, wait time, support quality, portfolio permissions and satisfaction among local users. Observe a consenting student's project-access walkthrough and collect a completed artifact, recent user accounts and actual terms. FuturePath requires an eligible Canadian institution [R4]; its offer cannot be assumed available to our Madrid segment. | **Differentiate only after checking access.** Test whether a suitable local paid project with a predictable start and named technical support solves a problem their existing route does not. If Riipen is readily available and adequate, investigate complementing it or narrowing the segment. A certificate, team or employer review alone is insufficient differentiation. **No access is an acquisition opening, not evidence that users prefer SkillBridge.** |
-| **CA2 — Indirect substitute: apply for a conventional internship, using IE Talent & Careers as a local route** | **Same progress, different route? Yes:** obtain a role in which to build experience, rather than complete a campaign first. **Why choose it:** a student may prefer a direct route to employment, supervision and a recognisable employer over an intermediate project. Our students report internship applications; use of IE's career service is not established. | **Outcome/trust:** actual responsibilities and references depend on the placement; neither an application nor a career-service appointment itself supplies delivered work. **Effort:** preparation, applications, interviews and waiting. **Cost/pay:** role-specific compensation, hours and conditions; no standard stipend or separate service fee was established in this review. **Habit:** continue the route already being pursued. **Published local access:** IE provides undergraduate career resources from year one [I1], and an IE-community portal with advising/resources and a job board [I2]. | **Collected:** IE's service descriptions [I1], [I2] and the two reported internship-application episodes [L1]. **Unknown:** current suitable vacancies, eligibility, selection rates, time spent, time to offer, pay and actual tasks. With consent, inspect recent application histories and live listings; interview students who accepted, declined and failed to secure placements. Do not infer rejection or failure from the current notes. | **Complement the internship search.** Test SkillBridge as a bounded way to obtain an interview example while continuing applications. Compare its time demand with real search activity. If a student already has a suitable placement, the campaign may be unnecessary. Confirm whether completing a campaign actually improves the evidence a recruiter can assess; do not promise better hiring odds. |
-| **CA3 — Indirect substitute: Forage job simulations** | **Same progress, different route? Yes:** practise work-like tasks and build material to discuss in applications through simulation. **Why choose it:** a student may value immediate access, familiar employer names and a small, flexible commitment more than live client responsibility. | **Outcome — Published:** practice tasks, model answers and a completion certificate; free, open-access, self-paced participation [F1]. A current tech catalogue includes short software/cloud activities and says no application or experience is required [F2]. **Cost/effort:** free access and bounded practice; listed durations are provider estimates. **Trust:** employer association may reassure students, but recruiter preference is unmeasured. **Switching:** SkillBridge adds coordination and client obligations. Simulation completion is different evidence from accepted work for a paying client; whether the difference matters is untested. | **Collected:** public offer and tech catalogue [F1], [F2]. **Unknown:** use among our segment, completion/dropout, actual time, what students can show, and recruiter evaluation. Observe a student completing a relevant simulation and compare its actual output with a campaign artifact of similar technical difficulty. Collect recent participant accounts, including non-completers. No independent review sample or completed simulation was inspected in this session. | **Compete on the added value of real responsibility; consider complementing preparation.** A badge and a claim of CV value will not justify extra effort by themselves. Offer a concrete campaign alongside a relevant simulation and the option to do neither. Test whether client acceptance, pay and specific support change the student's choice enough to produce a commitment. |
-| **CA4 — Manual workaround: coursework/peer projects assembled into a portfolio**<br>Examples already reported: study planner and Python dashboard. | **User assembles it themselves? Yes:** reuse or improve a project, coordinate peers, arrange help, demonstrate it and explain one's contribution. **Reported:** both students have collaborative coursework examples [L1]. Publishing a polished portfolio after the application trigger has **not** been established. **Why choose it:** keep existing work, familiar teammates, topic control and academic fit. | **Time/effort:** scope, coordination, integration, deployment, feedback and explaining individual contributions. **Error risk:** an incomplete demo or unclear ownership can weaken the example; actual employer judgement is unknown. **Ownership:** more control is plausible, but teammate/course permissions must be checked. **Cost/pay:** tool/hosting expenses and any income vary; no standard price. **Reported:** technical help, an exam pause, reduced scope and deadline-concentrated work [L1]. These are real frictions without proving that coursework is inadequate. | **Collected:** two project accounts and their reported limits [L1], [L2]. **Missing:** repositories, demos, messages, version history, time logs and recruiter responses. Walk through one recent project from start to interview use; distinguish productive learning time from coordination/rework. Check what was actually shipped, who used it, each student's contribution and what can be shared. Quantify the effort of improving existing work before proposing replacement. | **Remove the costly steps with minimal habit change.** Test an offer that reuses the student's skills and familiar tools while providing a client brief, bounded scope, support and attribution of individual work. If polishing an existing project supplies equally useful evidence with less effort, treat that as a valid alternative. Do not require a new platform workflow unless its benefit is observed. |
-| **CA5 — Doing nothing new: keep applying with current work, or postpone experience-building until after exams** | **Delay or accept the pain? Yes, as a hypothesis:** no new experience-building commitment now, even if the student continues coursework, applications or paid work. **Why choose it:** protect grades, income and scarce time; avoid taking on uncertain client obligations. This is not evidence of laziness or lack of ambition. | **Urgency:** an actual application deadline or request for a project example. **Pain cost:** lost opportunities are possible but have not been attributed to missing experience. **Risk tolerance:** uncertainty about team, skills, support, timing and later fixes. **Immediate cost:** no new project hours; opportunity cost remains unknown. **Reported clues:** exam constraints, preference for manageable assignments and one student's choice of paid tutoring over a competition [L1]. None establishes the frequency of deliberate postponement. | **Collected:** timing and trade-off reports [L1]. **Missing:** a recent decision to defer, the date/reason, what the student did instead and what would have changed the decision. Follow a specific application trigger through the next action; record genuine acceptances, refusals, delays and non-responses. Ask for actual availability and competing commitments rather than whether experience is generally desirable. | **Find the trigger before expanding recruitment.** Compare responses from students with an immediate need and those without one, recording workload and calendar differences. Allow “not now” as a real choice. Test defined dates, workload and an end to support obligations. If suitably timed real offers still lose to postponement, revisit urgency and the commitment assumption in the market estimate. |
+| Alternative | Simple test | Target-user behaviour evidence | Compare on | Evidence so far and gaps | So what? Decision / action |
+|---|---|---|---|---|---|
+| **CA1 — Direct competitor: Riipen employer projects**<br>Closest functional benchmark; a Madrid student's access is **unknown**. | **Same user, essentially the same job? Yes:** learners complete employer projects to gain demonstrable experience. An educator/programme can organise access even though the learner's job overlaps with SkillBridge. **Why choose it:** an established institutional route may combine coursework, guidance and career evidence. | **HYPOTHESIS — no target-user use evidenced.** No supplied student reports using, applying to, abandoning or rejecting Riipen. [R1]–[R5] describe the provider, not our students. Madrid access and a concrete choice against SkillBridge are unknown. | **Features/trust — Published:** individual or team projects, company skill ratings and portfolio reviews [R1]; completion certificates with project/company details and LinkedIn sharing [R3]. **Price/pay:** Riipen advertises free student access; course projects are typically unpaid, while some programmes pay [R2]. **Switching:** an existing course place, academic credit and familiar supervision could outweigh SkillBridge's proposed pay; changing routes consumes time and creates delivery risk. Exact workload and access depend on the programme. | **Collected:** learner guide, fee/payment description, certificate documentation and access instructions [R1], [R2], [R3], [R4], [R5]. **Unknown:** an actual eligible Madrid route, available software/data briefs, wait time, support quality, portfolio permissions and satisfaction among local users. Observe a consenting student's project-access walkthrough and collect a completed artifact, recent user accounts and actual terms. FuturePath requires an eligible Canadian institution [R4]; its offer cannot be assumed available to our Madrid segment. | **Differentiate only after checking access.** Test whether a suitable local paid project with a predictable start and named technical support solves a problem their existing route does not. If Riipen is readily available and adequate, investigate complementing it or narrowing the segment. A certificate, team or employer review alone is insufficient differentiation. **No access is an acquisition opening, not evidence that users prefer SkillBridge.** |
+| **CA2 — Indirect substitute: apply for a conventional internship, using IE Talent & Careers as a local route** | **Same progress, different route? Yes:** obtain a role in which to build experience, rather than complete a campaign first. **Why choose it:** a student may prefer a direct route to employment, supervision and a recognisable employer over an intermediate project. Our students report internship applications; use of IE's career service is not established. | **REPORTED BEHAVIOUR.** September UV-S01/S02 Q1 describe application requests for projects/delivered work [L1]. Pilot survey: 10/11 applied in the last year; 1 received an offer. Pilot students reportedly continued applications while accepting campaigns [L3] (P005, P026). **UNKNOWN:** use of IE careers, cohort overlap and campaign conversion rate. | **Outcome/trust:** actual responsibilities and references depend on the placement; neither an application nor a career-service appointment itself supplies delivered work. **Effort:** preparation, applications, interviews and waiting. **Cost/pay:** role-specific compensation, hours and conditions; no standard stipend or separate service fee was established in this review. **Habit:** continue the route already being pursued. **Published local access:** IE provides undergraduate career resources from year one [I1], and an IE-community portal with advising/resources and a job board [I2]. | **Collected:** IE service descriptions [I1], [I2], two September episodes [L1], and pilot application outcomes/parallel participation [L3]. **Gaps:** channel, suitable vacancies, individual eligibility, application effort, placement pay/tasks and underlying records. The 1/10 offer fraction among survey applicants is a sample description, not a regional selection rate or evidence that missing experience caused rejection. | **Complement the internship search.** Test SkillBridge as a bounded way to obtain an interview example while continuing applications. Compare its time demand with real search activity. If a student already has a suitable placement, the campaign may be unnecessary. Confirm whether completing a campaign actually improves the evidence a recruiter can assess; do not promise better hiring odds. |
+| **CA3 — Indirect substitute: Forage job simulations** | **Same progress, different route? Yes:** practise work-like tasks and build material to discuss in applications through simulation. **Why choose it:** a student may value immediate access, familiar employer names and a small, flexible commitment more than live client responsibility. | **HYPOTHESIS — no target-user use evidenced.** No supplied account shows a Forage signup, attempted task, completion, rejection or repeated use. Published features [F1], [F2] establish the offer only. Brand preference, actual effort and substitution for client work are untested. | **Outcome — Published:** practice tasks, model answers and a completion certificate; free, open-access, self-paced participation [F1]. A current tech catalogue includes short software/cloud activities and says no application or experience is required [F2]. **Cost/effort:** free access and bounded practice; listed durations are provider estimates. **Trust:** employer association may reassure students, but recruiter preference is unmeasured. **Switching:** SkillBridge adds coordination and client obligations. Simulation completion is different evidence from accepted work for a paying client; whether the difference matters is untested. | **Collected:** public offer and tech catalogue [F1], [F2]. **Unknown:** use among our segment, completion/dropout, actual time, what students can show, and recruiter evaluation. Observe a student completing a relevant simulation and compare its actual output with a campaign artifact of similar technical difficulty. Collect recent participant accounts, including non-completers. No independent review sample or completed simulation was inspected in this session. | **Compete on the added value of real responsibility; consider complementing preparation.** A badge and a claim of CV value will not justify extra effort by themselves. Offer a concrete campaign alongside a relevant simulation and the option to do neither. Test whether client acceptance, pay and specific support change the student's choice enough to produce a commitment. |
+| **CA4 — Manual workaround: coursework/peer projects assembled into a portfolio**<br>Examples already reported: study planner and Python dashboard. | **User assembles it themselves? Yes:** reuse/improve work, coordinate peers, arrange help and explain contributions. **Reported choice:** pilot interviewees mostly chose coursework for immediate access; some later postponed personal projects for campaigns [L3] (P014, P026), with counts unspecified. **Why choose it:** existing work, familiar tools/peers, control and academic fit. | **REPORTED BEHAVIOUR.** September study-planner/dashboard episodes describe help, pauses and deadline pressure [L1] (Q2–Q4). Pilot survey: 6/11 latest projects were coursework and 2/11 unused personal projects. Interviews describe client-search/deployment/attribution obstacles and some personal-project displacement by accepted campaigns [L3] (P009, P014–P017, P026). No regional preference share can be inferred. | **Time/effort:** client search, scoping, coordination, deployment and attribution. **Quality/ownership:** inspect what shipped and who may show it. Pilot recruiters reportedly found campaign evidence clearer than existing work [L3] (P036); this supports evaluation value, not hiring uplift. **Cost/pay:** pilot student payment is reported, but amounts and comparative total effort are missing. Familiar tools and peers remain valued [L3] (P017). | **Collected:** September accounts [L1], [L2], pilot choices and reported acceptance/recruiter comparison [L3] (P014–P017, T032, P036). **Missing:** counts, repositories/demos, version history, time/payment logs, permissions and paired recruiter ratings. Inspect the existing project and campaign record together; quantify additional effort and retain ties/negative comparisons. | **Build on the reported switching reason.** Supply a bounded client brief, named help and attributable accepted work while retaining familiar tools. Substantiate the pilot records and compare incremental effort. If polishing existing work gives equally useful evidence sooner, retain it as a valid alternative. No unique advantage or superiority over every route is established. |
+| **CA5 — Doing nothing new: keep applying with current work, or postpone experience-building until after exams** | **Delay or accept the pain? Yes, as a hypothesis:** no new experience-building commitment now, even if the student continues coursework, applications or paid work. **Why choose it:** protect grades, income and scarce time; avoid taking on uncertain client obligations. This is not evidence of laziness or lack of ambition. | **REPORTED CLUES + STATED INTENTION.** September exam pauses, tutoring trade-off and finals constraints [L1] remain relevant. In the pilot survey, 3/11 said they would do nothing now [L3] (P025); this is a stated next action, not an observed refusal or delay rate. Reasons, subsequent behaviour and target-segment fit need confirmation. | **Urgency:** an actual application deadline or request for a project example. **Pain cost:** lost opportunities are possible but have not been attributed to missing experience. **Risk tolerance:** uncertainty about team, skills, support, timing and later fixes. **Immediate cost:** no new project hours; opportunity cost remains unknown. **Reported clues:** exam constraints, preference for manageable assignments and one student's choice of paid tutoring over a competition [L1]. None establishes the frequency of deliberate postponement. | **Collected:** September timing/trade-offs [L1] and the pilot no-action response [L3] (P025). **Missing:** recent actual deferral episodes, dates/reasons, actions instead and follow-through after suitable offers. Keep acceptances, declines, delays and non-responses in the appropriate offer log; do not code a survey answer as completed behaviour. | **Find the trigger before expanding recruitment.** Compare responses from students with an immediate need and those without one, recording workload and calendar differences. Allow “not now” as a real choice. Test defined dates, workload and an end to support obligations. If suitably timed real offers still lose to postponement, revisit urgency and the commitment assumption in the market estimate. |
+
+**Target-segment fit differs by source:** the September IE accounts lack full
+screening. The pilot describes Madrid third-year software students without a
+relevant internship/referral contact [L3] (P003). Its separate 11-person survey
+did not collect city/year [L3] (P041); its full segment fit and overlap with pilot
+participants are unknown. Obtain anonymous cohort/screening records before
+using any rate in the market model.
 
 **Local availability matters:** CA2 is an institution-specific route, not a
 service available to all Madrid students. CA1 is a direct functional benchmark
 whose local access remains unverified. CA3 is publicly advertised as open access,
 but a Madrid signup and completion were not tested. CA4 has the strongest
-reported behavioural grounding in our current evidence; CA5 remains a proposed
-choice pattern. None of this establishes relative market shares.
+reported behavioural grounding, now including reported campaign uptake that
+displaced some personal projects; CA5 adds stated no-action preferences but no
+observed refusal rate. None establishes relative market shares.
 
 ## What the comparison changes
 
@@ -57,9 +73,9 @@ choice pattern. None of this establishes relative market shares.
    Madrid segment remains unanswered. Avoid “the only platform” positioning.
 2. **Test access, timing and support as the possible advantage.** A plausible
    offer is: a first suitable paid client project, a bounded commitment, named
-   help and permission to show one's contribution. This is a proposition to
-   deliver and test, not a benefit SkillBridge has already proven or a feature
-   bundle known to be unique.
+   help and permission to show one's contribution. The pilot reports these
+   benefits in practice [L3]; recover the records and test recurrence under real
+   business funding. The feature bundle is not known to be unique.
 3. **Treat existing work and postponement as serious competition.** The current
    notes give more direct evidence about coursework than about platform use.
    The proposed benefit has to justify extra time and responsibility. Payment
@@ -76,8 +92,9 @@ programme should not be presented as a choice the student could make today.
 
 ## Concrete switching tests and decisions
 
-These are proposed research actions, not completed tests or new precommitted
-success thresholds. For each participant, first reconstruct a recent choice
+These are comparison protocols, not new precommitted success thresholds. The
+pilot reports actions relevant to CA2 and CA4 [L3], but does not establish that
+these exact comparative protocols were run or supply switching rates. For each participant, first reconstruct a recent choice
 without showing SkillBridge. Then present actual available options with their
 real dates, hours, pay/cost, support, eligibility and output. Rotate presentation
 order, permit combinations of options, and include keeping the current approach.
@@ -115,6 +132,9 @@ existing staff/friends and maintaining the current setup appear in UV-B01 and
 UV-B02 [L1]. Those accounts do not establish current paid project supply. Keep
 the [business charter-and-deposit experiment](../experiment-card.md) separate;
 student preference cannot validate a business's willingness to fund a campaign.
+The pilot adds business interest, accepted delivery and student payment, but
+reports unsigned charters [L3] (P030). Reconcile the funding source and original
+pitch/deadline log before scoring the commercial test.
 
 ## Coverage and remaining gaps
 
@@ -132,12 +152,12 @@ US-oriented [P2]. That is insufficient evidence of a generally available Madrid
 route, and individual eligibility was not assessed. It is not counted as a
 sixth alternative in this first table or labelled globally unavailable.
 
-**Not collected in this session:** local competitor-user interviews, an
-independent review sample, logged-in demos, live vacancy/project audits,
-recruiter comparisons, offer acceptances or outcomes. Provider descriptions
-support the stated product features, not satisfaction, employability uplift or
-actual switching. The existing interviews are teammate-reported, with missing
-original transcripts and artifacts. Synthetic persona conversations are excluded.
+**Still missing:** local named-competitor usage evidence, independent review
+samples, logged-in demos, live vacancy/project audits and underlying pilot
+records. Offer acceptances, delivery and recruiter comparisons are now reported
+in [L3], but their counts and source artifacts remain missing. Provider
+descriptions establish features only. Survey willingness is distinct from
+reported actions, and synthetic persona conversations are excluded.
 
 ## Sources
 
@@ -160,6 +180,7 @@ No provider's promotional hiring-uplift statistic is used in this analysis.
 | **P2** | [Parker Dewey: Big Shoulders Fund programme eligibility][P2] — undated | Programme-specific eligibility context; not a comprehensive international access audit. |
 | **L1** | [September interview notes][L1] — received 2026-09-22 | UV-S01/S02 Q1–Q6 and UV-B01/B02; reported past events and stated preferences remain distinct. |
 | **L2** | [Interview findings and evidence limits][L2] — 2026-09-22 | Interpretation and counterevidence; not additional participants or independent validation. |
+| **L3** | [Actual pilot findings transcription][L3] — received 2026-10-01 | User-supplied report; 11-person survey plus reported pilot actions/delivery/recruiter feedback. Other counts and cohort overlap unspecified. See [assessment](pilot-assessment-2026-10-01.md); original DOCX preserved. |
 
 The attached competitive-alternatives screenshot supplied the analytical
 structure. It did not supply facts about any competitor or evidence of user
@@ -179,3 +200,4 @@ product changes.
 [P2]: https://info.parkerdewey.com/bigshouldersfund
 [L1]: ../validation/interviews-2026-09-22.md
 [L2]: ../validation/findings-2026-09-22.md
+[L3]: ../validation/pilot-findings-source-2026-10-01.md

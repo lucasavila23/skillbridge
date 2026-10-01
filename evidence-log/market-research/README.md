@@ -1,7 +1,22 @@
 # SkillBridge market research — the piano-tuners exercise
 
 **Date:** 2026-10-01 · **Geography:** Madrid region, confirmed by the user.
-**Status:** First estimate to challenge; participation has not been measured.
+**Status:** Pilot results reviewed; the regional participation rate remains
+unmeasured and all four model rates remain assumptions.
+
+## Latest validation update
+
+The [actual pilot assessment](pilot-assessment-2026-10-01.md) strengthens the
+case for the student problem and reports commitments, accepted client work and
+clearer contribution evidence for recruiters. In the 11-person survey, 9 selected
+difficulty showing experience beyond coursework and 9 selected explaining their
+contribution. The survey's full Madrid-segment fit is unconfirmed.
+
+The report does **not** validate the 20% readiness rate or the business
+charter-and-deposit threshold. Keep the estimate below as a hypothesis. The
+assessment separates reported outcomes from stated intentions, flags a survey
+selection-count inconsistency, and specifies the records needed to resolve the
+remaining questions.
 
 ## The one number
 
@@ -54,6 +69,13 @@ number. The current business deposit experiment remains a separate requirement.
 
 ## Files
 
+- [Pilot assessment](pilot-assessment-2026-10-01.md): findings, model/competitor
+  updates, evidence limits and prioritised next actions, linked to the preserved
+  source report and transcription.
+- [Coverage audit and next validation work](validation-audit.md): checks all six
+  comparison fields, defines measurable criteria and prioritises the missing tests.
+- [Blank validation record](validation-record-template.md): eligibility screen,
+  behaviour interview, evidence ledger and offer/delivery measurement fields.
 - [Competitive alternatives](competitive-analysis.md): five representative
   alternatives, their appeal, evidence gaps and concrete switching tests.
 - [Analysis](analysis.md): why each assumption was chosen, sensitivity, evidence

@@ -144,6 +144,9 @@ here — install on demand, then move the entry up to "Active".
 
 ## Added this project
 
+- **2026-10-01 — documents** (bundled Codex skill, already available) — read and
+  inspect supplied Word findings using text extraction and page rendering.
+  Invoke the bundled `documents:documents` skill; no plugin installation needed.
 - **2026-09-08 — github MCP** (`github@claude-plugins-official`) — team project,
   repo now on GitHub; want structured PR/issue tooling. Auto-loads once its token
   env var is set (see local setup notes); `/mcp` to check. Promoted to Active.

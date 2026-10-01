@@ -7,6 +7,12 @@ year**. The unrounded model gives 1,950. This is a student-side opportunity
 estimate conditional on a suitable offer, not a forecast of the first year's
 customers. The [summary](README.md) contains the complete six-step calculation.
 
+**Pilot update, 2026-10-01:** the [actual results assessment](pilot-assessment-2026-10-01.md)
+records stronger problem evidence and reported student commitments, accepted
+delivery and recruiter evaluation value. None supplies a measured replacement
+for A1–A4. In particular, 4/11 students willing to review a brief is stated
+interest, not the readiness rate; actual offer and acceptance counts are missing.
+
 ## Scope and unit
 
 The [project scope](../../project-scope.md) identifies students as the primary
@@ -31,7 +37,7 @@ check before treating the anchor as an exact regional headcount.
 |---|---|---|---|
 | **A1: 10% relevant tech studies**; explore 5–15% | One in ten is a simple working guess for a narrower software/web/data segment within an all-subject undergraduate population. No measured local subject share supports 10%. | Counting all engineering as software would inflate it; excluding relevant data or interdisciplinary degrees could reduce it too far. A degree label also does not prove delivery skill. | Agree the included programme list, obtain matching enrolment counts, deduplicate dual degrees and divide by the same population used for the anchor. |
 | **A2: 75% in years 2–4**; explore 60–80% | Three of four years is the simple starting model for an evenly distributed four-year course. Equal cohorts and four-year duration are assumptions. | Dropout, repeat years, part-time study and longer or dual degrees alter the distribution. | Request year-of-study counts within the included programmes. Count years 2–4 directly rather than equating all non-first-years with the target. |
-| **A3: 50% match the experience gap**; explore 30–70% | Half is a deliberately broad placeholder for the joint condition of no relevant internship and no effective professional referral route. | Many later-year students may already have internships; some students without internships can still obtain referrals. Our two interviewees do not establish either prevalence. | Screen a broad sample of A2 students. Ask about completed/current relevant internships and a concrete contact able and willing to refer them to a relevant employer. Record both conditions per person. |
+| **A3: 50% match the experience gap**; explore 30–70% | Half is a deliberately broad placeholder for the joint condition of no relevant internship and no effective professional referral route. | Many later-year students may already have internships; some students without internships can still obtain referrals. The September interviews and selected pilot participants do not establish either prevalence. | Screen a broad sample of A2 students. Ask about completed/current relevant internships and a concrete contact able and willing to refer them to a relevant employer. Record both conditions per person. |
 | **A4: 20% ready to commit in a year**; explore 10–30% | One in five allows for competing coursework, other paid work, skill gaps, timing and alternatives. It is an unmeasured combined readiness-and-willingness rate under a suitable offer. | Interest may collapse when dates, pay, teammates or support are concrete. Offers at a different time or with different terms may get different uptake. | Make real offers to eligible students, review relevant work, and observe a recorded availability commitment and acceptance of the actual terms. Measure the full denominator. |
 
 For A3, an effective referral route means a specific professional contact able
@@ -53,12 +59,23 @@ two teammate-reported IE student accounts. They describe difficulty presenting
 project experience, a need for integration/deployment help and limits around
 exams. These support testing the problem and commitment conditions; they do not
 validate the four percentages, degree-year distribution or annual participation.
-Neither student has demonstrated a SkillBridge campaign commitment or delivery.
+Those September records contain no campaign commitment or delivery. Overlap
+with the newly reported pilot participants is unknown.
 
 The Baya account describes a past digital task and conditional interest. Nolita
 reports no current project. Neither is a sale or a denominator for business
 conversion. The [existing Experiment Card](../experiment-card.md) still governs
 the ten-business charter-and-deposit test and its separate extension rule.
+
+The [October pilot report](../validation/pilot-findings-source-2026-10-01.md)
+adds an 11-person survey and reported actual commitments, repeated delivery and
+recruiter comparisons. Pilot participants are described as matching the target;
+the survey did not collect city/year, and overlap and other cohort counts are
+unspecified. The report supports the problem and early feasibility. Business
+charters remained unsigned; student payments do not by themselves establish
+business funding. Neither commercial conversion nor a student readiness rate
+can be calculated from the attachment. See the
+[assessment](pilot-assessment-2026-10-01.md) for the full claim-by-claim update.
 
 The estimate assumes enough appropriate offers exist to reveal student demand.
 Actual participation will also be limited by distribution, funded project seats,
@@ -89,7 +106,13 @@ be misleading. Using the exact anchor instead of rounding produces about 1,963,
 which leaves the headline at about 2,000; behavioural uncertainty dominates that
 rounding difference.
 
-## Proposed validation plan — not yet run
+## Validation protocol and remaining measurement
+
+The protocol below was proposed before reviewing the pilot report. Relevant
+actions are now reported, but execution of this exact sampling design and its
+numerical results are not established. Reconcile existing records first; use
+the protocol for unresolved measurements and subsequent tests. The 100-person
+target below is a proposal, not the observed pilot sample.
 
 ### 1. Check the population and eligibility
 
@@ -162,5 +185,6 @@ acceptance date and refusal/withdrawal reason. Retain missing values. Publish
 numerator, denominator, period and evidence links before revising A1–A4.
 
 **Current evidence status:** one official population anchor; four unvalidated
-rates; no new participants contacted, commitments observed or test results
-created in this research session.
+rates; user-supplied actual pilot findings supporting the problem and early
+feasibility. Missing offer denominators and unresolved commercial commitments
+prevent rate validation. This assessment did not conduct new fieldwork.

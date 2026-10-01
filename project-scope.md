@@ -11,6 +11,7 @@ Companion working files (also kept current):
 - `evidence-log/experiment-card.md` — current concierge test plan and precommitted decision rule
 - `evidence-log/personas/` — behavioural hypotheses and standalone Persona Agent prompts
 - `evidence-log/jtbd.md` — working Job to Be Done and switching-force evidence status
+- `evidence-log/market-research/` — Madrid estimate, competitive alternatives and actual pilot assessment
 - `prototype/index.html` — current rough browser walkthrough; versioned snapshots in `prototype/backups/`
 
 ---
@@ -43,6 +44,12 @@ student's **LinkedIn** profile.
 Two-sided marketplace, but **the student is the primary market and the design focus.**
 Small businesses are the supply of projects — important, but treated as an
 assumption to validate, not the user we design for.
+
+**Evidence status, 2026-10-01:** the [actual pilot assessment](evidence-log/market-research/pilot-assessment-2026-10-01.md)
+supports the student problem and reports commitments, accepted delivery and
+clearer recruiter assessment. Commercial conversion remains unresolved; a
+faster route into employment is still an intended benefit, not a demonstrated
+outcome. The approximately 2,000-student Madrid estimate remains a hypothesis.
 
 ## 3. Class context
 
@@ -193,8 +200,8 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 2. ~~Run the Assumptions exercise~~ ✅ `evidence-log/assumptions.md` locked v1.
 3. Founder review pass on the locked wording; adjust any phrasing.
 4. ~~Set Goals~~ ✅ Product Goal and current Sprint Goal confirmed in `evidence-log/goals.md` (2026-09-09).
-5. Recruit 5+ target students for interviews; document the available student pool and access to 10 qualifying businesses (+5 only if the extension is triggered) → `evidence-log/recruitment.md`.
-6. Run the concierge test using `evidence-log/experiment-card.md` and record the results.
+5. Reconcile the supplied pilot's cohort IDs/counts, survey inconsistency and actual offer records; document recruitment/segment fit and broaden interviews where evidence is missing.
+6. Complete the original qualifying-business/deadline/payment log and apply `evidence-log/experiment-card.md`; recover delivery and recruiter records before choosing the next bounded test. Reported unsigned charters do not clear the commercial threshold.
 7. ~~Design the experiment~~ ✅ All six fields recorded in `evidence-log/experiment-card.md` (2026-09-09).
 8. ~~Decide prototype medium, build `prototype-v0`~~ ✅ Browser walkthrough and versioned backup created in `prototype/`; review the flow and replace placeholders before live pitches.
 9. Pin assignment logistics with the professor (deadlines, # testers, rubric).
@@ -202,6 +209,33 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 ---
 
 ## Session notes
+
+### 2026-10-01 — Actual pilot findings integrated
+- Preserved the supplied DOCX and a source transcription; assessed all four pages
+  in [the pilot assessment](evidence-log/market-research/pilot-assessment-2026-10-01.md).
+- Updated the market overview, estimate analysis, competitive table, validation
+  audit, JTBD and assumption status with reported actual findings. Separated
+  the 11-person survey from unquantified pilot/interview/recruiter cohorts.
+- Stronger support: experience/contribution pain, genuine offer acceptance,
+  accepted client work and recruiter evaluation value. Remaining gaps: actual
+  denominators, original artifacts/logs, support economics and hiring impact.
+- Retained A1–A4 and the approximately 2,000-student estimate as assumptions;
+  stated willingness to review an offer does not measure readiness acceptance.
+- Flagged 23 obstacle selections against a maximum of 22. Business charters
+  remained unsigned; cohort completion/deadlines and payment funding require
+  reconciliation. Preserved all existing business-test rules.
+
+### 2026-10-01 — Behaviour-evidence audit and validation materials
+- Audited the competitive analysis against the updated six-column screenshot.
+  Added an explicit target-user behaviour column and clarified that full segment
+  fit is still unconfirmed for the two existing student accounts.
+- Added the [coverage audit and next tests](evidence-log/market-research/validation-audit.md)
+  and a blank fieldwork record. The plan measures access, costs, fit, traceability,
+  tooling, repeatability, quality and support/clarification burden.
+- Prioritised actual-choice interviews, then access/funding, real student offers,
+  delivery and recruiter evaluation. New samples and protocols are proposals;
+  no customer evidence or results were generated. The existing business card's
+  thresholds and kickoff obligations remain authoritative.
 
 ### 2026-10-01 — Competitive alternatives
 - Added a detailed [five-alternative table](evidence-log/market-research/competitive-analysis.md)

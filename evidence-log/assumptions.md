@@ -6,6 +6,23 @@ Working notes and Stage-A raw list: `../assumptions.md`.
 Carried in from the Opportunity exercise: USER / NEED / INSIGHT / HOW MIGHT WE
 (see `opportunity.md`).
 
+## Evidence update — 2026-10-01
+
+The three-area map below retains the original hypotheses. The
+[actual pilot assessment](market-research/pilot-assessment-2026-10-01.md)
+updates their evidence status; the original “evidence needed” lists are not a
+claim that all fieldwork is still unrun.
+
+| Area | New support from the actual report | Still unresolved |
+|---|---|---|
+| Student pull and delivery | 9/11 selected difficulty showing experience beyond coursework and 9/11 explaining contribution; concrete offer acceptance, student payments and M1–M9 delivery outcomes are reported. | Offer denominator and commitment rate; individual logs, full segment fit for the survey, dropout/support costs, and the specific 5–6-strangers/no-paid-manager hypothesis. |
+| Business supply and trust | Interest/stated willingness to pay and client use/acceptance are reported. | Charters were not signed. The original signed-and-paid threshold is not demonstrated; qualifying-pitch/deadline logs and student-payment funding need reconciliation. |
+| Credential credibility | Recruiters reportedly found individual contribution clearer in campaign records. | Reviewer/pair counts and artifacts, hiring impact, anti-gaming, and LinkedIn/ATS acceptance. The report supports the underlying evidence's usefulness, not the badge alone. |
+
+The riskiest assumption remains business commitment. The roughly 2,000-student
+Madrid estimate and all four rates remain hypotheses. The survey obstacle table
+also needs reconciliation (23 selections against a maximum of 22).
+
 ---
 
 ## Area 1: Student pull & delivery capability
@@ -105,6 +122,10 @@ extension, and precommitted metric, threshold, and decision rule.
 ---
 
 ## Open gaps
-- No primary interviews yet (founder account + market statistics only).
+- Primary reports now exist: [September interviews](validation/interviews-2026-09-22.md)
+  and the [actual pilot findings](validation/pilot-findings-source-2026-10-01.md).
+  Recover underlying records, cohort counts/overlap and recruitment details.
+- Complete and score the original business test; measure student readiness from
+  genuine offers, and document support costs before revising the market estimate.
 - Exact assignment deadline / number of required testers / rubric not pinned.
 - Certification anti-gaming design not yet specified.
