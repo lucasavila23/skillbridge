@@ -198,6 +198,20 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 
 ## Session notes
 
+### 2026-10-01 — Market research: piano-tuners estimate
+- Pulled the latest `main` and created the user-requested `market-research`
+  branch. The user confirmed **Madrid region** as the first estimation scope.
+- Saved the [result, analysis and source ledger](evidence-log/market-research/README.md):
+  an official 2024/25 undergraduate enrolment anchor, rounded to 260,000, followed
+  by four unvalidated conditional rates (10%, 75%, 50%, 20%), yields **about
+  2,000 potential student participants per academic year** under a suitable offer.
+- The institutional source is a regional population proxy with campus coverage
+  limits. The output is a hypothesis about student participation, not an
+  acquisition forecast, demonstrated business demand or completed campaigns.
+- Proposed a behavioural commitment test and documented sensitivity. No new
+  fieldwork was conducted; the current business-trust Sprint Goal and existing
+  Experiment Card remain in force.
+
 ### 2026-09-08 — Setup + concept intake
 - Bootstrapped repo toolchain; created `downloads/`, `evidence-log/`, `prototype/`.
 - Duplicated `ai-prompt-opportunity.md` and `ai-prompt-assumptions.md` into `downloads/`.
