@@ -69,6 +69,11 @@ number. The current business deposit experiment remains a separate requirement.
 
 ## Files
 
+- [Consolidated deep research — five AI reports](deep-research/merged-market-research.md):
+  synthesis received 2026-10-03, with disagreements, source limitations and
+  proposed tests kept explicit. [All five original reports](deep-research/README.md)
+  are preserved unchanged; external claims have not been independently rechecked
+  as part of the merge.
 - [Pilot assessment](pilot-assessment-2026-10-01.md): findings, model/competitor
   updates, evidence limits and prioritised next actions, linked to the preserved
   source report and transcription.

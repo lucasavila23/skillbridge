@@ -210,6 +210,17 @@ Full version: `assumptions.md` / `evidence-log/assumptions.md`.
 
 ## Session notes
 
+### 2026-10-03 — Five deep-research reports consolidated
+- Copied the user-supplied Claude, Codex, Gemini, Grok and Perplexity reports
+  unchanged into [deep-research](evidence-log/market-research/deep-research/README.md).
+- Created a [single consolidated analysis](evidence-log/market-research/deep-research/merged-market-research.md)
+  with source attribution, model assumptions, conflicting claims and a combined
+  validation agenda. Added checksums and documented missing citation links.
+- Checked the merge against reported pilot outcomes and the historical business
+  rule; did not replace the market estimate, alter experiment thresholds or
+  treat report recommendations as approved actions. No new external verification
+  or fieldwork was performed.
+
 ### 2026-10-01 — Actual pilot findings integrated
 - Preserved the supplied DOCX and a source transcription; assessed all four pages
   in [the pilot assessment](evidence-log/market-research/pilot-assessment-2026-10-01.md).
