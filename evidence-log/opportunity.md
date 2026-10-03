@@ -3,6 +3,12 @@
 **SkillBridge — Empathize & Define output. v1, locked 2026-09-08.**
 Working notes, research and sources: `../opportunities.md`.
 
+> **Competitive evidence update — 2026-10-01:** The historical uniqueness claim
+> below remains unproven. Current Riipen documentation shows substantial overlap
+> in employer projects, teams, feedback and certificates. Use the
+> [competitive alternatives analysis](market-research/competitive-analysis.md)
+> for current comparisons, local-access gaps and switching hypotheses.
+
 ## Business idea (one line)
 An open platform where teams of tech students take on small, real, **paid**
 "campaigns" for small businesses and come away with a **verified record of shipped

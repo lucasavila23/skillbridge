@@ -5,6 +5,13 @@ autonomously against everything discussed + desk research. The clean deliverable
 version is mirrored in `evidence-log/opportunity.md`; this file keeps the full
 working context, research and sources behind it.
 
+> **Competitive evidence update — 2026-10-01:** The historical “nobody combines”
+> claim below is not established. Current Riipen documentation overlaps with
+> several proposed SkillBridge features. The
+> [competitive alternatives analysis](evidence-log/market-research/competitive-analysis.md)
+> is the current comparison; it separates published features, Madrid access and
+> untested reasons to switch. The September notes remain a historical record.
+
 > Direction (user, tech segment, pain = "experience without experience",
 > certification = A+C) was confirmed directly by the founder. The sharpened
 > wording below is AI-drafted from that direction and is the working lock —
