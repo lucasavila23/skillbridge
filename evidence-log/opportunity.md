@@ -57,9 +57,11 @@ free and branded but only self-checked against a model answer; HackerRank gives
 a standard score but on puzzles; Devpost and Kaggle give prizes and ranks but no
 calibrated feedback or contribution record
 ([v2 competitive analysis](market-research/competitive-analysis.md#v2-alternatives-challenge-and-assessment-platforms-2026-10-12)).
-None of them records **who did what** in a team, which is the most common
-difficulty students report. **Evidence** for the gap in published features;
-**Hypothesis** that employers broadly value closing it; V2-R01 supplies one
+In the published materials of those four we found no record of **who did what**
+in a team, which is the most common difficulty students report. NUWE, the
+closest local competitor, does not publish its contribution model, so this is a
+bounded negative, not an exhaustive market check. **Evidence** for the four
+platforms' published features; **Unverified** for NUWE; **Hypothesis** that employers broadly value closing it; V2-R01 supplies one
 supportive interview response about inspectable evidence, not verification
 that SkillBridge can reliably attribute contributions.
 
