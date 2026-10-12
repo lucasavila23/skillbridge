@@ -3,6 +3,15 @@
 **SkillBridge — assumption map. v1, locked 2026-09-08.**
 Working notes and Stage-A raw list: `../assumptions.md`.
 
+**Evidence review — 2026-09-22:** [Four teammate-reported interviews](validation/findings-2026-09-22.md)
+partly support an application-proof gap and one past business task, while
+exposing exam-related availability limits, technical-help needs, handover
+concerns and a business with no current project. The map below remains a set
+of assumptions, not confirmed outcomes. Business willingness to entrust paid
+work to a student team remains untested, so the existing commercial risk and
+deposit experiment are retained. The student delivery risks are dependencies
+to resolve before accepting work, not answered by interview interest.
+
 Carried in from the Opportunity exercise: USER / NEED / INSIGHT / HOW MIGHT WE
 (see `opportunity.md`).
 
@@ -127,5 +136,7 @@ extension, and precommitted metric, threshold, and decision rule.
   Recover underlying records, cohort counts/overlap and recruitment details.
 - Complete and score the original business test; measure student readiness from
   genuine offers, and document support costs before revising the market estimate.
+- No client acceptance, campaign retention or financial commitment has been
+  demonstrated. See [recruitment](recruitment.md) and [findings](validation/findings-2026-09-22.md).
 - Exact assignment deadline / number of required testers / rubric not pinned.
 - Certification anti-gaming design not yet specified.
