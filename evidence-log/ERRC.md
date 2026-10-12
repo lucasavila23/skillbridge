@@ -30,7 +30,7 @@ Forage, HackerRank, Devpost or Kaggle.
 | Time required | Hackathons 24–48 h; Kaggle weeks; Forage 2–6 h; Extern 10–15 h/week | [student motives][N-s], [competitive analysis](market-research/competitive-analysis.md) |
 | Realness of the brief | Forage: employer-designed simulations; HackerRank: standard puzzles; coursework: no client | Published pages |
 | Feedback depth | Forage: compare with a model answer; HackerRank: a score; hackathons: judging for prizes | Published pages |
-| Proof of individual contribution | Solo tests prove the individual; no commercial platform certifies who did what in a team | [market landscape][N-m] |
+| Proof of individual contribution | Solo tests prove the individual; not found in the published materials of Forage, HackerRank, Devpost or Kaggle; NUWE unverified | [market landscape][N-m] |
 | Integrity | Cheating attempts in entry-level assessments rose from 15% to 40% (CodeSignal, Feb 2026, vendor); ISE: employers meeting cheating doubled 7% → 15% (Dec 2025, independent) | [company motives][N-c] |
 | Price to student | Forage, HackerRank certifications, Kaggle, student hackathons: free | [willingness to pay][N-w] |
 | Who pays | Employers or universities pay the platforms (HackerRank from $79/month; Riipen FuturePath $11.67/hour per student; hackathon sponsorship $500–$50k+) | [company motives][N-c] |
