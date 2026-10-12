@@ -1,4 +1,25 @@
-# SkillBridge rough test
+# SkillBridge prototypes
+
+## v1: challenge platform (current, 2026-10-12)
+
+Open [prototype-v1.html](prototype-v1.html) in a browser; it works offline.
+Exports: [prototype-v1.pdf](prototype-v1.pdf) (all four steps) and
+[prototype-v1-backup.png](prototype-v1-backup.png) (step 1).
+
+1. **Challenge brief:** an illustrative data company's 4-hour brief, rubric
+   weights, solo or team of up to 3, free entry, optional €15 certified result.
+2. **Team submission:** each member's contribution from commits and tasks,
+   confirmed by teammates.
+3. **Score and feedback:** AI rubric and engineer scores side by side, written
+   feedback, and the "Certify my result" choice (simulated payment). This is the
+   moment the [experiment card](../evidence-log/experiment-card.md) measures.
+4. **Certificate and profile:** what a recruiter sees, with stacked results.
+
+Everything shown (company, students, scores, feedback) is invented for the
+walkthrough. It demonstrates the v2 flow; it is not evidence.
+
+## v0: paid project for a small business (history, 2026-09-09)
+
 
 **Version:** v0 — 2026-09-09.
 
