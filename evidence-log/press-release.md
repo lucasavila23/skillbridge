@@ -57,7 +57,7 @@ Find your first challenge at skillbridge.example.
 | Two to seven hours fits students | **Evidence**: 12/17 can give ≤4 h a week; 0 can give 8+ | [survey summary](validation/survey-summary-2026-10-12.md) |
 | The market context: 24.5% under-25 unemployment in Spain; new grads 7% of Big Tech hires | **Desk research** (INE Q1 2026; SignalFire 2025) | [internship struggles][N-i] |
 | AI cheating makes employers wary of remote tests | **Desk research** (ISE Dec 2025 independent; CodeSignal Feb 2026 vendor) | [company motives][N-c] |
-| No platform certifies who did what in a team | **Desk research** | [market landscape][N-m] |
+| Not found in the published materials of Forage, HackerRank, Devpost or Kaggle; NUWE unverified | **Desk research, bounded** | [market landscape][N-m] |
 | Companies will post briefs and engineers will review | **Hypothesis** | [assumptions](assumptions.md) A2.1–A2.2 |
 | Recruiters trust the score; students pay to certify | **Hypothesis: the riskiest assumption** | [experiment card](experiment-card.md) |
 
