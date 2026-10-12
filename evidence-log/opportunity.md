@@ -1,135 +1,106 @@
 # Opportunity
 
-**SkillBridge — Empathize & Define output. v1, locked 2026-09-08.**
-Working notes, research and sources: `../opportunities.md`.
+**SkillBridge v2: challenge platform. 2026-10-12.**
+Replaces v1 (paid projects for small businesses), kept in the
+[v1 archive](archive/v1-paid-projects/opportunity.md) with the
+[reasons for the pivot](archive/v1-paid-projects/README.md).
 
-> **Competitive evidence update — 2026-10-01:** The historical uniqueness claim
-> below remains unproven. Current Riipen documentation shows substantial overlap
-> in employer projects, teams, feedback and certificates. Use the
-> [competitive alternatives analysis](market-research/competitive-analysis.md)
-> for current comparisons, local-access gaps and switching hypotheses.
-
-## Evidence review — 2026-09-22
-
-The v1 framing below is retained as the venture proposal. Its claims about
-students' networks, employers' deciding signals and market uniqueness have not
-been established by the new interviews.
-
-[Four teammate-reported accounts](validation/interviews-2026-09-22.md) provide
-partial grounding: two IE students describe difficulty presenting project
-experience in internship applications; Baya's owner describes a past menu-update
-need; Nolita's manager reports no current project and little reason to outsource.
-The supported problem is narrower than universal demand or proven hiring impact.
-
-The [current JTBD](jtbd.md) therefore uses requests for project examples as its
-trigger. Business recruitment should confirm a current unresolved task and a
-reason to outsource. Sustained student commitment, client-accepted delivery and
-paid business demand remain unproven; see [findings](validation/findings-2026-09-22.md).
+Tags: **Evidence** (linked), **Decision** (team), **Hypothesis** (untested).
 
 ## Business idea (one line)
-An open platform where teams of tech students take on small, real, **paid**
-"campaigns" for small businesses and come away with a **verified record of shipped
-client work**, plus some cash.
+
+SkillBridge lets tech students solve short, real challenges set by SaaS, engineering and data companies, and turns each result into a company-calibrated score with a verified record of what each student contributed.
 
 ## PAIN POINT
-A tech student with no internship and no industry network can't get the real,
-client-facing project experience that employers treat as the deciding signal. Job
-postings demand experience they can't obtain without a job; class and tutorial
-projects are discounted; open freelance marketplaces filter beginners out.
+
+A tech student applying for internships is asked to show and explain work
+beyond coursework, and struggles to prove what they personally did.
+**Evidence:** 14/17 survey respondents chose "explaining my personal
+contribution" and 12/17 "showing experience beyond coursework"
+([survey summary](validation/survey-summary-2026-10-12.md)); 9/11 for each in
+the [pilot](market-research/pilot-assessment-2026-10-01.md); interview accounts
+UV-S01 and UV-S02 ([interviews](validation/interviews-2026-09-22.md)).
 
 ## USER
-A 2nd–4th-year tech student (software / web / data), solid in coursework, with **no
-internship, no professional network**, and not in the connected / top-GPA slice
-that gets pulled in through referrals.
+
+**Student (unchanged from v1):** a 2nd–4th-year software, web or data student
+whose experience is mainly coursework. 9/17 report a latest project reviewed
+only by classmates or staff. **Evidence** (survey).
+
+**Company (new):** a SaaS, engineering or data company that hires interns or
+juniors and wants a better screen than a CV. **Hypothesis**: no company has been
+interviewed for v2.
+
+**Recruiter (new, decides credential value):** the hiring manager or recruiter
+who reads the score. Modelled in the [Skeptical Verifier](personas/ai-persona-03.md).
+**Hypothesis.**
 
 ## NEED
-To accumulate a **verifiable track record of real, team-delivered client projects**
-that an employer will recognise — before having any formal experience.
+
+Students need a short, bounded way to produce work that an employer will believe,
+with their own contribution visible. Realistic capacity is short: 12/17 can give
+four hours a week or less, none eight or more. Students want clear scope and
+deadlines (11/17) and feedback (8/17 named its absence as a blocker).
+**Evidence** (survey).
 
 ## INSIGHT
-The founder's first job came from a startup **deliberately recruiting candidates
-the big firms had rejected** — demand for inexperienced talent exists, it's just
-invisible and unmatched. Peers who "got in early" mostly did so through
-**connections, not ability**. And every existing option trades away at least one of
-{real paying client, shipped deliverable, delivery team, open access, portable
-verified credential} — none combines all five.
+
+Existing options each give students one piece and miss the rest: Forage is
+free and branded but only self-checked against a model answer; HackerRank gives
+a standard score but on puzzles; Devpost and Kaggle give prizes and ranks but no
+calibrated feedback or contribution record
+([v2 competitive analysis](market-research/competitive-analysis.md#v2-alternatives-challenge-and-assessment-platforms-2026-10-12)).
+None of them records **who did what** in a team, which is the most common
+difficulty students report. **Evidence** for the gap in published features;
+**Hypothesis** that employers value closing it.
 
 ## HOW MIGHT WE
-How might we give an unconnected tech student an **open, merit-based** way to build
-a **verified record of real, team-delivered client work** before they have any
-formal experience?
+
+How might we turn a few hours of student work on a real company brief into a
+result an employer trusts, with each student's contribution visible?
 
 ## Combined sentence
-An unconnected 2nd–4th-year tech student needs to accumulate verified,
-team-delivered client projects because employers treat real client experience as
-the deciding hiring signal, the demand for junior talent already exists but is
-unmatched and invisible, and the normal route in runs on connections they don't
-have.
+
+A 2nd–4th-year tech student with mainly coursework experience needs a short,
+real piece of work an employer will believe, with their own contribution
+provable, because applications ask for exactly that and coursework cannot show
+it. Existing platforms give a badge, a rank or a puzzle score, but none
+calibrates the result to a company's bar or records individual contribution.
 
 ## Summary table
 
-| Field | Content |
-|---|---|
-| Business idea | Open platform; teams of tech students deliver small paid client campaigns; output = verified record of shipped work + cash |
-| USER | 2nd–4th-year tech student, no internship, no network, not in the connected top tier |
-| NEED | Accumulate a verifiable track record of real, team-delivered client projects |
-| INSIGHT | Demand for inexperienced talent exists but is invisible/unmatched; early winners rely on connections not merit; no existing option is open + real + credentialed |
-| HOW MIGHT WE | Open, merit-based way to build a verified record of real team client work pre-experience |
+| Element | v2 | Status |
+|---|---|---|
+| Student user | Same as v1 | Evidence |
+| Paying side | Ranked revenue hypotheses: 1. students pay a certification fee; 2. companies pay to use challenges as a hiring screen; 3. companies pay a sponsorship | Decision (ranking), Hypothesis (each) |
+| Challenge source | SaaS, engineering and data companies | Hypothesis |
+| Scoring | Automated tests and an AI rubric score every submission; a company engineer signs off the rubric and reviews the top submissions | Decision |
+| Credential | Score, rubric breakdown, written feedback, per-member contribution record, on a shareable profile | Decision |
+| Time per challenge | Sized to 2–7 hours | Evidence (survey capacity) |
 
-**Directly confirmed by founder:** user = students; segment = tech; pain =
-"experience without experience"; certification model = A+C.
-**AI-drafted from that direction (working lock, founder may adjust wording):** the
-precise USER / NEED / INSIGHT / HMW sentences above.
+## Why we pivoted
+
+v1's riskiest assumption, small-business trust in paid student work, never
+reached its test: no formal pitch, charter or deposit was recorded, and one of
+two business interviews had no current project. Meanwhile the student-side
+evidence kept pointing to proof of contribution, short time boxes and feedback.
+v2 keeps the student and the Job and changes the solution and the paying side.
+Details: [archive README](archive/v1-paid-projects/README.md). **Decision** on
+existing evidence; v2 itself is untested.
 
 ## Open gaps
-- Four teammate-reported interview records are now available: two students and
-  two businesses. Exact individual dates, original materials and behavioural
-  follow-through remain open. See [recruitment](recruitment.md); the planned
-  5+ student interviews and real delivery/payment tests are not complete.
-- Exact assignment deadlines / rubric not yet pinned (grill Q5, deferred).
 
-## Supporting evidence (headline figures)
-- 66.8% of grads name lack of experience as their #1 obstacle; ~35% of
-  "entry-level" postings ask for 3+ years.
-- Offers by internship status: paid intern 1.61, unpaid 0.94, **no internship 0.77**.
-- New-grad hiring at the 15 largest tech firms **down >50% since 2019**; ~666 SWE
-  internship postings nationwide (~1 per 165 CS grads/yr).
-- Recent CS-grad unemployment ~6.1%, underemployment ~41%.
-- Referrals convert ~30–60% to interview vs ~0.1–2% for cold applications.
-- Skills-based hiring claimed by ~70–81% of employers, but <1 in 700 hires
-  actually affected by degree-requirement removal (HBS / Burning Glass 2024) —
-  verified real work beats unverifiable claims.
-- SMB website spend: 36% spend $1k–$10k, median ~$5k; ~27% of US small businesses
-  still have no website.
+- No company or recruiter has been asked about v2.
+- Students were never asked whether they would pay; every reviewed alternative
+  is free to them.
+- Survey respondents' university and programme are not recorded.
+- The Madrid student-pool estimate still applies; revenue is not estimated for v2
+  ([analysis](market-research/analysis.md)).
 
 ## Sources
-- Extern — Entry-Level CS Jobs 2025/26: https://www.extern.com/post/entry-level-computer-science-jobs-2025
-- Extern — CS Job Market 2026: https://www.extern.com/post/computer-science-job-market-2026-guide
-- Cengage Group — CS grads & career-readiness gap: https://www.cengagegroup.com/news/perspectives/2025/computer-science-grads-facing-a-lack-of-entry-level-jobs-and-a-career-readiness-gap/
-- SF Standard — Entry-level tech jobs wiped out: https://sfstandard.com/2025/05/20/silicon-valley-white-collar-recession-entry-level/
-- refer.me — Referrals beat cold applications: https://refer.me/blog/why-job-referrals-beat-cold-applications-according-to-data
-- Studojo — Referrals vs applications 2026: https://studojo.com/reports/referrals-vs-applications-how-people-get-hired-2026
-- Riipen: https://www.riipen.com/  · LWEL profile: https://learnworkecosystemlibrary.com/organizations/riipen/
-- Parker Dewey — Micro-Internships FAQ: https://www.parkerdewey.com/faq
-- Forage — review: https://www.brandeis.edu/hiatt/experience/forage.html
-- Extern / Paragon One: https://www.extern.com/post/what-is-an-internship-types
-- MLH Fellowship — Open Source: https://fellowship.mlh.com/programs/open-source
-- Catchafire — what it is: https://help.catchafire.org/en/articles/8380963-what-is-catchafire-and-how-do-i-join
-- Contra — how it works: https://contra.com/how-it-works/independents
-- CodeDay Labs: https://labs.codeday.org/
-- Clutch — State of Small Business Websites 2025: https://clutch.co/resources/state-of-small-business-websites-2025
-- The Web Factory — website cost 2025: https://www.thewebfactory.us/blogs/how-much-does-a-website-cost-in-2025/
-- WebFX — agency vs freelancer: https://www.webfx.com/blog/marketing/digital-agency-vs-freelancer/
-- NACE — internship importance: https://naceweb.org/job-market/internships/students-recognize-the-importance-of-gaining-internship-experience
-- NACE — offers & conversion: https://www.naceweb.org/talent-acquisition/internships/intern-offer-and-conversion-rates-fall-acceptances-rise
-- NACE — intern conversion 5-year high: https://www.naceweb.org/talent-acquisition/internships/intern-conversion-rate-hits-highest-mark-in-five-years
-- ZipRecruiter — annual grad report: https://www.ziprecruiter-research.org/annual-grad-report
-- Resume Target — lack of experience survey: https://www.resumetarget.com/blog/survey-lack-of-experience-is-the-biggest-issue-entry-level-professionals-have/
-- WhatJobs — entry-level experience paradox: https://www.whatjobs.com/news/shocking-entry-level-job-experience-paradox-why-35-of-entry-level-jobs-now-require-3-years-experience/
-- The Interview Guys — no experience needed / skills-based hiring: https://blog.theinterviewguys.com/no-experience-needed/ · https://blog.theinterviewguys.com/the-state-of-skills-based-hiring/
-- Testlify — skills-based hiring statistics: https://testlify.com/skills-based-hiring-statistics/
-- HKS / Burning Glass — skills-based hiring, pronouncements vs practice: https://pw.hks.harvard.edu/post/skills-based-hiring-the-long-road-from-pronouncements-to-practice
-- Paris School of Entrepreneurship — credential screening to portfolio review: https://parisschoolofentrepreneurship.medium.com/from-credential-screening-to-portfolio-review-how-top-companies-changed-hiring-e7409ef18d17
-- JobRight — LinkedIn certifications guide: https://jobright.ai/blog/linkedin-learning-certifications-guide/
-- Forbes — job search & mental health: https://www.forbes.com/sites/bryanrobinson/2024/09/20/72-of-applicants-say-the-job-search-has-harmed-their-mental-health/
-- The Interview Guys — Gen Z in the workplace 2025: https://blog.theinterviewguys.com/the-state-of-gen-z-in-the-workplace-2025/
+
+[Survey summary](validation/survey-summary-2026-10-12.md) ·
+[pilot assessment](market-research/pilot-assessment-2026-10-01.md) ·
+[interviews](validation/interviews-2026-09-22.md) ·
+[competitive analysis](market-research/competitive-analysis.md) ·
+[v1 archive](archive/v1-paid-projects/README.md)
