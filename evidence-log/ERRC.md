@@ -18,7 +18,8 @@ completion certificate ([competitive analysis](market-research/competitive-analy
 
 **Evidence basis for the baseline:** student survey n = 17 and pilot n = 11
 (stated behaviour, probably overlapping); competitor facts from published pages;
-market facts from the [deep research notes][N]. No student was observed using
+market facts from the [deep research notes][N] and the synthesised
+[v2 market report](market-research/deep-research/reports/SkillBridge%20v2%20challenge%20market.md). No student was observed using
 Forage, HackerRank, Devpost or Kaggle.
 
 ## Market baseline: competing factors

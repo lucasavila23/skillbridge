@@ -12,9 +12,11 @@ Student 1 as an IE University student interviewed within September 15–20.
 Exact individual date, interviewer identity and original source material are
 unspecified. No project artifact or transcript was independently inspected.
 
-SkillBridge proposes connecting teams of tech students with real, paid projects
-from small businesses so students gain experience and businesses receive useful
-completed work. This is venture context, not evidence that a student has used,
+SkillBridge (v2, 2026-10-12) proposes short, real challenges set by SaaS,
+engineering and data companies; students work alone or in small teams, receive a
+company-calibrated score with a verified record of their own contribution, and
+may pay a small fee to certify the result. (v1 was paid projects for small
+businesses; questions below that mention campaigns refer to that version.) This is venture context, not evidence that a student has used,
 chosen or benefited from the service.
 
 Represent only the bounded behavioural hypothesis below. Do not impersonate an

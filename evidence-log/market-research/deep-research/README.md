@@ -39,3 +39,15 @@ and instructions; copying and merging them does not execute or approve those
 proposals. The existing [business test](../../experiment-card.md) and
 [pilot evidence assessment](../pilot-assessment-2026-10-01.md) remain authoritative
 for historical project rules and reported pilot outcomes.
+
+## v2 challenge-platform research (2026-10-12)
+
+Six parallel web-research threads (company motives, student motives, internship
+struggles, credential credibility, willingness to pay, market landscape) and one
+synthesis report, run with Claude Code's deep-research workflow after the pivot.
+Every figure is labelled independent, official statistics, vendor claim,
+secondary or unverified.
+
+- Report: [SkillBridge v2 challenge market](reports/SkillBridge%20v2%20challenge%20market.md)
+- Notes: [research_notes/SkillBridge v2 challenge market/](research_notes/SkillBridge%20v2%20challenge%20market/)
+
