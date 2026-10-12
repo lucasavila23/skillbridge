@@ -163,6 +163,40 @@ in [L3], but their counts and source artifacts remain missing. Provider
 descriptions establish features only. Survey willingness is distinct from
 reported actions, and synthetic persona conversations are excluded.
 
+## v2 alternatives: challenge and assessment platforms (2026-10-12)
+
+The [v2 pivot](../opportunity.md) moves SkillBridge from paid client projects
+to company-set challenges with a calibrated score. That puts it next to
+challenge and assessment platforms that the v1 analysis did not cover. Facts
+below come from each provider's own pages, reviewed **2026-10-12**, except
+Kaggle (secondary source, see KG1). None of these rows is evidence that our
+students use, prefer or reject a platform; that is untested.
+
+| Platform | Who sets the task, who scores | What the student gets | Teams; individual contribution | Cost to student; who pays | Gap SkillBridge v2 targets | Evidence basis |
+|---|---|---|---|---|---|---|
+| **Devpost** (CA8) | Companies host public, internal or customer hackathons; the platform manages "registrations, submissions, and judging" [DV1] | Project portfolio on a profile; prizes set per event [DV1] | Team projects; no published per-member contribution record | Student hackathons free; hosts pay (price not published) [DV1] | Results are prizes per event, not a comparable score; no calibrated feedback or contribution record | Published |
+| **HackerEarth** (CA9) | Companies run "coding events" and hiring assessments; AI interviews with "rubric-based evaluation" [HE1], [HE2] | Event participation; possible recruiter contact [HE2] | Not stated on reviewed pages | Developers not charged on reviewed pages; companies buy assessments and events [HE1] | Assessment output belongs to the hiring company, not to a portable student record | Published |
+| **HackerRank** (CA10) | Platform skills tests "curated based on years of recruiting data from 2000+ companies"; company screens and AI interviews [HR1], [HR2] | Skills certificates to "promote yourself … to peers and employers" [HR2] | Individual tests only | Free developer sign-up [HR1]; companies pay for hiring products | Short standardised tests, not a real business brief; no team work | Published |
+| **Kaggle** (CA11) | Companies and researchers host data competitions; scored by a fixed metric on public and private leaderboards [KG1] | Rank, medals and progression tiers (Novice to Grandmaster) [KG1] | Teams can merge before a deadline [KG1]; no per-member record | Free to enter; hosts fund prizes [KG1] | Data science only; rank without written feedback; large time commitment in most competitions (not measured here) | Secondary |
+| **Forage** (CA3, refreshed) | 90+ employers design job simulations; students "compare your work with model answers" [F1] | Completion certificate; "a chance to connect with recruiters" [F1] | Individual, self-paced | "100% free"; employers fund it [F1] | Self-check against a model answer, not scored work; the same certificate for every finisher | Published |
+
+### So what
+
+- **Strongest alternatives for v2: Forage and HackerRank.** Forage owns "free,
+  short, employer-branded" and HackerRank owns "a standardised score employers
+  already use". SkillBridge v2 has to beat both on one axis neither covers: a
+  **scored, company-calibrated result on a real brief, with a verified record of
+  each member's contribution**. That axis maps to the top two survey
+  difficulties (14/17 explaining contribution, 12/17 showing experience beyond
+  coursework; [survey summary](../validation/survey-summary-2026-10-12.md)).
+- **Paying is our weakest point.** Every alternative reviewed is free to the
+  student. Students paying (revenue hypothesis 1) must be justified by
+  employer credibility that none of these platforms has shown for its own
+  credential; this is the riskiest assumption in [assumptions](../assumptions.md).
+- **Devpost and HackerEarth compete for company budget**, not just student time:
+  companies already pay them to host events. Revenue hypotheses 2 and 3 compete
+  with them directly.
+
 ## Sources
 
 All external sources were reviewed on **2026-10-01**. Dated help articles are
@@ -176,6 +210,12 @@ No provider's promotional hiring-uplift statistic is used in this analysis.
 | **R3** | [Riipen: Completion certificates for learners][R3] — 2026-06-19 | Certificate contents, completion condition and sharing; not recruiter recognition. |
 | **R4** | [Riipen: FuturePath FAQs][R4] — 2026-07-24 | That named programme's payment/eligibility structure; not a restriction on every Riipen route. |
 | **R5** | [Riipen: Joining an experience as a learner][R5] — current help page | Experience access methods; not proof that our universities have participating places. |
+| **DV1** | [Devpost: for organisations][DV1] — undated, reviewed 2026-10-12 | Who hosts, judging tooling, student hackathons free; host price not published. |
+| **HE1** | [HackerEarth: home][HE1] — undated, reviewed 2026-10-12 | AI interviews and assessments with rubric-based evaluation sold to companies. |
+| **HE2** | [HackerEarth: challenges][HE2] — undated, reviewed 2026-10-12 | Company coding events used to "source top engineering talent"; no prize or fee details. |
+| **HR1** | [HackerRank: home][HR1] — undated, reviewed 2026-10-12 | Free developer sign-up; company screening and interview products. |
+| **HR2** | [HackerRank: skills certification][HR2] — undated, reviewed 2026-10-12 | Certificate catalogue and stated purpose; test length, scoring and employer verification not published there. |
+| **KG1** | [Wikipedia: Kaggle][KG1] — reviewed 2026-10-12 | Secondary summary of hosting, leaderboards, teams and progression tiers; Kaggle's own docs did not render for review. |
 | **F1** | [Forage: public offer][F1] — undated | Advertised price, format and outputs; not demonstrated value to our students. |
 | **F2** | [Forage: Datacom tech simulation catalogue][F2] — undated | Concrete examples of tasks/durations and published access conditions; no task completed here. |
 | **I1** | [IE Talent & Careers for Undergrads][I1] — undated | Undergraduate service availability and resources; no participant's use established. |
@@ -217,3 +257,9 @@ product changes.
 [L1]: ../validation/interviews-2026-09-22.md
 [L2]: ../validation/findings-2026-09-22.md
 [L3]: ../validation/pilot-findings-source-2026-10-01.md
+[DV1]: https://info.devpost.com/
+[HE1]: https://www.hackerearth.com/
+[HE2]: https://www.hackerearth.com/challenges/
+[HR1]: https://www.hackerrank.com/
+[HR2]: https://www.hackerrank.com/skills-verification
+[KG1]: https://en.wikipedia.org/wiki/Kaggle
