@@ -43,5 +43,28 @@ def main():
     print(f"Combined stress cases: {low:,.0f} / {high:,.0f} (not a confidence interval)")
 
 
+
+def v2(anchor=260_000):
+    """v2 (2026-10-12): same anchor and A1-A3; A4 redefined for short challenges.
+
+    The student-fee line is a decision check, not a forecast: it shows what
+    revenue hypothesis 1 (students pay) yields on its own.
+    """
+    a4 = (0.10, 0.20, 0.30)  # complete at least one 4-hour challenge in the year
+    fee_share = (0.05, 0.10, 0.30)  # completers who pay to certify; 0.30 = experiment threshold
+    fee = 15  # EUR, first test price
+    eligible = anchor * 0.10 * 0.75 * 0.50
+    completers = [eligible * a for a in a4]
+    print("\nv2 challenge platform")
+    print(f"Eligible students (A1-A3 unchanged): {eligible:,.0f}")
+    print("A4 complete a challenge (10% / 20% / 30%): " + " / ".join(f"{c:,.0f}" for c in completers))
+    base = completers[1]
+    print(f"Headline: approximately {round(base / 1000) * 1000:,} challenge completers/year")
+    print("Student-fee revenue at base completers, one certification each (5% / 10% / 30% pay EUR 15): "
+          + " / ".join(f"EUR {base * s * fee:,.0f}" for s in fee_share))
+    return round(base)
+
+
 if __name__ == "__main__":
     main()
+    assert v2() == 1950, "v2 base case changed; update README.md"

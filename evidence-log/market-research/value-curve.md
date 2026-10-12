@@ -36,6 +36,26 @@ below but left off the chart to keep it readable.
   Schneider Electric; €739k raised), the closest local competitor, whose student
   pricing and contribution model are not published ([market landscape][N-m]).
 
+## Four actions and cold start
+
+**Four actions in one line:** eliminate prizes and weekend events, reduce time
+per challenge and company judging hours, raise verifiability and feedback,
+create a company-calibrated score with a verified individual-contribution record
+([ERRC grid](../ERRC.md)).
+
+**Cold-start principle:** start with a dense niche and create both sides by hand,
+doing things that do not scale until we understand what makes the marketplace
+work (the course's Uber and Airbnb principles). A two-sided platform has a
+chicken-and-egg problem: students come for company names, companies come for
+students.
+
+| Cold-start move | Why | Evidence status |
+|---|---|---|
+| One university, one city: IE and Madrid tech students first | Dense, reachable niche; we already have 17 survey respondents and classmates | Reachability: Evidence (survey). Fit to target profile: partly unknown ([participant fit](../recruitment.md#participant-fit-against-the-target-user)) |
+| Secure the harder side first: one company brief and one engineer | Without a real company name the certificate has no calibration; students are easier to reach | Hypothesis; Arm A stop condition if no brief by 2026-10-20 ([experiment card](../experiment-card.md)) |
+| Do the matching and scoring by hand alongside the AI | Learn what the rubric, debrief and contribution record really need before automating | Decision |
+| Free entry; charge only for the certified result | Lowers the start barrier while still testing payment | Decision; tests revenue hypothesis 1 |
+
 ## So what
 
 The curve is only as good as two untested claims: that recruiters value the

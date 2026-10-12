@@ -25,7 +25,53 @@ assessment separates reported outcomes from stated intentions, flags a survey
 selection-count inconsistency, and specifies the records needed to resolve the
 remaining questions.
 
-## The one number
+## v2 Fermi estimate: challenge completers in Madrid (2026-10-12)
+
+> **About 2,000 students per academic year in the Madrid region would complete
+> at least one short company challenge**, if one relevant to their target role
+> were offered.
+
+One known anchor, four assumptions, one number. A1–A3 are unchanged from v1
+because the student user did not change; A4 is redefined for a 4-hour challenge.
+
+| Step | Evidence status | Input and choice | Calculation |
+|---|---|---|---|
+| 1. Undergraduate population | **KNOWN, provisional official data** | 261,707 enrolments, 18 Madrid universities, 2024/25; round to **260,000** | Anchor |
+| 2. Relevant tech studies | **ASSUME A1** | 5–15%; use **10%** | **26,000** |
+| 3. Years 2–4 | **ASSUME A2** | 60–80%; use **75%** | **19,500** |
+| 4. Experience gap | **ASSUME A3** | 30–70%; use **50%** | **9,750** |
+| 5. Complete a challenge this year | **ASSUME A4 (v2)** | 10–30%; use **20%**. Benchmarks: about 15% of registrants submit in a free online hackathon; 46% of paying MOOC learners finish against 3% of all registrants ([student motives](deep-research/research_notes/SkillBridge%20v2%20challenge%20market/student_motives.md)) | **1,950** |
+| 6. Result | **DERIVED** | Round to the uncertainty | **≈ 2,000 completers / year** (range 975–2,925 on A4 alone) |
+
+```text
+260,000 × 0.10 × 0.75 × 0.50 × 0.20 = 1,950 ≈ 2,000
+```
+
+### Why the number matters for the decision
+
+If students are the only payers and each certifies one result a year at €15:
+
+| Share of completers who pay | 5% | 10% | 30% (experiment threshold) |
+|---|---|---|---|
+| Madrid student-fee revenue / year | €1,462 | €2,925 | €8,775 |
+
+**So what:** even at the experiment's 30% threshold, student fees alone in Madrid
+come to under €9,000 a year. That does not fund company engineers' time or the
+platform. It supports the research finding that companies (revenue hypotheses 2
+and 3) must pay, and it makes "which side pays first" the most decision-relevant
+detail to narrow ([experiment card](../experiment-card.md#next-details-to-narrow)).
+The 10% base for paying is a judgement; a freemium benchmark is Duolingo's about
+9% of active users paying ([willingness to pay](deep-research/research_notes/SkillBridge%20v2%20challenge%20market/willingness_to_pay.md)).
+
+**First thing to challenge:** A4. Will one in five eligible students actually
+finish a 4-hour challenge? The pilot challenge measures it directly (starts vs
+submissions).
+
+Reproduce: `python3 calculate.py` prints both the v1 and v2 chains.
+
+## v1 Fermi estimate (paid client projects, kept as history)
+
+### The one number (v1)
 
 > **About 2,000 potential student participants per academic year in the Madrid
 > region**, conditional on reaching them with a suitable paid client project.
@@ -39,7 +85,7 @@ This estimates student demand under a suitable offer. It does not establish how
 many students SkillBridge can acquire, how many projects businesses will fund,
 completed campaigns, or revenue.
 
-## One known anchor → four broad assumptions → one result
+### One known anchor → four broad assumptions → one result (v1)
 
 | Step | Evidence status | Input and choice | Calculation |
 |---|---|---|---|
@@ -65,7 +111,7 @@ The four percentages and their ranges are judgement calls, not findings from the
 official dataset or our interviews. They apply successively to the preceding
 group; they do not assume that the four characteristics are independent.
 
-## First thing to challenge
+### First thing to challenge (v1)
 
 **Will roughly one in five eligible students make a concrete commitment when
 shown a real, suitable offer?** Inspect a work sample, record availability, and

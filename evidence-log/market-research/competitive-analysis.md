@@ -184,6 +184,18 @@ students use, prefer or reject a platform; that is untested.
 | **Kaggle** (CA11) | Companies and researchers host data competitions; scored by a fixed metric on public and private leaderboards [KG1] | Rank, medals and progression tiers (Novice to Grandmaster) [KG1] | Teams can merge before a deadline [KG1]; no per-member record | Free to enter; hosts fund prizes [KG1] | Data science only; rank without written feedback; large time commitment in most competitions (not measured here) | Secondary |
 | **Forage** (CA3, refreshed) | 90+ employers design job simulations; students "compare your work with model answers" [F1] | Completion certificate; "a chance to connect with recruiters" [F1] | Individual, self-paced | "100% free"; employers fund it [F1] | Self-check against a model answer, not scored work; the same certificate for every finisher | Published |
 
+### Four-category alternatives map (v2)
+
+The course template: what the student would choose instead, the simple test for
+each category, what to compare on, and the decision it drives.
+
+| Category (simple test) | Alternatives | Compare on | Evidence we have | So what | Decision / action |
+|---|---|---|---|---|---|
+| **Direct competitors** (same user, same job?) | NUWE (Barcelona company challenges), Forage (employer simulations), Riipen (employer projects) | Feature, price, trust, switching | Published offers; NUWE clients CaixaBank, Oracle, Schneider Electric ([market landscape](deep-research/research_notes/SkillBridge%20v2%20challenge%20market/market_landscape.md)); no student use observed | All free to students; none records individual contribution in a team | Differentiate on attributed, company-calibrated scores (ERRC Create); test switching in Arm A |
+| **Indirect substitutes** (same progress, different route?) | HackerRank certifications, Kaggle, Devpost hackathons, Coursera certificates, internships | Outcome, effort, cost, habit | Published offers; hackathon submit rate about 15% of registrants; certificates on LinkedIn +6% new jobs (trial population: Coursera learners without degrees in developing countries) | Students already have free ways to get a score or a badge; ours must be worth more to a recruiter | Complement rather than fight: shareable to LinkedIn; test recruiter preference in Arm B |
+| **Manual workarounds** (user does it themselves?) | Coursework projects, personal GitHub projects, portfolio, a professor's reference | Time, error risk, effort, ownership | 9/17 latest project reviewed only in class; 14/17 struggle to explain contribution ([survey](../validation/survey-summary-2026-10-12.md)); 11% of recruiters trust portfolio review (CoderPad 2026, [credential credibility](deep-research/research_notes/SkillBridge%20v2%20challenge%20market/credential_credibility.md)) | The most common behaviour today; costs nothing, but nobody outside class checks it | Remove the friction with the least change: accept a student's own repo as the submission format |
+| **Doing nothing** (delay or accept the pain?) | Keep applying with a CV only; postpone | Urgency, pain cost, risk tolerance | 6/17 applied with no interview; 3/17 would do nothing now ([survey](../validation/survey-summary-2026-10-12.md)); 140 applications per UK graduate vacancy (ISE 2025) | Pain is high during application season, low otherwise | Time recruitment to application season; test urgency in the follow-up survey |
+
 ### So what
 
 - **Strongest alternatives for v2: Forage and HackerRank.** Forage owns "free,
