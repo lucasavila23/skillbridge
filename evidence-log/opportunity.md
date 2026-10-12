@@ -20,9 +20,10 @@ contribution" and 12/17 "showing experience beyond coursework"
 ([survey summary](validation/survey-summary-2026-10-12.md)); 9/11 for each in
 the [pilot](market-research/pilot-assessment-2026-10-01.md); interview accounts
 UV-S01 and UV-S02 ([interviews](validation/interviews-2026-09-22.md)).
-V2-S01 Q1-Q5 adds a reported application-to-solo-project sequence after
-difficulty substantiating individual work
-([v2 records](validation/v2-interviews-2026-10-12.md#v2-s01)).
+The survey is unscreened — year, programme and university were not collected
+— and its overlap with the pilot sample is unknown, so the two counts are
+reported side by side, never added
+([participant fit](recruitment.md#participant-fit-against-the-target-user)).
 
 ## USER
 
