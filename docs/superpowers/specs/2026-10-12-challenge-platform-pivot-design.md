@@ -1,7 +1,7 @@
 # SkillBridge v2: challenge platform pivot (design)
 
 **Date:** 2026-10-12 · **Deadline:** Group Project I, Session 14 (2026-10-13)
-**Status:** draft for team review
+**Status:** approved by Lucas 2026-10-12
 
 ## Intent
 
@@ -21,7 +21,7 @@ moves, and the press release, value curve and next test are present.
 | Scope | Full pivot before Group Project I |
 | History | Keep all v1 work as evidence (option B: archive snapshot, fresh live files) |
 | Student user and Job | Unchanged: the JTBD is solution-neutral |
-| Revenue | Hypotheses, not decided. R1 students pay a certification fee (lead); R2 companies pay to use challenges as a hiring screen; R3 companies pay a sponsorship |
+| Revenue | Ranked hypotheses, none validated: **1. students pay** a certification fee to be more attractive for internships; 2. companies pay to use challenges as a hiring screen; 3. companies pay a sponsorship for employer branding |
 | Grading | Automated tests and an AI rubric score every submission; a company engineer signs off the rubric and reviews the top submissions |
 | New evidence before tomorrow | None. Present the pivot with existing evidence and a precommitted next test |
 
@@ -55,7 +55,7 @@ already versioned and stays where it is.
 | `opportunity.md` | New one-liner and user/need/insight/HMW; companies and recruiters replace small businesses; pivot rationale with evidence links |
 | `jtbd.md` | Same Job; solution hired and switching forces updated for challenge platforms |
 | `goals.md` | Product Goal and new Sprint Goal (will students pay for a company-calibrated score; will employers trust it) |
-| `assumptions.md` | Three areas re-mapped (student pull and payment, company supply, credential credibility); riskiest assumption named; revenue options R1–R3 |
+| `assumptions.md` | Three areas re-mapped (student pull and payment, company supply, credential credibility); riskiest assumption named; revenue hypotheses ranked 1–3 (students pay first) |
 | `experiment-card.md` | v1 card closed as "not run, pivoted"; new precommitted test with metric, threshold and decision rule |
 | `recruitment.md` | Who the next test recruits and how; v1 interviews kept as references |
 | `ERRC.md` | Completed: baseline, four moves, cost and buyer-value effects, falsifiable value hypothesis, validation points |
