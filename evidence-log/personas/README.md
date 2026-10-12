@@ -12,6 +12,14 @@ and the claim-level breakdown in
 These are second-hand, teammate-shared notes — participant-reported, not
 independently observed by the team.
 
+**V2 evidence intake — 2026-10-12:** the user supplied interviews they conducted
+with one student (October 5), one recruiter (October 6) and one engineer
+(October 10). [Records](../validation/v2-interviews-2026-10-12.md) and
+[findings](../validation/v2-findings-2026-10-12.md) add initial v2 grounding.
+V2-S01 overlaps with some student-persona behaviours but is not identified as
+UV-S01 or UV-S02. V2-R01 adds the first recorded v2 mock-profile response for
+the Skeptical Verifier. Neither payment nor hiring outcomes are established.
+
 ## File layout (course structure)
 
 **v2 selection (2026-10-12):** after the pivot to a challenge platform, the
@@ -52,7 +60,7 @@ Student side (supply side of talent):
 
 Evaluation side (the person who decides whether the credential means anything):
 
-- [The Skeptical Verifier](ai-persona-03.md) — the recruiter/hiring manager whose screening behaviour determines whether the student-side credential hypothesis is real. **Untouched** — this round interviewed students and business owners, not recruiters. Still the least-evidenced persona in the set.
+- [The Skeptical Verifier](ai-persona-03.md) — the recruiter/hiring manager whose screening behaviour determines whether the student-side credential hypothesis is real. **Partial participant-reported grounding (V2-R01):** one supportive mock-profile judgment, with engineer feedback and rubric provenance valued above an unexplained number. Hiring effects remain untested.
 
 ## Cross-cutting finding: not owned by any single persona
 

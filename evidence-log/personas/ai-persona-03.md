@@ -1,6 +1,6 @@
 # Persona: The Skeptical Verifier
 
-> **v2 note (2026-10-12):** Selected as a critical persona on 2026-10-12. In v2 this persona decides whether the certificate is worth anything, so it carries the riskiest assumption (A3.1) and Arm B of the [experiment card](../experiment-card.md). Unknown: what would make a recruiter distrust a company-calibrated score. Assumption IDs refer to [assumptions](../assumptions.md).
+> **v2 note (2026-10-12):** Selected as a critical persona on 2026-10-12. In v2 this persona decides whether the certificate is worth anything, so it carries A3.1 and Arm B of the [experiment card](../experiment-card.md). The V2-R01 intake adds one recruiter's trust conditions and a stated mock-profile choice; generalisation and actual hiring effects remain unknown. Assumption IDs refer to [assumptions](../assumptions.md).
 
 Evaluation side — recruiter / hiring manager. Not a marketplace participant
 in the two-sided sense; a downstream verifier whose behaviour retroactively
@@ -12,16 +12,33 @@ determines whether the supply-side value proposition holds.
 - Works through a mix of ATS keyword filtering and fast manual skims
 - Pattern-matches against known signals; treats unfamiliar credentials with default suspicion
 
-**Grounding: HYPOTHESIS-HEAVY** — zero primary interviews yet. This persona
-didn't exist anywhere else in the model until this was written, despite
-being the person whose behaviour determines whether
-[The Unconnected Student's](drafts/persona-hypothesis-02.md) entire Job to Be Done is
-real or imagined.
+**Grounding: PARTIAL PARTICIPANT-REPORTED** — one user-conducted recruiter
+interview, V2-R01 on 2026-10-06, supplied on 2026-10-12. Wider screening
+patterns and hiring outcomes remain hypotheses. The illustrative persona
+voice above is not a quotation from that interview.
 
 **Evidence review — 2026-09-22:** not addressed by this round — the four
 teammate-reported interviews were two students and two business owners, not
-recruiters. This remains the least-evidenced persona in the set; validating
-it requires a distinct recruiter-interview effort (see Validate next below).
+recruiters. The October interview update below is separate from that round.
+
+## V2 interview grounding
+
+[V2-R01 Q1-Q5](../validation/v2-interviews-2026-10-12.md#v2-r01-q1) reports
+high-volume screening, very short first-pass reviews, limited GitHub
+inspection, difficulty identifying group contributions and costly take-home
+review. These are one participant's reported practices, not measured rates.
+
+Q6-Q7 records a preference for the mock profile containing a task, work and
+an engineer's note. The respondent values specific human feedback and rubric
+provenance, but would skip an unexplained numerical score. The actual mock
+profiles are not attached, and no candidate was advanced through a real
+recruitment process in the supplied record.
+
+Q8-Q9 makes possible take-home replacement conditional on the company's own
+brief, engineer sign-off and a live explanation of the work. Q10 identifies
+a possible budget route, not approved spending. See the
+[v2 findings](../validation/v2-findings-2026-10-12.md) for limits and the
+distinction between stated screening value and financial commitment.
 
 ## How this differs from every other persona
 
@@ -106,9 +123,9 @@ Possible triggers that would permanently discount the credential:
 - A credential that reads as vague, or interchangeable with any other "leadership program" resume line
 - No mechanism to spot-check authenticity, making it indistinguishable from a self-issued claim
 
-These need to be tested rather than assumed — this is the least-evidenced
-persona in the set, because it requires access to actual recruiters, not
-students or business owners.
+V2-R01 Q9 adds stated distrust of similar-looking submissions and work with
+no live explanation. Neither a permanent rejection threshold nor the
+frequency of these concerns across recruiters has been observed.
 
 ## Evidence
 
@@ -116,9 +133,9 @@ students or business owners.
 |---|---|
 | SUPPORTED | Employers say skills-based hiring matters, but under 1 in 700 hires actually move on it without independent proof (`../../opportunity.md`, HBS/Burning Glass 2024) — the strongest existing evidence here, and it cuts against the credential hypothesis as much as it supports it |
 | SUPPORTED | Referrals convert 30–60% to interview vs. 0.1–2% for cold applications (`../../opportunity.md`) — implies recruiters heavily favour pre-vetted signals over self-reported ones, exactly the skepticism this persona embodies |
-| WORKING ASSUMPTION | A verified campaign record + business rating is a claim recruiters will actually weight — currently a claim on [The Unconnected Student](drafts/persona-hypothesis-02.md), untested from the recruiter's own side |
-| UNKNOWN | Whether recruiters would even notice, let alone credit, this credential without prior brand recognition |
-| UNKNOWN | What minimum format and verification threshold moves this from "ignored" to "actively weighted" |
+| STATED JUDGMENT | V2-R01 Q6-Q7 favours a mock profile with inspectable work and engineer feedback; an unexplained score alone has little value to this respondent |
+| UNKNOWN | Whether recruiters notice and credit this record in an unprompted real screening process; the supplied comparison explicitly drew attention to it |
+| STATED CONDITIONS | V2-R01 Q7-Q9 asks for rubric provenance, human sign-off and a live explanation; a general minimum format or verification threshold remains unknown |
 
 ## Assumptions this persona stresses
 
@@ -135,9 +152,10 @@ students or business owners.
 
 ## Validate next
 
-This is the hardest persona to validate with the current 10-business
-outreach test, since it requires reaching recruiters rather than students
-or business owners. Possible approaches:
+Use Arm B of the [v2 experiment](../experiment-card.md). The preliminary
+V2-R01 conversation is one stated judgment, not a five-recruiter result.
+Preserve the exact comparison materials and distinguish mock choices from
+actual shortlist decisions. Possible next steps:
 
 - Recruiter interviews: "Here's a resume line describing a SkillBridge campaign. Walk me through what you'd do with it in a 30-second resume scan."
 - Show the same recruiter a mock LinkedIn profile with and without the credential, and compare stated likelihood to advance
@@ -153,6 +171,8 @@ or business owners. Possible approaches:
 - [Overview: why the personas split this way, and the update rule](README.md).
 - Added via PR #8, "Add The Skeptical Verifier persona," 2026-09-22 (Abhiram Kidambi, with Claude Opus 5).
 - [Opportunity](../opportunity.md).
+- [V2-R01 source record](../validation/v2-interviews-2026-10-12.md#v2-r01) and
+  [v2 evidence assessment](../validation/v2-findings-2026-10-12.md).
 
-**Readiness:** hypothesis-heavy except where marked SUPPORTED above. The
-least-evidenced persona in the set. Real-user validation remains open.
+**Readiness:** partial interview grounding with wider hypotheses retained.
+Observed hiring, actual spending and the planned recruiter sample remain open.

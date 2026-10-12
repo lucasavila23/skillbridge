@@ -7,6 +7,15 @@
 > (including section 7b) describes **v1** and is kept as the working history; the
 > v1 evidence snapshot is in [evidence-log/archive/v1-paid-projects/](evidence-log/archive/v1-paid-projects/README.md).
 
+**V2 interview intake, 2026-10-12:** the user supplied three interviews they
+conducted on October 5 (IE CSAI student), October 6 (recruiter) and October 10
+(company engineer). The [source records](evidence-log/validation/v2-interviews-2026-10-12.md)
+preserve all 27 question-and-answer pairs and the original PDF; the
+[findings](evidence-log/validation/v2-findings-2026-10-12.md) map them to the
+JTBD and v2 assumptions. Evidence adds conditional EUR 15 willingness, a
+supportive mock-profile judgment and a proposed CSV challenge. No payment,
+challenge completion, final rubric sign-off or hiring outcome is recorded.
+
 Living document. Captures the concept, the class context, what we've decided, what's
 still open, and a running log of our working sessions. **Updated after every round
 of questions.**
@@ -15,12 +24,12 @@ Companion working files (also kept current):
 - `opportunities.md` — compiled Empathize/Define material (feeds `evidence-log/opportunity.md`)
 - `assumptions.md` — compiled assumption brainstorm (feeds `evidence-log/assumptions.md`)
 - `evidence-log/goals.md` — confirmed Product Goal and current Sprint Goal
-- `evidence-log/experiment-card.md` — current concierge test plan and precommitted decision rule
+- `evidence-log/experiment-card.md` — current v2 student-payment and recruiter-judgment pilot plan
 - `evidence-log/personas/` — behavioural hypotheses and standalone Persona Agent prompts
 - `evidence-log/jtbd.md` — working Job to Be Done and switching-force evidence status
 - `evidence-log/market-research/` — Madrid estimate, competitive alternatives and actual pilot assessment
-- `evidence-log/validation/` — four teammate-reported interview records, findings, guide and record template
-- `prototype/index.html` — current rough browser walkthrough; versioned snapshots in `prototype/backups/`
+- `evidence-log/validation/` — prior interview/pilot/survey evidence plus three v2 interviews, preserved sources and findings
+- `prototype/prototype-v1.html` — current v2 challenge walkthrough; `prototype/index.html` and `prototype/backups/` retain the v1 history
 
 ---
 

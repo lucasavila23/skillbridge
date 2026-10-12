@@ -10,6 +10,7 @@ v1 records are in the [archive](archive/v1-paid-projects/recruitment.md).
 | UV-S01, UV-S02, UV-B01, UV-B02 | Four teammate-reported interviews, 15–20 Sep 2026 | [interviews](validation/interviews-2026-09-22.md) |
 | Pilot, n = 11 | User-supplied pilot findings, 1 Oct 2026 | [pilot assessment](market-research/pilot-assessment-2026-10-01.md) |
 | Survey, n = 17 | Live Google Form, from 22 Sep 2026 | [survey summary](validation/survey-summary-2026-10-12.md) |
+| V2-S01, V2-R01, V2-E01 | Three user-conducted interviews: student 5 Oct, recruiter 6 Oct, engineer 10 Oct 2026; received 12 Oct | [v2 records](validation/v2-interviews-2026-10-12.md) and [findings](validation/v2-findings-2026-10-12.md) |
 
 ## Participant fit against the target user
 
@@ -26,6 +27,9 @@ experience, no relevant internship. ✓ confirmed · ✗ does not match · ? not
 | Pilot survey, n = 11 | ? | ? | ? | ✓ 8/11 latest project without an outside user | ? | Unconfirmed: survey did not ask year or city (pilot limitation) |
 | Survey, n = 17 | ? | ? | ? | ✓ 9/17 latest project reviewed only in class | ? 2/17 report at least one offer | Unconfirmed: no screening questions |
 | UV-B01, UV-B02 | ✗ business respondents | n/a | n/a | n/a | n/a | Not the v2 student user; v1 business evidence only |
+| V2-S01 | ✓ IE CSAI in source heading | ? | ✓ CSAI and web/backend project context | ✓ class group project used in application; unfinished personal project | ? | Partial: year and internship history missing; not yet a qualifying Arm A submission |
+| V2-R01 | n/a recruiter | n/a | ✓ reports tech junior/intern screening | n/a | n/a | Fits Arm B role; source introduction states screening in last 12 months; exact mock profiles not attached |
+| V2-E01 | n/a engineer | n/a | ✓ CSV validation and code review | n/a | n/a | Potential Arm A company contact; written brief and rubric sign-off not supplied |
 
 **Fix for the next round:** every v2 participant answers four screening
 questions before counting: year of study, degree programme, university, and
@@ -48,3 +52,11 @@ Arm B conversations.
 
 | Date | Arm | Who (role, no names) | Channel | Screened | Outcome | Notes |
 |---|---|---|---|---|---|---|
+| 2026-10-05 | A: student, preliminary interview | V2-S01, IE CSAI student | Not recorded | Partial: year and prior internship history missing | Conditional EUR 15 willingness and agreement to receive a pilot link; no submission or payment recorded | [Q1-Q11](validation/v2-interviews-2026-10-12.md#v2-s01) |
+| 2026-10-06 | B: recruiter, preliminary interview | V2-R01, tech recruiter | Not recorded | Role and recent screening stated in source; shown profile artifacts missing | One supportive mock-profile judgment; conditional take-home replacement and possible company payment | [Q1-Q10](validation/v2-interviews-2026-10-12.md#v2-r01) |
+| 2026-10-10 | A: company, preliminary interview | V2-E01, company engineer | Not recorded | Relevant task and review criteria reported; not payment decision-maker | Proposed CSV task, five criteria and review estimate; no final brief or rubric sign-off | [Q1-Q6](validation/v2-interviews-2026-10-12.md#v2-e01) |
+
+The user confirmed these actual interview dates on 2026-10-12. They predate
+the experiment's planned pilot window and are recorded as preliminary
+evidence. No contact, invitation, payment or sign-off has been inferred from
+the script's closing requests. Overlap with earlier samples is unknown.
