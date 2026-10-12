@@ -45,15 +45,24 @@ Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
 4. Offer the **certified result** (rubric breakdown, written feedback, engineer
    sign-off, contribution record, shareable link) for **€15**, payable by Bizum
    or card link within 5 days. Refund on request within 14 days.
-5. Score with the AI rubric and the engineer independently on every submission;
-   record both (tests A2.3).
+   Engineer-written feedback covers every certified result, not only top
+   submissions (decided 2026-10-12,
+   [v2 findings](validation/v2-findings-2026-10-12.md)). Results are private by
+   default; the student chooses what to share, and the certified result always
+   shows the true score. No minimum score is required to certify.
+5. The AI rubric scores every submission. The engineer independently scores a
+   sample of five — the top three plus two drawn from the lower half, following
+   V2-E01 Q4's own suggestion to check a low-ranked submission before trusting
+   the AI ranking — and both scores are recorded for each (tests A2.3). This
+   keeps the engineer's load near the one hour he estimated; scoring all ten
+   would be about 3.3 hours at his own 20 minutes per review.
 
 **Arm B: recruiters (A3.1, A3.3).**
 1. Contact 5+ recruiters or hiring managers who screen interns or juniors in
    software, web or data (IE Talent & Careers, LinkedIn, alumni).
-2. Show two anonymised profiles side by side: CV only, and the same CV plus a
-   SkillBridge certificate from the prototype. 15-minute call or form.
-3. Ask: which would you shortlist and why; does the certificate change your
+2. Show two anonymised profiles side by side: CV only, and the same CV plus a SkillBridge certified result from the prototype, shown as the full bundle — work artifact, rubric breakdown with the company's name on it, engineer feedback and contribution record — never a bare score
+   (decided 2026-10-12, after V2-R01 discounted an unexplained 82/100). 15-minute call or form.
+4. Ask: which would you shortlist and why; does the certificate change your
    decision; would you accept it instead of your take-home test; what would make
    you distrust it.
 
