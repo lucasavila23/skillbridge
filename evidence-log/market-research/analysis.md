@@ -1,5 +1,17 @@
 # Analysis and how to challenge the estimate
 
+> **v2 note (2026-10-12):** after the pivot to a challenge platform
+> ([opportunity](../opportunity.md)), the student-pool estimate below still
+> applies: it counts Madrid software, web and data students with an experience
+> gap, which is the same user. Assumption A4 ("commitment") was framed for paid
+> client campaigns and should be re-read as "would complete a short challenge".
+> No v2 revenue has been estimated: the price and payer are untested
+> ([experiment card](../experiment-card.md)). Global market-size figures for
+> assessment, hackathon and virtual-internship platforms are in the
+> [market landscape notes](deep-research/research_notes/SkillBridge%20v2%20challenge%20market/market_landscape.md);
+> they come from inconsistent paid-report press releases and are quoted as ranges only.
+
+
 **2026-10-01 · Working hypothesis · Madrid region**
 
 The headline is **about 2,000 potential student participants in one academic
