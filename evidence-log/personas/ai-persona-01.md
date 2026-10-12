@@ -141,7 +141,7 @@ new venture-wide risk ranking or a completed student-supply test.
 - [Opportunity](../opportunity.md): venture context, not validation of this persona.
 - [Goals](../goals.md): team intent, not customer evidence.
 - [Assumptions](../assumptions.md): the two selected student-side risks.
-- [Complete Persona Agent prompt](tinkerer-agent-prompt.md): standalone prompt
+- [Complete Persona Agent prompt](ai-persona-01-agent-prompt.md): standalone prompt
   for a fresh conversation.
 
 **Readiness:** Ready for research rehearsal with explicit evidence boundaries.

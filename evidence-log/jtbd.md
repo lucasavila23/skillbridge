@@ -76,7 +76,7 @@ counts, claim boundaries and the next validation actions.
 - [UV-S01 — Student 1](validation/interviews-2026-09-22.md#uv-s01).
 - [UV-S02 — Student 2](validation/interviews-2026-09-22.md#uv-s02).
 - [Findings and counterevidence](validation/findings-2026-09-22.md).
-- [The Tinkerer](personas/tinkerer.md) and [The Late Sprinter](personas/late-sprinter.md):
+- [The Tinkerer](personas/ai-persona-01.md) and [The Late Sprinter](personas/ai-persona-02.md):
   behavioural hypotheses examined using these accounts, not additional sources.
 - JTBD workshop, 2026-09-17: original team hypotheses about a job-listing
   trigger, money, lack of business pressure and coursework-level capability.

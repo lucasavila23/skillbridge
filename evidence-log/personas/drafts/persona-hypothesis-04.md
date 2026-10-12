@@ -13,7 +13,7 @@ determines whether the supply-side value proposition holds.
 **Grounding: HYPOTHESIS-HEAVY** — zero primary interviews yet. This persona
 didn't exist anywhere else in the model until this was written, despite
 being the person whose behaviour determines whether
-[The Unconnected Student's](unconnected-student.md) entire Job to Be Done is
+[The Unconnected Student's](persona-hypothesis-02.md) entire Job to Be Done is
 real or imagined.
 
 **Evidence review — 2026-09-22:** not addressed by this round — the four
@@ -23,8 +23,8 @@ it requires a distinct recruiter-interview effort (see Validate next below).
 
 ## How this differs from every other persona
 
-[The Unconnected Student](unconnected-student.md) and
-[The Late Sprinter](late-sprinter.md) both *assume* a recruiter will weight
+[The Unconnected Student](persona-hypothesis-02.md) and
+[The Late Sprinter](../ai-persona-02.md) both *assume* a recruiter will weight
 a SkillBridge credential meaningfully. Nobody previously represented that
 recruiter's actual decision process, their existing filters, or what would
 make them trust — or dismiss — the signal. Without this persona, the
@@ -112,9 +112,9 @@ students or business owners.
 
 | | |
 |---|---|
-| SUPPORTED | Employers say skills-based hiring matters, but under 1 in 700 hires actually move on it without independent proof (`../opportunity.md`, HBS/Burning Glass 2024) — the strongest existing evidence here, and it cuts against the credential hypothesis as much as it supports it |
-| SUPPORTED | Referrals convert 30–60% to interview vs. 0.1–2% for cold applications (`../opportunity.md`) — implies recruiters heavily favour pre-vetted signals over self-reported ones, exactly the skepticism this persona embodies |
-| WORKING ASSUMPTION | A verified campaign record + business rating is a claim recruiters will actually weight — currently a claim on [The Unconnected Student](unconnected-student.md), untested from the recruiter's own side |
+| SUPPORTED | Employers say skills-based hiring matters, but under 1 in 700 hires actually move on it without independent proof (`../../opportunity.md`, HBS/Burning Glass 2024) — the strongest existing evidence here, and it cuts against the credential hypothesis as much as it supports it |
+| SUPPORTED | Referrals convert 30–60% to interview vs. 0.1–2% for cold applications (`../../opportunity.md`) — implies recruiters heavily favour pre-vetted signals over self-reported ones, exactly the skepticism this persona embodies |
+| WORKING ASSUMPTION | A verified campaign record + business rating is a claim recruiters will actually weight — currently a claim on [The Unconnected Student](persona-hypothesis-02.md), untested from the recruiter's own side |
 | UNKNOWN | Whether recruiters would even notice, let alone credit, this credential without prior brand recognition |
 | UNKNOWN | What minimum format and verification threshold moves this from "ignored" to "actively weighted" |
 
@@ -144,13 +144,13 @@ or business owners. Possible approaches:
 
 ## Related personas
 
-- [The Unconnected Student](unconnected-student.md) and [The Late Sprinter](late-sprinter.md) — both assume this persona's behaviour without modeling it; this file is the missing other half of their credential hypothesis.
+- [The Unconnected Student](persona-hypothesis-02.md) and [The Late Sprinter](../ai-persona-02.md) — both assume this persona's behaviour without modeling it; this file is the missing other half of their credential hypothesis.
 
 ## Sources and companion output
 
-- [Overview: why the personas split this way, and the update rule](README.md).
+- [Overview: why the personas split this way, and the update rule](../README.md).
 - Added via PR #8, "Add The Skeptical Verifier persona," 2026-09-22 (Abhiram Kidambi, with Claude Opus 5).
-- [Opportunity](../opportunity.md).
+- [Opportunity](../../opportunity.md).
 
 **Readiness:** hypothesis-heavy except where marked SUPPORTED above. The
 least-evidenced persona in the set. Real-user validation remains open.

@@ -1,6 +1,6 @@
 # Persona: The Once-Bitten Owner
 
-Business side — distinct from [The Guarded Owner](guarded-owner.md).
+Business side — distinct from [The Guarded Owner](drafts/persona-hypothesis-01.md).
 
 **"I already paid for a bad website. I won't get burned twice."**
 
@@ -12,7 +12,7 @@ with paid digital work** — Baya's past provider was a trusted friend who
 helped for free, and Nolita has paid no one. This persona remains completely
 untested; it is not confirmed *or* ruled out by this round. See
 [findings](../validation/findings-2026-09-22.md) and
-[The Guarded Owner](guarded-owner.md), which *did* get partial grounding
+[The Guarded Owner](drafts/persona-hypothesis-01.md), which *did* get partial grounding
 from the same two interviews.
 
 ## How this differs from the Guarded Owner
@@ -146,7 +146,7 @@ profile.
 ## Sources and companion output
 
 - [Overview: why the personas split this way, and the update rule](README.md).
-- [The Guarded Owner](guarded-owner.md) — companion business-side persona this one is a variant of.
+- [The Guarded Owner](drafts/persona-hypothesis-01.md) — companion business-side persona this one is a variant of.
 - [Assumptions](../assumptions.md), [Experiment card](../experiment-card.md).
 
 **Readiness:** hypothesis-heavy. Real-user validation remains open.
