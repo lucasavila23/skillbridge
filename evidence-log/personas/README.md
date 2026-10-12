@@ -20,8 +20,9 @@ Skeptical Verifier replaces the Once-Bitten Owner as the third critical persona.
 No `persona-hypothesis-04` file exists any more; numbering is kept so old
 references in the [v1 archive](../archive/v1-paid-projects/personas/README.md) stay meaningful.
 
-The three critical personas selected in the
-[Session 8 deck](session8-personas-deck.pptx) are `ai-persona-01..03.md`; the
+The three critical personas are `ai-persona-01..03.md`: the Tinkerer and Late
+Sprinter were selected in the [Session 8 deck](session8-personas-deck.pptx), the
+Skeptical Verifier on 2026-10-12; the
 other hypotheses stay in `drafts/` until the team records its merge decisions.
 
 | File | Persona | Status |
@@ -37,7 +38,7 @@ other hypotheses stay in `drafts/` until the team records its merge decisions.
 
 ## Current personas
 
-Business side (demand side of trust):
+Business side (v1 only, archived; small businesses are not a v2 customer):
 
 - [The Guarded Owner](drafts/persona-hypothesis-01.md) — general uncertainty about trusting a student team. **Partial participant-reported grounding (UV-B01).**
 - [The Once-Bitten Owner](drafts/persona-hypothesis-06.md) — a specific prior bad experience with paid digital work. **Untested by the 2026-09-22 round** — neither business interviewed reported a bad prior experience.
@@ -59,7 +60,8 @@ Nolita's manager (UV-B02) reported no current project and said even cheap
 work costs real time to brief and review. That's a counter-example to
 assuming most SMBs have a current undone digital task — it argues for
 qualifying a business's actual current need *before* counting it toward the
-[10-business outreach test](../experiment-card.md), not just chasing volume.
+v1 10-business outreach test, which was closed without running
+([experiment card](../experiment-card.md)). It was one of the reasons for the v2 pivot.
 
 ## Why three sides, not two
 
@@ -69,9 +71,9 @@ weight right now. The student-side personas rest on solid third-party
 labor-market data (SUPPORTED throughout); the business-side personas rest
 almost entirely on the absence of contrary evidence and the founder's own
 read of the risk (REPORTED/HYPOTHESIS/UNKNOWN). That asymmetry is itself
-useful: it's exactly why [`assumptions.md`](../assumptions.md) names
-business-side trust, not student pull, as the riskiest assumption the model
-depends on.
+useful: it's why v1 named business-side trust as its riskiest assumption.
+In v2 the risk moved to the credential: [`assumptions.md`](../assumptions.md#riskiest-assumption)
+names students paying because employers trust the score (A1.3 + A3.1).
 
 The Skeptical Verifier (2026-09-22) adds a third side: nobody who actually
 decides whether the credential works — a recruiter or hiring manager — was
@@ -83,8 +85,7 @@ assuming it.
 ## Update rule
 
 Per the course workflow: only real-user evidence updates these personas or
-the Jobs to Be Done grounding in [`jtbd.md`](../jtbd.md). The 10-business
-pitch test in [`experiment-card.md`](../experiment-card.md) is the next
-event that can move the business-side personas out of pure hypothesis;
-nothing currently planned tests the student-side personas directly until
-the student supply-side test triggers on the decision rule.
+the Jobs to Be Done grounding in [`jtbd.md`](../jtbd.md). The v2
+[experiment card](../experiment-card.md) is the next event: Arm A (students
+pay for a certified result) tests the Tinkerer and Late Sprinter, and Arm B
+(recruiters judge the certificate) tests the Skeptical Verifier.

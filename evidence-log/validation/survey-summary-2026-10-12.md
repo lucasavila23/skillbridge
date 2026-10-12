@@ -3,7 +3,8 @@
 **Source:** [survey-responses.csv](survey-responses.csv), pulled from the live
 published Google Sheet with [pull-survey.sh](pull-survey.sh) on 2026-10-12.
 **n = 17** responses, timestamps from 2026-09-22. Self-reported, multi-select
-where noted. Respondents' university, programme and screening are not recorded
+where noted. Q2 allowed up to three choices,
+but 3 respondents picked four or five; counts include every selection as given. Respondents' university, programme and screening are not recorded
 in the sheet; the [pilot assessment](../market-research/pilot-assessment-2026-10-01.md)
 (n = 11) probably overlaps with these responses and must not be added to them.
 

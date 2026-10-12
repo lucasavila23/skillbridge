@@ -1,5 +1,9 @@
 # Competitive alternatives — what students would choose instead
 
+> **v2 note (2026-10-12):** the seven alternatives below were analysed for v1
+> (paid client campaigns). For the challenge platform, read the
+> [v2 alternatives section](#v2-alternatives-challenge-and-assessment-platforms-2026-10-12).
+
 **Research date:** 2026-10-01 · **Scope:** Madrid-region tech undergraduates,
 primarily years 2–4, seeking their first credible examples of practical work.
 **Status:** Desk research, September interviews and actual pilot findings.
@@ -199,7 +203,8 @@ students use, prefer or reject a platform; that is untested.
 
 ## Sources
 
-All external sources were reviewed on **2026-10-01**. Dated help articles are
+External sources for the v1 alternatives were reviewed on **2026-10-01**; the
+v2 rows (DV1, HE1–2, HR1–2, KG1) on **2026-10-12**. Dated help articles are
 identified below; undated pages are snapshots of the published offer at review.
 No provider's promotional hiring-uplift statistic is used in this analysis.
 

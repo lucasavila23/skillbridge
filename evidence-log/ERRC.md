@@ -45,7 +45,8 @@ proves completion, not quality; team results are shared, not attributed.
 | Eliminate | Prize pools and weekend-long events: no prizes, no venues, no 24–48 h hackathons | "Students participate for prizes" | No prize budget or event logistics for companies or for us; a company's cost becomes one brief, one rubric sign-off and a review of the top submissions | Students keep their evenings and weekends; the reward is the scored result itself | **Contradicted in part:** prize amount is the top hackathon-choice reason (Devpost 2023, organiser survey); our survey shows clear scope (11/17) and career relevance (11/17) far above payment (3/17) | Whether students start and finish a challenge with no prize |
 | Reduce | Time per challenge to 2–7 h; company judging time by letting automated tests and an AI rubric score every submission, with the engineer reviewing only the top and uncertain ones | "A credible result needs a long project and a human grading every entry" | Lower engineer hours per challenge; lower student time cost | Fits stated capacity: 12/17 can give ≤4 h/week, 0 can give 8+ | **Evidence** for capacity (survey). Completion risk: 15% of registrants submitted in one Devpost online hackathon; MOOC completion 3% overall vs 46% for payers (Science 2019) | Completion rate on a 4 h challenge; AI vs engineer score agreement |
 | Raise | Verifiability: per-member contribution from commits **plus** peer ratings, and a 10-minute live debrief for top results; written feedback on every certified result | "A certificate or a final output is enough proof" | Higher cost per top submission (debrief and engineer time) | Answers the recruiter's "what did *you* do?" and the AI-cheating worry | **Evidence** for the need: 14/17 struggle to explain contribution; peer assessment cut free-riding complaints from 26% to 7% in one study; git data alone misses silent or absent members ([student motives][N-s]). AI cheating rising (see baseline) | That the debrief scales; that students accept contribution scoring |
-| Create | A company-calibrated score with a verified individual-contribution record, stacked on a portable profile and shareable to LinkedIn and Europass | "Credentials prove completion, not quality, and team work cannot be attributed" | Low marginal cost once the rubric exists; profile and sharing are software | A signal the market lacks: showing certificates on LinkedIn raised new jobs by about 6% and by about 12% for the weakest candidates (Athey & Palikot, Stanford randomised trial, 2024–2025) ([credential credibility][N-r]) | **Gap evidenced:** no commercial platform certifies who did what in a team ([market landscape][N-m]). **Employer value: Hypothesis.** Skills-based hiring changed fewer than 1 in 700 hires (HBS & Burning Glass, 2024) | Whether recruiters shortlist on it (experiment card, Arm B) |
+| Create | A company-calibrated score with a verified individual-contribution record, stacked on a portable profile and shareable to LinkedIn and Europass | "Credentials prove completion, not quality, and team work cannot be attributed" | Low marginal cost once the rubric exists; profile and sharing are software | A signal the market lacks: showing certificates on LinkedIn raised new jobs by about 6% and by about 12% for the weakest candidates (Athey & Palikot, Stanford randomised trial, 2024–2025, with Coursera learners
+without a degree in developing countries, not Spanish students) ([credential credibility][N-r]) | **Gap evidenced:** no commercial platform certifies who did what in a team ([market landscape][N-m]). **Employer value: Hypothesis.** Skills-based hiring changed fewer than 1 in 700 hires (HBS & Burning Glass, 2024) | Whether recruiters shortlist on it (experiment card, Arm B) |
 
 ## Value innovation hypothesis
 
@@ -54,7 +55,8 @@ first-pass scoring, SkillBridge cuts the cost of a challenge for companies and
 the time cost for students, while raising what the result is worth: a score
 calibrated to a real company's bar, with each student's contribution and an
 integrity check on record. It is falsified if fewer than 30% of submitting
-students pay €15 for the certified result, or fewer than 3 of 5 recruiters say
+students pay €15 for the certified result (with at least 10 submissions; fewer
+is inconclusive), or fewer than 3 of 5 recruiters say
 it would change or support a shortlisting decision
 ([experiment card](experiment-card.md)).
 
@@ -76,7 +78,7 @@ This remains a hypothesis, not a validated blue ocean or confirmed business mode
 
 - **Real evidence:** students' difficulty proving contribution and experience
   beyond coursework, their short time capacity and their wish for clear scope and
-  feedback (survey n = 17, pilot n = 11, four interviews).
+  feedback (survey n = 17, pilot n = 11, two student interviews UV-S01/S02).
 - **Desk research:** competitor offers, market prices, cheating trends, the
   Stanford certificate trial and the absence of team-attribution platforms
   ([deep research notes][N]). Most platform outcome figures are vendor claims.

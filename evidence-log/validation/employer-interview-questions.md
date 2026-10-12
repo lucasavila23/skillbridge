@@ -1,5 +1,10 @@
 # Large-employer interview questions
 
+> **v1 instrument (added on the `user-validation` branch).** Sections 1–4 (hiring
+> situation, evidence and screening) are reusable for v2 Arm B recruiter
+> conversations. Section 5 onward walks through the **v1** prototype (charter and
+> deposit) and must not be used for Arm B; show [prototype v1](../../prototype/prototype-v1.html) instead.
+
 ## 1. Hiring situation and missing evidence
 
 - Think about the last internship recruitment round you were involved in.

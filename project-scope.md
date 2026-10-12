@@ -1,5 +1,12 @@
 # Project Scope — SkillBridge
 
+> **v2 pivot, 2026-10-12:** SkillBridge is now a challenge platform. The live
+> one-liner is in [evidence-log/opportunity.md](evidence-log/opportunity.md) and the
+> riskiest assumption in [evidence-log/assumptions.md](evidence-log/assumptions.md#riskiest-assumption).
+> Everything below about paid SMB projects, deposits and the concierge pitch
+> (including section 7b) describes **v1** and is kept as the working history; the
+> v1 evidence snapshot is in [evidence-log/archive/v1-paid-projects/](evidence-log/archive/v1-paid-projects/README.md).
+
 Living document. Captures the concept, the class context, what we've decided, what's
 still open, and a running log of our working sessions. **Updated after every round
 of questions.**

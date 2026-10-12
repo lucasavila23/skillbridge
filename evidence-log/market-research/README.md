@@ -1,5 +1,12 @@
 # SkillBridge market research — the piano-tuners exercise
 
+> **v2 note (2026-10-12):** after the pivot to a challenge platform, the student
+> pool below still applies, but "paid client project" and "team campaign" read as
+> "short company challenge", and the business deposit experiment is closed
+> ([experiment card](../experiment-card.md)). v2 market research:
+> [competitive analysis, v2 section](competitive-analysis.md#v2-alternatives-challenge-and-assessment-platforms-2026-10-12),
+> [value curve](value-curve.md) and the [v2 market report](deep-research/reports/SkillBridge%20v2%20challenge%20market.md).
+
 **Date:** 2026-10-01 · **Geography:** Madrid region, confirmed by the user.
 **Status:** Pilot results reviewed; the regional participation rate remains
 unmeasured and all four model rates remain assumptions.
