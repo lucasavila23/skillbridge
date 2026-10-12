@@ -55,7 +55,7 @@ teammate-shared notes, not an observed purchase.
 [Nolita's manager](../../validation/interviews-2026-09-22.md#uv-b02) reports no
 current project, a sufficient existing workflow, and a briefing/review-time
 cost even for cheap work — a counterexample to assuming every small business
-qualifies as a prospect. See [The Once-Bitten Owner](../ai-persona-03.md)
+qualifies as a prospect. See [The Once-Bitten Owner](persona-hypothesis-06.md)
 for why Nolita is *not* forced into that persona either: no bad-provider
 experience was reported.
 
@@ -76,7 +76,7 @@ paid commitment; interview interest is a separate, earlier signal.
 
 ## Related personas
 
-- [The Once-Bitten Owner](../ai-persona-03.md) — same business side, distinguished by a specific prior negative experience with paid digital work rather than general guardedness.
+- [The Once-Bitten Owner](persona-hypothesis-06.md) — same business side, distinguished by a specific prior negative experience with paid digital work rather than general guardedness.
 - [The Unconnected Student](persona-hypothesis-02.md) — the other side of the marketplace.
 
 ## Sources and companion output

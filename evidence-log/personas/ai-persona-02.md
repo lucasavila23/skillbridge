@@ -1,5 +1,7 @@
 # Persona: The Late Sprinter
 
+> **v2 note (2026-10-12):** The Late Sprinter is v2's most likely payer: a deadline makes a fast, credible signal worth money. v2 stresses A1.3 (paying) and A3.1 (recruiters trusting the score). Unknown: whether one certified challenge is enough for this persona, or they churn after one. Assumption IDs refer to [assumptions](../assumptions.md).
+
 **Version:** 0.2 — 2026-09-22
 
 **Grounding status:** Hypothesis-heavy, with limited participant-reported overlap.

@@ -14,6 +14,12 @@ independently observed by the team.
 
 ## File layout (course structure)
 
+**v2 selection (2026-10-12):** after the pivot to a challenge platform, the
+credential's credibility with recruiters is the riskiest assumption, so the
+Skeptical Verifier replaces the Once-Bitten Owner as the third critical persona.
+No `persona-hypothesis-04` file exists any more; numbering is kept so old
+references in the [v1 archive](../archive/v1-paid-projects/personas/README.md) stay meaningful.
+
 The three critical personas selected in the
 [Session 8 deck](session8-personas-deck.pptx) are `ai-persona-01..03.md`; the
 other hypotheses stay in `drafts/` until the team records its merge decisions.
@@ -22,19 +28,19 @@ other hypotheses stay in `drafts/` until the team records its merge decisions.
 |---|---|---|
 | [ai-persona-01.md](ai-persona-01.md) (+ [agent prompt](ai-persona-01-agent-prompt.md)) | The Tinkerer | Selected |
 | [ai-persona-02.md](ai-persona-02.md) (+ [agent prompt](ai-persona-02-agent-prompt.md)) | The Late Sprinter | Selected |
-| [ai-persona-03.md](ai-persona-03.md) | The Once-Bitten Owner | Selected |
+| [ai-persona-03.md](ai-persona-03.md) | The Skeptical Verifier | Selected (v2, 2026-10-12) |
 | [drafts/persona-hypothesis-01.md](drafts/persona-hypothesis-01.md) | The Guarded Owner | Draft |
 | [drafts/persona-hypothesis-02.md](drafts/persona-hypothesis-02.md) | The Unconnected Student | Draft |
 | [drafts/persona-hypothesis-03.md](drafts/persona-hypothesis-03.md) | The Solo Specialist | Draft |
-| [drafts/persona-hypothesis-04.md](drafts/persona-hypothesis-04.md) | The Skeptical Verifier | Draft |
 | [drafts/persona-hypothesis-05.md](drafts/persona-hypothesis-05.md) | Two-sided persona set (Juan, v1, 2026-09-17) | Draft, earlier v1 set |
+| [drafts/persona-hypothesis-06.md](drafts/persona-hypothesis-06.md) | The Once-Bitten Owner | Draft (selected in v1; small businesses are no longer the paying side in v2) |
 
 ## Current personas
 
 Business side (demand side of trust):
 
 - [The Guarded Owner](drafts/persona-hypothesis-01.md) — general uncertainty about trusting a student team. **Partial participant-reported grounding (UV-B01).**
-- [The Once-Bitten Owner](ai-persona-03.md) — a specific prior bad experience with paid digital work. **Untested by the 2026-09-22 round** — neither business interviewed reported a bad prior experience.
+- [The Once-Bitten Owner](drafts/persona-hypothesis-06.md) — a specific prior bad experience with paid digital work. **Untested by the 2026-09-22 round** — neither business interviewed reported a bad prior experience.
 
 Student side (supply side of talent):
 
@@ -45,7 +51,7 @@ Student side (supply side of talent):
 
 Evaluation side (the person who decides whether the credential means anything):
 
-- [The Skeptical Verifier](drafts/persona-hypothesis-04.md) — the recruiter/hiring manager whose screening behaviour determines whether the student-side credential hypothesis is real. **Untouched** — this round interviewed students and business owners, not recruiters. Still the least-evidenced persona in the set.
+- [The Skeptical Verifier](ai-persona-03.md) — the recruiter/hiring manager whose screening behaviour determines whether the student-side credential hypothesis is real. **Untouched** — this round interviewed students and business owners, not recruiters. Still the least-evidenced persona in the set.
 
 ## Cross-cutting finding: not owned by any single persona
 

@@ -1,5 +1,7 @@
 # Persona: The Tinkerer
 
+> **v2 note (2026-10-12):** The Tinkerer fits v2 well: short, bounded challenges suit gradual, tool-curious engagement. v2 stresses A1.2 (completing a 2–7 hour challenge) and A1.3 (paying for certification). Unknown: whether a Tinkerer values a score over the freedom of a personal project. Assumption IDs refer to [assumptions](../assumptions.md).
+
 **Version:** 0.3 — 2026-09-22
 
 **Grounding status:** Partial participant-reported grounding; broader pattern and client delivery unvalidated.
