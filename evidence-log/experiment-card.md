@@ -80,3 +80,21 @@ inconclusive, not a pass or fail.
 **Owner:** Lucas Avila (coordination); arm owners assigned at Session 14.
 **Stop condition:** no brief and no engineer sign-off by 2026-10-20 → run Arm B
 alone and record Arm A as not run.
+
+## Next: details to narrow
+
+The direction is set; the details are not. Each line below states what we
+already know, the specific number or choice we still have to define, and how we
+will narrow it. Values marked "to define" are decided by the team **before** the
+test starts, not after seeing results.
+
+| # | What we know | What we still need to define | How we narrow it |
+|---|---|---|---|
+| 1 | Certificates can help: showing a certificate on LinkedIn raised new employment by about 6%, and by about 12% for the weakest candidates (Athey & Palikot, Stanford trial, Coursera learners in developing countries). Platform claims of "2–4x" are vendor figures with no method. | **By how many percentage points our certificate must raise shortlisting** for it to be worth paying for (to define). | Arm B: show recruiters the same CV with and without the certificate; compare shortlist rates and set the minimum uplift in advance. |
+| 2 | Every alternative is free to students; students pay for prep they believe works (LeetCode about $35/month, AWS exam about $100). Research puts a plausible one-off student fee at €10–30. | **The student price** within €10–30 that students accept and that still reads as credible, not as buying a pass (€15 is the first test value). | Survey follow-up question on price, then Arm A at €15; record "yes at a lower price" answers. |
+| 3 | Companies already pay for screening and challenges: HackerRank from $79/month, Riipen $11.67/hour per student, Parker Dewey 10-hour projects, hackathon sponsorship $500–$50k+. | **The company price per challenge** and what the company gets for it (shortlist, engineer time saved, branding). | Ask the Arm A company contact and Arm B recruiters what they would pay instead of their current take-home or event. |
+| 4 | The team ranks students paying first; the research recommends companies pay and students get the certificate free. | **Which side pays first**, and whether the two prices together cover one challenge's cost. | Decided by the Arm A/Arm B results through the decision rule above. |
+| 5 | Students can give 2–7 hours a week; 12/17 at four hours or less. | **One time box** (4 hours is the working value) and the **completion rate** we need (to define; free online hackathons see about 15% of registrants submit). | Pilot challenge completion: starts vs submissions. |
+| 6 | Git data alone misses silent or absent team members; peer ratings cut free-riding complaints from 26% to 7% in one study. | **How contribution is weighted** between commits, task logs and peer ratings, and the dispute rule. | Run both measures on pilot teams; compare with the engineer's view in the debrief. |
+| 7 | Remote assessments face rising AI cheating; employers are adding live stages. | **How long the engineer debrief can be** before companies refuse (10 minutes is the working value). | Ask the company contact; time the pilot debriefs. |
+| 8 | The survey (n = 17) shows the student problem but never asked about paying, trust or profile fit. | **Follow-up questions to add to the same Google Form**: year, degree, university and internship status; would you do a 4-hour company challenge; would you pay €15 to certify the score (yes / no / at a lower price); what would make you trust or distrust the certificate. | Send to existing respondents and classmates; new answers flow into the live sheet and [pull-survey.sh](validation/pull-survey.sh). |
