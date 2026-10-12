@@ -1,31 +1,29 @@
 # Recruitment
 
-## Interview records received — 2026-09-22
+**v2, 2026-10-12.** Recruitment for the [v2 experiment card](experiment-card.md).
+v1 records are in the [archive](archive/v1-paid-projects/recruitment.md).
 
-The user supplied interview answers shared by a teammate and
-confirmed the interview window as **September 15–20, 2026**. Both students attend
-IE University; the Baya respondent is the owner and the Nolita respondent is the
-manager. Exact individual dates, interviewer identity and original source
-materials remain unspecified. These are teammate-reported records, not
-independently observed interviews.
+## Prior records (still evidence)
 
-| Record | Respondent | Reported experience relevant to the study | Qualification still open |
-|---|---|---|---|
-| [UV-S01](validation/interviews-2026-09-22.md#uv-s01) | IE University Student 1 | Internship application requested GitHub/project examples; collaborative study planner, frontend contribution and component-library adaptation | Actual coursework level, work artifacts, availability and ability to deliver client work |
-| [UV-S02](validation/interviews-2026-09-22.md#uv-s02) | IE University Student 2 | Internship application requested a delivery example; class Python dashboard, data cleaning and charts | Academic stage, deadline urgency, work artifacts and dependable availability |
-| [UV-B01](validation/interviews-2026-09-22.md#uv-b01) | Baya coffee shop owner | Past online-menu update, delayed website help and checks on prices/readability | Current unresolved project, offer/price acceptance and financial commitment |
-| [UV-B02](validation/interviews-2026-09-22.md#uv-b02) | Nolita manager | Existing Instagram/Google-listing workflow; no current project or demonstrated reason to outsource | Purchasing authority and a future qualifying need; not currently established as a formal-pitch prospect |
+| Record | What it is | Where |
+|---|---|---|
+| UV-S01, UV-S02, UV-B01, UV-B02 | Four teammate-reported interviews, 15–20 Sep 2026 | [interviews](validation/interviews-2026-09-22.md) |
+| Pilot, n = 11 | User-supplied pilot findings, 1 Oct 2026 | [pilot assessment](market-research/pilot-assessment-2026-10-01.md) |
+| Survey, n = 17 | Live Google Form, from 22 Sep 2026 | [survey summary](validation/survey-summary-2026-10-12.md) |
 
-- [Interview notes and source gaps](validation/interviews-2026-09-22.md).
-- [Findings, contradictions and implications](validation/findings-2026-09-22.md).
-- [Short interview guide](validation/interview-guide.md).
-- [Blank interview record template](validation/interview-record-template.md).
+## Who the v2 test recruits
 
-## Commercial test boundary
+| Arm | Target | Screening | Channels | Goal |
+|---|---|---|---|---|
+| A: students | 2nd–4th-year software, web or data students with mainly coursework experience | Year, programme, latest project type (survey Q3), weekly time ≥ 2 h | Survey respondents who left a contact; classmates; IE tech and data clubs | ≥ 15 starts for ≥ 10 submissions |
+| A: company | One engineer at a SaaS, engineering or data company | Hires interns or juniors; can sign off a rubric and review top submissions | Team and alumni contacts; IE Talent & Careers; LinkedIn | 1 brief + rubric sign-off by 2026-10-16 |
+| B: recruiters | Recruiters or hiring managers who screen interns or juniors in tech | Has screened at least one tech intern or junior in the last 12 months | IE Talent & Careers; LinkedIn; alumni | ≥ 5 completed conversations |
 
-These four conversations are exploratory interviews. No qualifying formal pitch,
-signed project charter or deposit transfer was documented. Neither business
-belongs in the [Experiment Card](experiment-card.md) conversion denominator on
-the basis of these notes alone. Baya's past task is not a secured new project;
-Nolita's lack of a current task is counterevidence to broad demand, not a failed
-deposit pitch. Record later formal pitches and commitments separately.
+## Log
+
+Record each contact: date, arm, channel, screened yes/no, outcome, link to notes.
+Use the [interview record template](validation/interview-record-template.md) for
+Arm B conversations.
+
+| Date | Arm | Who (role, no names) | Channel | Screened | Outcome | Notes |
+|---|---|---|---|---|---|---|
