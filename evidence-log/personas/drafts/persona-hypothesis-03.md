@@ -1,6 +1,6 @@
 # Persona: The Solo Specialist
 
-Student side — distinct from [The Unconnected Student](unconnected-student.md).
+Student side — distinct from [The Unconnected Student](persona-hypothesis-02.md).
 
 **"I can build it alone. I freeze when people and clients get involved."**
 
@@ -8,12 +8,12 @@ Student side — distinct from [The Unconnected Student](unconnected-student.md)
 
 **Evidence review — 2026-09-22:** no direct evidence, and the closest
 available signal cuts mildly the other way — both interviewed students
-([UV-S01](../validation/interviews-2026-09-22.md#uv-s01),
-[UV-S02](../validation/interviews-2026-09-22.md#uv-s02)) described their most
+([UV-S01](../../validation/interviews-2026-09-22.md#uv-s01),
+[UV-S02](../../validation/interviews-2026-09-22.md#uv-s02)) described their most
 recent project as a small **team** effort (2–3 classmates), not solo work.
 That doesn't rule this persona out — comfort in a small trusted class team
 says nothing about freezing with a stranger/client team — but it provides no
-support either. See [findings](../validation/findings-2026-09-22.md).
+support either. See [findings](../../validation/findings-2026-09-22.md).
 
 ## How this differs from the Unconnected Student
 
@@ -97,12 +97,12 @@ specialists, anti-ghost check-ins — not just "come for the certificate."
 
 ## Related personas
 
-- [The Unconnected Student](unconnected-student.md) — same student side, but seeking access/credential rather than surviving collaboration.
-- [The Tinkerer](tinkerer.md) — also adapts and customises tools solo; contrast on whether collaboration itself is the risk.
+- [The Unconnected Student](persona-hypothesis-02.md) — same student side, but seeking access/credential rather than surviving collaboration.
+- [The Tinkerer](../ai-persona-01.md) — also adapts and customises tools solo; contrast on whether collaboration itself is the risk.
 
 ## Sources and companion output
 
-- [Overview: why the personas split this way, and the update rule](README.md).
+- [Overview: why the personas split this way, and the update rule](../README.md).
 - Appended directly to root `personas.md` on GitHub, 2026-09-20 (khatib-06).
 
 **Readiness:** hypothesis-heavy except where marked GROUNDED above.

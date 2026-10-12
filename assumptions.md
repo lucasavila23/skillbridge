@@ -6,7 +6,7 @@ framing + desk research. Clean deliverable mirrored in
 `evidence-log/assumptions.md`.
 
 **Evidence update, 2026-10-01:** the original brainstorm below is historical.
-September interviews and actual pilot results now provide stronger student
+[September interviews](evidence-log/validation/findings-2026-09-22.md) and actual pilot results now provide stronger student
 problem and reported delivery/evaluation evidence. Use the
 [current assumption status](evidence-log/assumptions.md#evidence-update--2026-10-01)
 and [pilot assessment](evidence-log/market-research/pilot-assessment-2026-10-01.md).

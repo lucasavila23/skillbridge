@@ -1,5 +1,7 @@
 # Persona: The Late Sprinter
 
+> **v2 note (2026-10-12):** The Late Sprinter is v2's most likely payer: a deadline makes a fast, credible signal worth money. v2 stresses A1.3 (paying) and A3.1 (recruiters trusting the score). Unknown: whether one certified challenge is enough for this persona, or they churn after one. Assumption IDs refer to [assumptions](../assumptions.md).
+
 **Version:** 0.2 — 2026-09-22
 
 **Grounding status:** Hypothesis-heavy, with limited participant-reported overlap.
@@ -9,7 +11,7 @@
 This is one bounded behavioural hypothesis about a late-stage tech student
 racing a graduation or internship deadline. It does not represent a verified
 individual or all tech students. Proposed differences from
-[The Tinkerer](tinkerer.md) concern urgency, team preferences, tool behaviour and
+[The Tinkerer](ai-persona-01.md) concern urgency, team preferences, tool behaviour and
 retention; earlier or more gradual Tinkerer engagement has not been established.
 
 Version 0.2 reviews UV-S02, supplied as a teammate's interview notes. The user
@@ -153,13 +155,13 @@ ranking or a completed test.
   horizon.
 - [Assumptions](../assumptions.md): the two assumption areas this persona is
   selected to stress.
-- [The Tinkerer](tinkerer.md): companion student-side persona, contrasted
+- [The Tinkerer](ai-persona-01.md): companion student-side persona, contrasted
   on proposed tool/control patterns; timing and retention differences are
   unconfirmed.
 - [UV-S02 interview record](../validation/interviews-2026-09-22.md#uv-s02)
   and [findings](../validation/findings-2026-09-22.md): limited overlap, different
   current alternative and unconfirmed central persona attributes.
-- [Complete Persona Agent prompt](late-sprinter-agent-prompt.md): standalone
+- [Complete Persona Agent prompt](ai-persona-02-agent-prompt.md): standalone
   prompt for a fresh conversation.
 
 **Readiness:** Ready for research rehearsal with explicit evidence

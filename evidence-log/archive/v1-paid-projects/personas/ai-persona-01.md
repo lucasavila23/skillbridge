@@ -51,7 +51,7 @@ this persona.
 - **Failure threshold:** Would stop relying on an approach when repeated failures
   cost more time than it saves, or when they cannot inspect or modify the result.
   This is a hypothetical threshold, not an observed abandonment event.
-- **Evidence anchors:** [UV-S01 Q1–Q6](../validation/interviews-2026-09-22.md#uv-s01),
+- **Evidence anchors:** [UV-S01 Q1–Q6](../../../validation/interviews-2026-09-22.md#uv-s01),
   supplied as a teammate's notes. The earlier workshop remains the source of
   untested tool-control and failure-threshold hypotheses.
 - **Working assumptions:** The reported behaviour recurs across situations;
@@ -129,19 +129,19 @@ new venture-wide risk ranking or a completed student-supply test.
 
 ## Sources and companion output
 
-- [Persona Builder exercise](../../downloads/ai-prompt-persona-builder.md).
+- [Persona Builder exercise](../../../../downloads/ai-prompt-persona-builder.md).
 - Persona workshop conversation, 2026-09-17, Questions 1–8: working hypotheses
   and the user's selected label and assumptions; no real-user episode supplied.
 - Subsequent JTBD conversation, 2026-09-17: user-supplied trigger and money
   incentive, retained as hypotheses where not supported by the new notes.
-- [UV-S01 interview record](../validation/interviews-2026-09-22.md#uv-s01)
-  and [cross-interview findings](../validation/findings-2026-09-22.md).
+- [UV-S01 interview record](../../../validation/interviews-2026-09-22.md#uv-s01)
+  and [cross-interview findings](../../../validation/findings-2026-09-22.md).
 - [Current JTBD hypothesis](../jtbd.md): revised application trigger and
   claim-level evidence status.
 - [Opportunity](../opportunity.md): venture context, not validation of this persona.
 - [Goals](../goals.md): team intent, not customer evidence.
 - [Assumptions](../assumptions.md): the two selected student-side risks.
-- [Complete Persona Agent prompt](tinkerer-agent-prompt.md): standalone prompt
+- [Complete Persona Agent prompt](ai-persona-01-agent-prompt.md): standalone prompt
   for a fresh conversation.
 
 **Readiness:** Ready for research rehearsal with explicit evidence boundaries.

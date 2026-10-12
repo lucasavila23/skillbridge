@@ -1,131 +1,65 @@
 # Assumptions
 
-**SkillBridge — assumption map. v1, locked 2026-09-08.**
-Working notes and Stage-A raw list: `../assumptions.md`.
+**v2, 2026-10-12.** v1's map (business trust in paid student work) is in the
+[archive](archive/v1-paid-projects/assumptions.md).
+Inputs: [opportunity](opportunity.md), [JTBD](jtbd.md),
+[competitive analysis](market-research/competitive-analysis.md),
+[survey summary](validation/survey-summary-2026-10-12.md).
 
-Carried in from the Opportunity exercise: USER / NEED / INSIGHT / HOW MIGHT WE
-(see `opportunity.md`).
+Tags: **Evidence** (linked), **Decision** (team), **Hypothesis** (untested).
+Importance and evidence are rated High / Medium / Low.
 
-## Evidence update — 2026-10-01
+## Area 1: Student pull and payment
 
-The three-area map below retains the original hypotheses. The
-[actual pilot assessment](market-research/pilot-assessment-2026-10-01.md)
-updates their evidence status; the original “evidence needed” lists are not a
-claim that all fieldwork is still unrun.
+| # | Assumption | Importance | Evidence | Status |
+|---|---|---|---|---|
+| A1.1 | Students struggle to prove contribution and experience beyond coursework. | High | High | **Evidence:** 14/17 and 12/17 (survey); 9/11 each (pilot). |
+| A1.2 | Students will complete a challenge sized to 2–7 hours. | High | Medium | **Evidence** for capacity (12/17 at ≤4 h/week); completion itself untested. 7/17 cite losing motivation. |
+| A1.3 | Students will pay a certification fee for a calibrated score. | High | **None** | **Hypothesis.** Never asked; every alternative is free to students. |
+| A1.4 | Students will join teams and accept a per-member contribution record. | Medium | Low | **Hypothesis.** 4/17 cite teammate coordination as a blocker. |
 
-| Area | New support from the actual report | Still unresolved |
-|---|---|---|
-| Student pull and delivery | 9/11 selected difficulty showing experience beyond coursework and 9/11 explaining contribution; concrete offer acceptance, student payments and M1–M9 delivery outcomes are reported. | Offer denominator and commitment rate; individual logs, full segment fit for the survey, dropout/support costs, and the specific 5–6-strangers/no-paid-manager hypothesis. |
-| Business supply and trust | Interest/stated willingness to pay and client use/acceptance are reported. | Charters were not signed. The original signed-and-paid threshold is not demonstrated; qualifying-pitch/deadline logs and student-payment funding need reconciliation. |
-| Credential credibility | Recruiters reportedly found individual contribution clearer in campaign records. | Reviewer/pair counts and artifacts, hiring impact, anti-gaming, and LinkedIn/ATS acceptance. The report supports the underlying evidence's usefulness, not the badge alone. |
+## Area 2: Company supply
 
-The riskiest assumption remains business commitment. The roughly 2,000-student
-Madrid estimate and all four rates remain hypotheses. The survey obstacle table
-also needs reconciliation (23 selections against a maximum of 22).
-
----
-
-## Area 1: Student pull & delivery capability
-
-**Must be true**
-- Enough unconnected tech students will commit real, sustained hours to a campaign
-  for the CV record + certification + small cash (vs a solo side project or the
-  interview grind).
-- 5–6 students who don't know each other can self-organise and deliver a scoped
-  client project without a paid PM.
-- Coursework-level skills + light platform scaffolding are enough to ship
-  something a real small business accepts.
-- Mid-campaign dropout stays low enough not to break delivery.
-
-**Evidence needed**
-- Landing-page / waitlist sign-up intent from target students.
-- 5+ interviews with 2nd–4th-year tech students who job-hunted in the last year.
-- One real pilot campaign with a volunteer student team — observe self-organisation,
-  output quality, dropout.
-
-## Area 2: Business supply & trust
-
-**Must be true**
-- Enough small businesses have real digital projects too small for an agency but
-  real enough to matter.
-- A small business will hand a real, **paid** project to a team of inexperienced
-  students, given some structure/guarantee.
-- They'll pay at least a small amount — enough to fund the student cash and signal
-  seriousness. *(36% of SMBs spend $1k–$10k on a website, median ~$5k.)*
-- Delivered quality is good enough, often enough, that businesses aren't burned and
-  would repeat/recommend.
-- Both sides can be bootstrapped together despite the chicken-and-egg problem.
-
-**Evidence needed**
-- Cold-outreach to 10–15 local small businesses with a concrete, priced campaign
-  offer; measure interest + willingness to pay.
-- One real **paid** pilot; post-delivery satisfaction + repeat/referral intent.
-- Risk-perception interviews: what guarantee/structure would make them say yes.
+| # | Assumption | Importance | Evidence | Status |
+|---|---|---|---|---|
+| A2.1 | SaaS, engineering and data companies will provide a real brief and sign off a rubric. | High | None | **Hypothesis.** Companies already pay Devpost and HackerEarth to host events ([competitive analysis](market-research/competitive-analysis.md#v2-alternatives-challenge-and-assessment-platforms-2026-10-12)), so the behaviour exists elsewhere. |
+| A2.2 | A company engineer will review the top submissions within one week. | Medium | Low | **Hypothesis.** v1 interview UV-B02: reviewing work costs time ([findings](validation/findings-2026-09-22.md)). |
+| A2.3 | An AI rubric plus automated tests scores close enough to the engineer's judgement. | High | None | **Hypothesis.** Testable by comparing AI and engineer scores on the same submissions. |
 
 ## Area 3: Credential credibility
 
-**Must be true**
-- A "verified campaign" record + business rating is a claim recruiters actually
-  weight — enough to partly offset "no formal experience".
-- Target students believe it will help enough that it's a top reason they join.
-- The verification resists gaming (fake businesses, inflated ratings, ghost
-  contributors) or it loses all value.
-- (Future) LinkedIn / ATS surfacing accepts it as a legitimate verified credential.
+| # | Assumption | Importance | Evidence | Status |
+|---|---|---|---|---|
+| A3.1 | Recruiters treat a company-calibrated score as credible evidence of job-ready skill. | High | None | **Hypothesis.** The [Skeptical Verifier](personas/ai-persona-03.md) models this; no recruiter interviewed. |
+| A3.2 | A verified contribution record answers the recruiter's "what did *you* do?" question. | High | Low | **Evidence** that recruiters ask it (pilot P016); that a record answers it: Hypothesis. |
+| A3.3 | Employers would use the score in place of a take-home test. | Medium | None | **Hypothesis.** Basis for revenue hypothesis 2. |
 
-**Evidence needed**
-- Interviews with 3–5 recruiters / hiring managers: how would they read this on a
-  CV / LinkedIn?
-- Test with target students whether the credential is a top-3 motivator (vs cash,
-  vs the work itself).
-- Adversarial walkthrough of the verification design for abuse paths.
+## Revenue hypotheses (ranked by the team)
 
----
+1. **Students pay** a certification fee to be more attractive for internships. Depends on A1.3 and A3.1.
+2. **Companies pay** to use challenges as a hiring screen. Depends on A2.1 and A3.3.
+3. **Companies pay a sponsorship** for employer branding. Depends on A2.1; competes with Devpost and HackerEarth.
+
+The ranking is a **Decision**; none is validated.
 
 ## MECE checks
 
-- **Collectively exhaustive** — gap found: *platform / company viability*
-  (chicken-and-egg growth, unit economics, can a 5–6 person team build & test v0 by
-  December 2026). Resolution: the chicken-and-egg piece is an assumption **inside
-  Area 2**; "team ships v0 by Dec 2026" is a **project-execution risk** tracked in
-  `../project-scope.md`, not part of this map. No fourth area needed.
-- **Mutually exclusive** —
-  - *"Delivered quality is good enough"* → **Area 2** (outcome the business
-    experiences); Area 1 keeps the input capability.
-  - *"Students believe the credential helps"* → **Area 3** (the credential's pull);
-    Area 1 keeps behaviour/capability.
-
----
+- Areas split by actor: student (1), company (2), recruiter (3). Each assumption
+  has one owner actor.
+- Payment sits in Area 1 (student pays) and in the revenue list (who pays);
+  company payment is covered by A2.1 + A3.3, not repeated.
+- v1's business-trust assumptions are retired, not merged; see the archive.
 
 ## Riskiest assumption
 
-**A small business will hand a real, paid project to a team of inexperienced
-students.** (Area 2)
+Students will pay for a certified challenge score, because employers treat that score as credible evidence of job-ready skill.
 
-- It's the supply the entire loop depends on — no campaigns → nothing for students
-  to do → the credential certifies nothing.
-- It's the least under the team's control — students come from the founders'
-  network; paying clients don't.
-- It's the hardest to fake in a pilot — a friendly volunteer "client" doesn't test
-  real trust or willingness to pay.
-- Desk research found **no evidence** on SMB willingness to trust a *student team*
-  specifically — the biggest genuine unknown.
-- The founder independently identified business-side trust as riskiest — matches.
-
-**Initial test proposal (2026-09-08):** cold-outreach 10–15 real local small businesses with a priced
-campaign offer; measure how many agree to a paid pilot. Near-zero conversion =
-rethink the model before anything else.
-
-**Current test design (2026-09-09):** see [Experiment Card](experiment-card.md)
-for the concierge method, primary ten-business test, conditional five-business
-extension, and precommitted metric, threshold, and decision rule.
-
----
+It combines A1.3 and A3.1: both are High importance with no evidence, and
+revenue hypothesis 1 fails if either fails. Test: [experiment card](experiment-card.md).
 
 ## Open gaps
-- Primary reports now exist: [September interviews](validation/interviews-2026-09-22.md)
-  and the [actual pilot findings](validation/pilot-findings-source-2026-10-01.md).
-  Recover underlying records, cohort counts/overlap and recruitment details.
-- Complete and score the original business test; measure student readiness from
-  genuine offers, and document support costs before revising the market estimate.
-- Exact assignment deadline / number of required testers / rubric not pinned.
-- Certification anti-gaming design not yet specified.
+
+- Price point for the certification fee (the test uses one price; see the card).
+- Whether students prefer solo or team challenges.
+- Legal: IP of student submissions on a company brief (see
+  [legal constraints](../legal-constraints.md)).
