@@ -20,9 +20,10 @@ contribution" and 12/17 "showing experience beyond coursework"
 ([survey summary](validation/survey-summary-2026-10-12.md)); 9/11 for each in
 the [pilot](market-research/pilot-assessment-2026-10-01.md); interview accounts
 UV-S01 and UV-S02 ([interviews](validation/interviews-2026-09-22.md)).
-V2-S01 Q1-Q5 adds a reported application-to-solo-project sequence after
-difficulty substantiating individual work
-([v2 records](validation/v2-interviews-2026-10-12.md#v2-s01)).
+The survey is unscreened — year, programme and university were not collected
+— and its overlap with the pilot sample is unknown, so the two counts are
+reported side by side, never added
+([participant fit](recruitment.md#participant-fit-against-the-target-user)).
 
 ## USER
 
@@ -57,9 +58,11 @@ free and branded but only self-checked against a model answer; HackerRank gives
 a standard score but on puzzles; Devpost and Kaggle give prizes and ranks but no
 calibrated feedback or contribution record
 ([v2 competitive analysis](market-research/competitive-analysis.md#v2-alternatives-challenge-and-assessment-platforms-2026-10-12)).
-None of them records **who did what** in a team, which is the most common
-difficulty students report. **Evidence** for the gap in published features;
-**Hypothesis** that employers broadly value closing it; V2-R01 supplies one
+In the published materials of those four we found no record of **who did what**
+in a team, which is the most common difficulty students report. NUWE, the
+closest local competitor, does not publish its contribution model, so this is a
+bounded negative, not an exhaustive market check. **Evidence** for the four
+platforms' published features; **Unverified** for NUWE; **Hypothesis** that employers broadly value closing it; V2-R01 supplies one
 supportive interview response about inspectable evidence, not verification
 that SkillBridge can reliably attribute contributions.
 
@@ -83,7 +86,7 @@ calibrates the result to a company's bar or records individual contribution.
 | Student user | Same as v1 | Evidence |
 | Paying side | Ranked revenue hypotheses: 1. students pay a certification fee; 2. companies pay to use challenges as a hiring screen; 3. companies pay a sponsorship | Decision (ranking), Hypothesis (each) |
 | Challenge source | SaaS, engineering and data companies | One interview proposal (V2-E01); delivery and sign-off unconfirmed |
-| Scoring | Automated tests and an AI rubric score every submission; a company engineer signs off the rubric and reviews the top submissions | Decision |
+| Scoring | Automated tests and an AI rubric score every submission; a company engineer signs off the rubric, reviews the top submissions and writes the feedback on every certified result | Decision |
 | Credential | Score, rubric breakdown, written feedback, per-member contribution record, on a shareable profile | Decision |
 | Time per challenge | Sized to 2–7 hours | Evidence (survey capacity) |
 
