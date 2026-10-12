@@ -8,6 +8,15 @@
 
 **Use:** Research rehearsal and planning real-user validation.
 
+**V2 interview addendum, 2026-10-12:** [V2-S01](../validation/v2-interviews-2026-10-12.md#v2-s01)
+reports starting a solo project after difficulty proving group-project
+contribution, then pausing during exams without external feedback (Q1-Q5).
+Q10 expresses conditional willingness to pay EUR 15 for specific
+engineer-written feedback. This is a separate participant record with partial
+behavioural overlap, not identification as UV-S01 or proof of a stable persona.
+Challenge completion and payment remain unobserved; see the
+[v2 findings](../validation/v2-findings-2026-10-12.md).
+
 Version 0.3 incorporates UV-S01 from the teammate-reported interviews received
 on 2026-09-22. The user identifies Student 1 as an IE University student and
 dates the interviews to September 15–20; the individual date and original

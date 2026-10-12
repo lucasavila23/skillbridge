@@ -1,5 +1,13 @@
 # Persona: The Late Sprinter
 
+**V2 interview addendum, 2026-10-12:** [V2-S01 Q7-Q10](../validation/v2-interviews-2026-10-12.md#v2-s01-q7)
+reports paying for preparation before an imminent interview and states that
+academic deadlines could prevent challenge participation. That partly overlaps
+with urgency and timing hypotheses, but does not establish near-graduation
+status, a preference for short challenges, or disengagement after hiring.
+V2-S01 is a separate record, not identified as UV-S02. Conditional EUR 15
+willingness is not payment; see the [v2 findings](../validation/v2-findings-2026-10-12.md).
+
 > **v2 note (2026-10-12):** The Late Sprinter is v2's most likely payer: a deadline makes a fast, credible signal worth money. v2 stresses A1.3 (paying) and A3.1 (recruiters trusting the score). Unknown: whether one certified challenge is enough for this persona, or they churn after one. Assumption IDs refer to [assumptions](../assumptions.md).
 
 **Version:** 0.2 — 2026-09-22

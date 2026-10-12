@@ -2,6 +2,16 @@
 
 **v2, 2026-10-12.**
 
+**Interview intake, 2026-10-12:** the user supplied three interviews conducted
+on October 5, 6 and 10, before the planned pilot window. See the
+[source records](validation/v2-interviews-2026-10-12.md) and
+[assessment](validation/v2-findings-2026-10-12.md). They add one conditional
+EUR 15 willingness statement, one supportive recruiter mock-profile judgment,
+and one engineer's proposed CSV challenge and criteria. No pilot submission,
+payment, final brief or rubric sign-off is documented. This is preliminary
+interview evidence; neither arm's threshold has been reached. Price, minimum
+sample sizes, pilot dates and decision rules below are retained.
+
 ## v1 card: closed 2026-10-12, not run
 
 The v1 test (pitch 10 small businesses, ≥2 sign a charter and pay a 10% deposit)
