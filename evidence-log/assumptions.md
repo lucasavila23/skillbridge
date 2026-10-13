@@ -33,9 +33,9 @@ Importance and evidence are rated High / Medium / Low.
 
 | # | Assumption | Importance | Evidence | Status |
 |---|---|---|---|---|
-| A3.1 | Recruiters treat a company-calibrated score as credible evidence of job-ready skill. | High | Low | **Stated screening judgment:** V2-R01 Q6-Q7 favours a mock profile with work and engineer feedback, but discounts an unexplained numerical score. One recruiter; no observed hiring effect. |
+| A3.1 | Recruiters treat a company-calibrated score as credible evidence of job-ready skill. | High | Low | **Stated screening judgment:** V2-R01 Q6-Q7 favours a mock profile with work and engineer feedback, but discounts an unexplained numerical score. [DF-R01](validation/sources/company-interview-deem-finance.md) Q10-Q12 picks the certified profile on the same conditions. Two recruiters; no observed hiring effect. |
 | A3.2 | A verified contribution record answers the recruiter's "what did *you* do?" question. | High | Low | **Reported problem:** pilot P016, V2-S01 Q3 and V2-R01 Q3. The recruiter values inspectable evidence (Q6-Q7); actual contribution verification remains untested. |
-| A3.3 | Employers would use the score in place of a take-home test. | Medium | Low | **Conditional interest:** V2-R01 Q8 would consider the company's own brief and engineer sign-off, retaining a live check. No replacement decision recorded. |
+| A3.3 | Employers would use the score in place of a take-home test. | Medium | Low | **Conditional interest:** V2-R01 Q8 would consider the company's own brief and engineer sign-off, retaining a live check. [DF-R01](validation/sources/company-interview-deem-finance.md) Q14 says the same for the first screen. No replacement decision recorded. |
 
 ## Revenue hypotheses (ranked by the team)
 
@@ -59,6 +59,11 @@ until the pilot decides; the company price is defined alongside the pilot
 ([details to narrow](experiment-card.md#next-details-to-narrow), row 3) so the
 "students fail, recruiters pass" branch of the
 [decision rule](experiment-card.md#decision-rule) can start at once.
+
+[DF-R01](validation/sources/company-interview-deem-finance.md) supports hypotheses 2 and 3 from the buyer's side: it would pay per
+hire or per challenge from the campus and employer-branding budget, signed off
+by the HR director, replacing part of a datathon sponsorship. Stated and
+conditional; no price agreed.
 
 ## MECE checks
 
