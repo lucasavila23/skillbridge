@@ -1,7 +1,12 @@
-# Response to Assignment 1 feedback (Venture Skeleton v0)
+# Response to Challenge I and II feedback
 
-**Received:** grade 7.3 / 8.0 for group G2. Logged 2026-10-12. Each point below
-says what v2 changed and what is still open.
+Each row says what the feedback asked, what we changed, and what is still open.
+The one-page view of the current venture is the
+[Venture Skeleton v0.1](venture-skeleton.md).
+
+## Challenge I: Venture Skeleton v0 (7.3 / 8.0)
+
+**Received:** grade 7.3 / 8.0 for group G2. Logged 2026-10-12.
 
 | Criterion (score) | Feedback | What v2 did | Still open |
 |---|---|---|---|
@@ -13,3 +18,19 @@ says what v2 changed and what is still open.
 | Explanation (4 / 4) | "Test ASAP to what degree this idea has not already been done, or what would differentiate you" | [v2 competitor section](market-research/competitive-analysis.md#v2-alternatives-challenge-and-assessment-platforms-2026-10-12) and [deep research](market-research/deep-research/reports/SkillBridge%20v2%20challenge%20market.md): no individual-contribution certification found in the published materials of Forage, HackerRank, Devpost or Kaggle | NUWE (Barcelona, company challenges) does not publish its contribution model — unverified; and employer value of the difference is untested |
 | Explanation | "Are you after skills or payment? What should you prioritize?" | **Skills (proof).** Students rank scope and career relevance (11/17 each) far above payment (3/17); v2 drops paid client work | Who pays is open: the team ranks students first; research recommends companies pay |
 | Explanation | "You don't need any major build to start testing… fail fast and cheaply" | Prototype v1 is a single offline page built for testing | A cheap test can start before the full pilot (see experiment card stop condition) |
+
+## Challenge II: Venture Skeleton v0.1 (6.5 / 8.0)
+
+**Received:** grade 6.5 / 8.0 for group G2. Logged 2026-10-13. Feedback is
+quoted in short; the full text is in the team's grade sheet.
+
+| Criterion (score) | Feedback | What we changed | Still open |
+|---|---|---|---|
+| Venture continuity & traceability (0.4 / 0.4, Ready) | Student and business sides read as one venture; AI Usage Log easy to follow | Kept. After the pivot the chain runs through the [Venture Skeleton v0.1](venture-skeleton.md); v1 is archived, not deleted ([v1 archive](archive/v1-paid-projects/README.md)) | — |
+| Jobs to Be Done (1.1 / 1.12, Ready) | Clear, specific student Job; honest about hypotheses | Job unchanged (it is solution-neutral); v2 interview evidence added per element ([JTBD](jtbd.md)) | — |
+| Personas (1.0 / 1.12, **Revise**) | Root file still says "two Personas"; never says which three are critical; make the root file match the evidence-log version | Root `personas.md` removed; one file per persona in [personas/](personas/README.md), which now names the three critical personas and **why each was chosen**. Other v1 working files moved off the root into the [archive](archive/v1-working-notes/) | The Skeptical Verifier has no standalone agent prompt yet |
+| Real-user validation (0.5 / 0.96, **Rework**) | Nothing tested with real people; talk to students and small-business owners; write down which claims changed | Since then: survey (n = 17), pilot (n = 11), Sep interviews with 2 students and 2 business owners, v2 interviews with a student, a recruiter and an engineer, and three one-on-ones. **[Claims changed by evidence](validation/claims-changed.md)** lists 11 claims, what people said, and what changed | All evidence is stated, not observed; payment and hiring are tested only in the 16–30 Oct pilot |
+| Sprint focus (1.0 / 0.40, Ready) | Sprint Goal, risk and test aligned; metric, threshold and branches set before running | Same structure for v2: [goals](goals.md), [assumptions](assumptions.md#riskiest-assumption), [experiment card](experiment-card.md) | — |
+| Defense (2.5 / 4.0) | Link between what changed and what you learned isn't clear | [Claims changed](validation/claims-changed.md): before → what people said → what changed, row by row | — |
+| Defense | Several assumptions not tested thoroughly or with the right audience | The v2 test recruits the right audiences: screened students (Arm A) and recruiters who screened interns in the last 12 months (Arm B); [participant fit](recruitment.md#participant-fit-against-the-target-user) excludes non-matching participants | Past samples were unscreened |
+| Defense | Understand the dynamics, the value for each player, hurdles and options: partnerships, private and public pro-bono programmes, university plans; break it down and prioritise | **[Stakeholder map](stakeholder-map.md):** value and cost per player, five market dynamics, hurdles with how we handle them, and 11 options ranked Now / Next / Later / Not now | Options are desk research; none is tested |
