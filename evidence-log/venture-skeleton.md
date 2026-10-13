@@ -21,7 +21,7 @@ version are in the [v1 archive](archive/v1-paid-projects/README.md) and the
 | Smallest test | Two-arm concierge pilot, 16–30 Oct: students take one 4-hour challenge and may pay €15 to certify; 5+ recruiters compare a CV with and without the certified result. | [experiment-card.md](experiment-card.md) |
 | Decision rule | Both pass → build in Phase 2. Students fail, recruiters pass → companies pay. Students pass, recruiters fail → sell practice and feedback. Both fail → stop the credential model. | [experiment-card.md](experiment-card.md#decision-rule) |
 | Real-user evidence | Problem supported; payment and recruiter trust stated and conditional; the interviews changed four parts of the offer. | [claims changed](validation/claims-changed.md) |
-| Players, hurdles, options | Company is the scarce side; first moves are one signed brief, IE Talent & Careers and tech clubs, with a company-pays offer ready. | [stakeholder map](stakeholder-map.md) |
+| Players, hurdles, options | Company is the scarce side; first moves are one signed brief, IE Talent & Careers and tech clubs, with the company price defined before results. | [stakeholder map](stakeholder-map.md) |
 | AI traceability | Every AI working session, what it produced and what the team kept. | [ai-usage-log.md](ai-usage-log.md) |
 | Rough test | Prototype v1: brief, team submission, score and feedback, certificate. | [prototype v1](../prototype/prototype-v1.html), [README](../prototype/README.md) |
 

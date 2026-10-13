@@ -50,7 +50,7 @@ Tags: **Evidence** (real users, linked), **Desk** (published sources, linked),
 | Hurdle | Why it matters | How we handle it now | Status |
 |---|---|---|---|
 | No signed company brief | Without it the certificate has no calibration | Written CSV brief by 20 Oct (owner: Lucas Avila), else Arm B alone ([experiment card](experiment-card.md)) | Open |
-| Students won't pay while alternatives are free | Breaks revenue hypothesis 1 | Pilot Arm A at €15; company-pays offer prepared in parallel | Open, tested 16–30 Oct |
+| Students won't pay while alternatives are free | Breaks revenue hypothesis 1 | Pilot Arm A at €15; company price defined alongside the pilot ([details to narrow](experiment-card.md#next-details-to-narrow), row 3) | Open, tested 16–30 Oct |
 | Engineer time grows with paying students | Feedback on every certified result is promised | At pilot scale (3 certified at the threshold) it fits his estimate; above that it needs a price per review or a cap | Open risk |
 | AI-only scores | The team's legal notes require a human review step before an automated process lowers a credential rating, a plain-language explanation of any score, and a visible AI label ([legal constraints](../legal-constraints.md) ALG-1, ALG-3, AI-1) | Engineer scores a sample; label AI-scored results; certified results always get a human | Partly handled |
 | Payments | Holding money directly needs a payment-institution licence ([legal constraints](../legal-constraints.md) PAY-1) | Pilot uses a payment link from a licensed provider, not a team member's account | To confirm before 16 Oct |
@@ -68,7 +68,7 @@ Effort is what the team can do this semester with no money. Priority:
 | One company, one brief | Turn V2-E01's CSV task into a signed brief and rubric | Unlocks Arm A and calibration | Low | Offered verbally | **Now** |
 | IE Talent & Careers | Ask for help reaching recruiters (Arm B) and students; later, co-promotion | Recruiters plus a trusted channel to students | Low | **Desk:** the service exists; interest untested | **Now** |
 | Student tech associations | Recruit through IE clubs; the HackUPC and LleidaHack pattern shows associations feed challenges ([student motives][N-s]) | Fills Arm A's ≥15 starts | Low | Desk | **Now** |
-| Company-pays offer | A per-challenge price for companies, ready if Arm A fails and B passes | Revenue from the side that already pays | Low to draft | One-on-ones 3/3; desk benchmarks | **Now** (draft), **Next** (test) |
+| Company-pays offer | A per-challenge price for companies, ready if Arm A fails and B passes (Arm A company contact and Arm B recruiters asked what they would pay) | Revenue from the side that already pays | Low to draft | One-on-ones 3/3; desk benchmarks | **Now** (draft), **Next** (test) |
 | University plan | The university pays or co-issues the certificate for its students, as Forage (1,000+ partner universities) and Riipen institutional partnerships do ([company motives][N-c], [competitive analysis](market-research/competitive-analysis.md) R2) | Students get it free; the university brand adds trust | Medium: a sales cycle | Desk precedent only | **Next** |
 | Employer-branding sponsorship | Company sponsors a challenge from its talent-brand budget instead of a hackathon | Uses an existing budget (V2-R01's hackathon) | Medium | V2-R01 reported a sponsored hackathon | **Next** |
 | EU-standard credential | Issue results in the EU micro-credential format so they sit in Europass and LinkedIn ([credential credibility][N-r]) | Cheap credibility with EU employers and universities | Medium (software) | Desk | **Later** |
@@ -78,8 +78,8 @@ Effort is what the team can do this semester with no money. Priority:
 | Enterprise clients | Large brands with hackathons | Big budgets | High: GDPR and legal review first | Hypothesis | **Not now** |
 
 **What we will do first:** sign one brief, recruit through IE Talent & Careers
-and tech clubs, run the two-arm pilot, and have the company-pays offer ready
-before results come in. Everything else waits for the pilot's decision rule.
+and tech clubs, run the two-arm pilot, and define the company price before
+results come in. Everything else waits for the pilot's decision rule.
 
 [N]: market-research/deep-research/research_notes/SkillBridge%20v2%20challenge%20market/
 [N-c]: market-research/deep-research/research_notes/SkillBridge%20v2%20challenge%20market/company_motives.md

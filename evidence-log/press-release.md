@@ -27,8 +27,9 @@ and employers are growing wary of remote tests as AI-assisted cheating rises.
 
 **The solution.** Each SkillBridge challenge is a bounded piece of real work
 with a clear scope and deadline. Automated tests and an AI rubric score every
-submission; a company engineer signs off the rubric, reviews the top results and
-holds a ten-minute debrief to confirm the student did the work. For teams,
+submission; a company engineer signs off the rubric, writes the feedback on
+every certified result and holds a ten-minute debrief with top students to
+confirm they did the work. For teams,
 contribution comes from the commit history plus teammates' ratings.
 
 > "We stopped grading a hundred take-homes. The scores matched our engineers'

@@ -53,16 +53,23 @@ Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
 5. The AI rubric scores every submission. The engineer independently scores a
    sample of five — the top three plus two drawn from the lower half, following
    V2-E01 Q4's own suggestion to check a low-ranked submission before trusting
-   the AI ranking — and both scores are recorded for each (tests A2.3). This
-   keeps the engineer's load near the one hour he estimated; scoring all ten
-   would be about 3.3 hours at his own 20 minutes per review.
+   the AI ranking — and both scores are recorded for each (tests A2.3). At his
+   own estimate of 20 minutes per review, the sample takes about 100 minutes,
+   plus feedback on any certified result outside the sample (at the threshold,
+   3 certified results). That is above his one-hour estimate for three, so the
+   sample size is confirmed with him when the brief is signed; scoring all ten
+   would take about 3.3 hours.
 
 **Arm B: recruiters (A3.1, A3.3).**
 1. Contact 5+ recruiters or hiring managers who screen interns or juniors in
    software, web or data (IE Talent & Careers, LinkedIn, alumni).
-2. Show two anonymised profiles side by side: CV only, and the same CV plus a SkillBridge certified result from the prototype, shown as the full bundle — work artifact, rubric breakdown with the company's name on it, engineer feedback and contribution record — never a bare score
-   (decided 2026-10-12, after V2-R01 discounted an unexplained 82/100). 15-minute call or form.
-4. Ask: which would you shortlist and why; does the certificate change your
+2. Show two anonymised profiles side by side: CV only, and the same CV plus a
+   SkillBridge certified result from the prototype, shown as the full bundle
+   (work artifact, rubric breakdown with the company's name on it, engineer
+   feedback and contribution record), never a bare score (decided 2026-10-12,
+   after V2-R01 discounted an unexplained 82/100). 15-minute call or form.
+   Keep a copy of the exact profiles shown.
+3. Ask: which would you shortlist and why; does the certificate change your
    decision; would you accept it instead of your take-home test; what would make
    you distrust it.
 
@@ -97,8 +104,11 @@ inconclusive, not a pass or fail.
 | Fail | Fail | **Stop** the v2 credential model; return to the evidence and the archived v1 options. |
 
 **Owner:** Lucas Avila (coordination); arm owners assigned at Session 14.
-**Stop condition:** no brief and no engineer sign-off by 2026-10-20 → run Arm B
-alone and record Arm A as not run.
+**Milestones:** a real company brief confirmed by 2026-10-16, otherwise the
+illustrative brief in step 1; the written brief (owner: Lucas Avila) and an
+engineer's rubric sign-off by 2026-10-20.
+**Stop condition:** no engineer sign-off of a brief and rubric by 2026-10-20 →
+run Arm B alone and record Arm A as not run.
 
 ## Next: details to narrow
 
@@ -112,7 +122,7 @@ test starts, not after seeing results.
 | 1 | Certificates can help: showing a certificate on LinkedIn raised new employment by about 6%, and by about 12% for the weakest candidates (Athey & Palikot, Stanford trial, Coursera learners in developing countries). Platform claims of "2–4x" are vendor figures with no method. | **By how many percentage points our certificate must raise shortlisting** for it to be worth paying for (to define). | Arm B: show recruiters the same CV with and without the certificate; compare shortlist rates and set the minimum uplift in advance. |
 | 2 | Every alternative is free to students; students pay for prep they believe works (LeetCode about $35/month, AWS exam about $100). Research puts a plausible one-off student fee at €10–30. | **The student price** within €10–30 that students accept and that still reads as credible, not as buying a pass (€15 is the first test value). | Survey follow-up question on price, then Arm A at €15; record "yes at a lower price" answers. |
 | 3 | Companies already pay for screening and challenges: HackerRank from $79/month, Riipen $11.67/hour per student, Parker Dewey 10-hour projects, hackathon sponsorship $500–$50k+. | **The company price per challenge** and what the company gets for it (shortlist, engineer time saved, branding). | Ask the Arm A company contact and Arm B recruiters what they would pay instead of their current take-home or event. |
-| 4 | The team ranks students paying first; the research recommends companies pay and students get the certificate free. The [v2 Fermi estimate](market-research/README.md#v2-fermi-estimate-challenge-completers-in-madrid-2026-10-12) shows student fees alone in Madrid stay under €9,000 a year even at the 30% threshold. | **Which side pays first**, and whether the two prices together cover one challenge's cost. | Decided by the Arm A/Arm B results through the decision rule above. |
+| 4 | The team ranks students paying first; the research recommends companies pay and students get the certificate free. All three [one-on-one interviewees](validation/one-on-one-interviews-2026-10-12.md) say companies should pay most or all. The [v2 Fermi estimate](market-research/README.md#v2-fermi-estimate-challenge-completers-in-madrid-2026-10-12) shows student fees alone in Madrid stay under €9,000 a year even at the 30% threshold. | **Which side pays first**, and whether the two prices together cover one challenge's cost. | Decided by the Arm A/Arm B results through the decision rule above. |
 | 5 | Students can give 2–7 hours a week; 12/17 at four hours or less. | **One time box** (4 hours is the working value) and the **completion rate** we need (to define; free online hackathons see about 15% of registrants submit). | Pilot challenge completion: starts vs submissions. |
 | 6 | Git data alone misses silent or absent team members; peer ratings cut free-riding complaints from 26% to 7% in one study. | **How contribution is weighted** between commits, task logs and peer ratings, and the dispute rule. | Run both measures on pilot teams; compare with the engineer's view in the debrief. |
 | 7 | Remote assessments face rising AI cheating; employers are adding live stages. | **How long the engineer debrief can be** before companies refuse (10 minutes is the working value). | Ask the company contact; time the pilot debriefs. |
