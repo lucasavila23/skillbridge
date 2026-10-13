@@ -18,7 +18,8 @@ version are in the [v1 archive](archive/v1-paid-projects/README.md) and the
 | Product Goal | Help tech students prove job-ready skill through short, company-calibrated challenges, with each student's contribution verified. | [goals.md](goals.md) |
 | Riskiest assumption | Students will pay for a certified challenge score, because employers treat that score as credible evidence of job-ready skill. | [assumptions.md](assumptions.md#riskiest-assumption) |
 | Sprint Goal | Learn whether students will pay for a company-calibrated challenge score, and whether employers treat that score as credible. | [goals.md](goals.md) |
-| Smallest test | Two-arm concierge pilot, 16–30 Oct: students take one 4-hour challenge and may pay €15 to certify; 5+ recruiters compare a CV with and without the certified result. | [experiment-card.md](experiment-card.md) |
+| Smallest test | Two-arm concierge pilot, 16–30 Oct: students take one 4-hour challenge; those who pass and verify their individual work may pay €15 to certify. 5+ recruiters compare a CV with and without the certified result. | [experiment-card.md](experiment-card.md) |
+| Certification rule | Students can fail. Publish the passing and individual-verification requirements before participation; a failed result cannot be certified or made passing by payment. | [eligibility rules](experiment-card.md#certification-eligibility) |
 | Decision rule | Both pass → build in Phase 2. Students fail, recruiters pass → companies pay. Students pass, recruiters fail → sell practice and feedback. Both fail → stop the credential model. | [experiment-card.md](experiment-card.md#decision-rule) |
 | Real-user evidence | Problem supported; payment and recruiter trust stated and conditional; the interviews changed four parts of the offer. | [claims changed](validation/claims-changed.md) |
 | Players, hurdles, options | Company is the scarce side; first moves are one signed brief, IE Talent & Careers and tech clubs, with the company price defined before results. | [stakeholder map](stakeholder-map.md) |
@@ -27,4 +28,5 @@ version are in the [v1 archive](archive/v1-paid-projects/README.md) and the
 
 **Still unknown:** real payment, challenge completion, a signed company brief,
 AI–engineer score agreement, and any hiring decision made on a certified
-result.
+result. The challenge-specific certification pass mark and verification
+procedure must be agreed before Arm A starts.

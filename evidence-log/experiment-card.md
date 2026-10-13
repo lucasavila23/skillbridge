@@ -1,6 +1,6 @@
 # Experiment Card
 
-**v2, 2026-10-12.**
+**v2, 2026-10-12. Certification rule revised 2026-10-13.**
 
 **Interview intake, 2026-10-12:** the user supplied three interviews conducted
 on October 5, 6 and 10, before the planned pilot window. See the
@@ -44,28 +44,36 @@ Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
 1. Prepare one challenge: a real brief from one SaaS, engineering or data
    company contact, or, if none confirms by 2026-10-16, a brief built on a public
    API or dataset and labelled "illustrative company". Time box: 4 hours. One
-   rubric with 4–6 criteria, signed off by a working engineer.
+   rubric with 4–6 criteria, signed off by a working engineer. Publish the
+   passing score, mandatory criteria and individual-verification requirements
+   with the brief before students start; see [certification eligibility](#certification-eligibility).
 2. Recruit students from survey respondents who left a contact, classmates and
    IE tech clubs ([recruitment](recruitment.md)). Solo or teams of up to 3; teams
    log who did what in a shared commit history or task list.
-3. Entry is free. After submitting, each student sees their overall score.
-4. Offer the **certified result** (rubric breakdown, written feedback, engineer
+3. Entry is free. After submitting, each student sees their overall score and
+   pass/fail status privately. Label AI scores as provisional where human
+   review is pending.
+4. Only after the student passes and their individual contribution is verified,
+   offer the **certified result** (rubric breakdown, written feedback, engineer
    sign-off, contribution record, shareable link) for **€15**, payable by Bizum
-   or card link within 5 days. Refund on request within 14 days.
+   or card link within 5 days of the offer. Refund on request within 14 days.
    Engineer-written feedback covers every certified result, not only top
    submissions (decided 2026-10-12,
    [v2 findings](validation/v2-findings-2026-10-12.md)). Results are private by
    default; the student chooses what to share, and the certified result always
-   shows the true score. No minimum score is required to certify.
+   shows the true score. A failed result cannot be certified or made passing
+   by payment; no certification fee is collected for it.
 5. The AI rubric scores every submission. The engineer independently scores a
    sample of five — the top three plus two drawn from the lower half, following
    V2-E01 Q4's own suggestion to check a low-ranked submission before trusting
    the AI ranking — and both scores are recorded for each (tests A2.3). At his
    own estimate of 20 minutes per review, the sample takes about 100 minutes,
-   plus feedback on any certified result outside the sample (at the threshold,
-   3 certified results). That is above his one-hour estimate for three, so the
-   sample size is confirmed with him when the brief is signed; scoring all ten
-   would take about 3.3 hours.
+   plus eligibility checks on certification requests outside that sample and
+   written feedback on every certified result (at the threshold, 3 certified
+   results). Reuse sample reviews where applicable; do not assume they cover
+   every request. Confirm this expanded workload when the brief is signed;
+   scoring all ten alone would take about 3.3 hours, before any additional
+   contribution checks or feedback time.
 
 **Arm B: recruiters (A3.1, A3.3).**
 1. Contact 5+ recruiters or hiring managers who screen interns or juniors in
@@ -76,9 +84,38 @@ Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
    feedback and contribution record), never a bare score (decided 2026-10-12,
    after V2-R01 discounted an unexplained 82/100). 15-minute call or form.
    Keep a copy of the exact profiles shown.
+   Explain the same pass/fail and individual-verification rules used in Arm A:
+   the fee buys certification of an earned result, never a passing outcome.
 3. Ask: which would you shortlist and why; does the certificate change your
    decision; would you accept it instead of your take-home test; what would make
    you distrust it.
+
+## Certification eligibility
+
+**Team decision, 2026-10-13:** students can fail certification. This replaces
+the earlier rule that any score could be certified and aligns the written
+offer with the presentation. It is a product rule, not a validation result.
+
+- **Before participation:** the company and reviewing engineer approve the
+  challenge's passing score, any mandatory criteria, and how each student's
+  contribution and authorship will be checked. Publish these with the brief;
+  do not lower the bar after seeing results or willingness to pay.
+- **Pass:** meet the published performance requirements and verify individual
+  work. The engineer confirms eligibility before the €15 offer. A team's
+  passing score does not automatically certify every member.
+- **Fail:** fall below the passing score, miss a mandatory criterion, or fail
+  the individual-verification requirements. Keep the score and reason private;
+  issue no certificate and collect no certification fee. A pending review or
+  unresolved contribution dispute stays pending until human review resolves it.
+- **Payment and sharing:** passing students may keep their free score or pay
+  for the certified evidence bundle. Payment cannot alter the score or outcome.
+  Certified results show the actual score and remain private until shared.
+
+**Still to set before Arm A starts:** the challenge-specific pass mark,
+mandatory criteria and verification procedure, including reviewer capacity.
+No numerical certification pass mark has been agreed or validated yet. The
+brief/rubric sign-off milestone below includes these rules; do not start Arm A
+without them.
 
 ## Metric
 
@@ -86,7 +123,14 @@ Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
 - **B:** share of recruiters who say the certificate would change or support a
   shortlisting decision (stated).
 - **Secondary:** AI vs engineer score gap per submission; completion rate
-  (submit ÷ start).
+  (submit ÷ start); counts of passed, failed and pending results; eligible-to-paid
+  conversion (students who pay ÷ students confirmed eligible and offered
+  certification). Report a zero eligible denominator as not applicable.
+
+The primary A denominator remains **all submitting students**, including
+those who fail certification. Keep the 30% threshold unchanged and report
+eligibility alongside conversion so failures are not mistaken for refusal to
+pay. Do not replace the primary result with the eligible-only rate.
 
 ## Threshold
 
@@ -114,7 +158,8 @@ inconclusive, not a pass or fail.
 **Milestones:** a real company brief confirmed by 2026-10-16, otherwise the
 illustrative brief in step 1; the written brief (owner: Lucas Avila) and an
 engineer's rubric sign-off by 2026-10-20.
-**Stop condition:** no engineer sign-off of a brief and rubric by 2026-10-20 →
+**Stop condition:** no engineer sign-off of a brief, rubric and published
+certification requirements by 2026-10-20 →
 run Arm B alone and record Arm A as not run.
 
 ## Next: details to narrow

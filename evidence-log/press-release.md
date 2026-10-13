@@ -37,9 +37,12 @@ contribution comes from the commit history plus teammates' ratings.
 > **Head of data engineering, a Madrid SaaS company (illustrative)**
 
 **How it works.** Pick a challenge that matches the role you want, work on it
-in an evening or a weekend afternoon, submit, see your score for free, and
-certify the result if you want it on your profile. Each certified result stacks
-on a profile recruiters can open to see the brief, the rubric and your part.
+in an evening or a weekend afternoon, submit, and see your score privately for
+free. Meet the published passing requirements and verify your individual work
+before choosing whether to pay to certify the result. Students can fail:
+payment cannot buy a pass, and failed results receive no certificate or
+certification charge. Each certified result stacks on a profile recruiters
+can open to see the brief, the rubric and your part.
 
 > "In interviews they always asked what I did on the group project. Now I send
 > the link and talk them through it."
