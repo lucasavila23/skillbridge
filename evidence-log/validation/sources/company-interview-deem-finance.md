@@ -1,40 +1,55 @@
-# SkillBridge — Company Interview Script
+# Company interview: Deem Finance recruiter (DF-R01)
 
-2026-10-12
+**Status:** Real interview, confirmed by the team on 2026-10-13. The answers
+are the interview notes as uploaded by a teammate (GitHub `khatib-06`) on
+2026-10-12; only formatting changes. They are reported behaviour (Q1-9) and
+stated reactions and intentions (Q10-16), not observed hiring decisions or
+payments.
 
-##Before the interview
+**What is not recorded:** the actual interview date (the script is dated
+2026-10-12), who interviewed, how the participant was contacted, and their
+consent answer. Until the team adds these, treat this record as
+**low-medium strength**.
+
+| Study ID | Participant | Fit to the target user |
+|---|---|---|
+| DF-R01 | Recruiter at Deem Finance (fintech) who screened interns in the last 12 months | Arm B role (recruiter); meets the script's screening rule |
+
+## Script used
+
+### Before the interview
 Who: a recruiter who has screened at least one tech intern or junior in the last 12 months.
 Length: 15 minutes.
 Bring: two anonymised profiles for question 10: the same CV twice, one with a SkillBridge certificate attached.
 Rule: no pitch. Show the mock profiles only at the end, without explaining them.
 
-## Opening
+### Opening
 
-> "We're a university team researching how tech interns get screened. Fifteen minutes, no pitch. At the end I'll show you a mock profile and ask what you'd do with it.
+> "We're a university team researching how tech interns get screened. Fifteen minutes, no pitch. At the end I'll show you a mock profile and ask what you'd do with it."
 
 Record their answer to the consent question.
 
-## Questions
+### Questions
 
-### How you hire today
+#### How you hire today
 
 1. How do you currently find and shortlist junior talent or interns?
 2. For your last intern or junior opening, roughly how many applications did you get, and how long did you spend on each at the first pass?
 3. When you look at a junior CV, how confident are you that it reflects what they can actually do?
 4. Do you default to candidates from certain universities? Why?
 
-### The cost of getting it wrong
+#### The cost of getting it wrong
 
 5. Have you ever hired someone who looked great on paper but couldn't do the job? What did that cost you?
 6. Do you run a take-home test? How long is it, and how many engineer hours does reviewing it take?
 7. When a candidate's best work is a group project, how do you tell what they personally did?
 
-### What you've tried
+#### What you've tried
 
 8. Have you ever sponsored or run a hackathon to scout talent? How did it go?
 9. Has a certificate on a profile ever changed a decision you made? Which one, and why did it count?
 
-### Reaction to SkillBridge
+#### Reaction to SkillBridge
 
 10. *(Show both profiles without explaining them.)* Same role, both of these are in your pile. Which do you take forward, and why?
 11. Would seeing a candidate's scored performance on a realistic challenge change how you shortlist?
@@ -42,16 +57,12 @@ Record their answer to the consent question.
 13. What would make you suspect a result was gamed, or that AI did most of the work?
 14. Would you accept this instead of your take-home test? If not, what would it take?
 
-### Payment
+#### Payment
 
 15. Would you pay for ongoing access to a pool of scored, opted-in candidates? What feels reasonable?
 16. Which budget would that come from, who signs it off, and what would it replace?
 
-## Sample answers: Deem Finance 
-
-**Participant:** a recruiter at a fintech company who screened interns in the last 12 months.
-
-
+## Answers: DF-R01
 
 | # | Question | Answer |
 | --- | --- | --- |
