@@ -21,8 +21,8 @@ still open, and a running log of our working sessions. **Updated after every rou
 of questions.**
 
 Companion working files (also kept current):
-- `opportunities.md` — compiled Empathize/Define material (feeds `evidence-log/opportunity.md`)
-- `assumptions.md` — compiled assumption brainstorm (feeds `evidence-log/assumptions.md`)
+- `evidence-log/venture-skeleton.md` — the current venture logic on one page (start here)
+- `evidence-log/archive/v1-working-notes/` — the v1 Empathize/Define and assumption working notes, moved off the root on 2026-10-13
 - `evidence-log/goals.md` — confirmed Product Goal and current Sprint Goal
 - `evidence-log/experiment-card.md` — current v2 student-payment and recruiter-judgment pilot plan
 - `evidence-log/personas/` — behavioural hypotheses and standalone Persona Agent prompts
@@ -35,7 +35,12 @@ Companion working files (also kept current):
 
 ## 1. One-liner
 
-SkillBridge is a platform where tech students and aspiring professionals join small,
+**v2 (current):** SkillBridge lets tech students solve short, real challenges
+set by SaaS, engineering and data companies, and turns each result into a
+company-calibrated score with a verified record of what each student
+contributed ([opportunity](evidence-log/opportunity.md)).
+
+**v1 (history, sections 1–7b below):** SkillBridge is a platform where tech students and aspiring professionals join small,
 real projects ("campaigns") from small businesses and brands — building a CV full of
 hands-on work, earning certification and a bit of cash, and getting a faster route
 into the industry.

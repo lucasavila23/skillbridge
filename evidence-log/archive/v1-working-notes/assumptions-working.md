@@ -1,15 +1,17 @@
 # Assumptions — SkillBridge
 
+> **Archived 2026-10-13.** v1 working notes, moved from the repo root so only current files sit there. The live v2 file is [evidence-log/assumptions.md](../../assumptions.md).
+
 **Status: LOCKED v1 — 2026-09-08.** Produced by running
 `downloads/ai-prompt-assumptions.md` autonomously against the locked Opportunity
 framing + desk research. Clean deliverable mirrored in
 `evidence-log/assumptions.md`.
 
 **Evidence update, 2026-10-01:** the original brainstorm below is historical.
-[September interviews](evidence-log/validation/findings-2026-09-22.md) and actual pilot results now provide stronger student
+[September interviews](../../validation/findings-2026-09-22.md) and actual pilot results now provide stronger student
 problem and reported delivery/evaluation evidence. Use the
-[current assumption status](evidence-log/assumptions.md#evidence-update--2026-10-01)
-and [pilot assessment](evidence-log/market-research/pilot-assessment-2026-10-01.md).
+[current assumption status](../v1-paid-projects/assumptions.md#evidence-update--2026-10-01)
+and [pilot assessment](../../market-research/pilot-assessment-2026-10-01.md).
 Business signed-and-paid conversion, the Madrid estimate and hiring impact
 remain unvalidated; older “no primary interviews” notes below are superseded.
 
@@ -109,7 +111,7 @@ campaign offer and a price; measure how many say yes to a paid pilot. If that
 conversion is near zero, the model needs rethinking before anything else matters.
 
 **Current test design (2026-09-09):** see the
-[Experiment Card](evidence-log/experiment-card.md) for the concierge method,
+[Experiment Card](../../experiment-card.md) for the concierge method,
 primary ten-business test, conditional five-business extension, and precommitted
 metric, threshold, and decision rule.
 

@@ -28,10 +28,17 @@ Skeptical Verifier replaces the Once-Bitten Owner as the third critical persona.
 No `persona-hypothesis-04` file exists any more; numbering is kept so old
 references in the [v1 archive](../archive/v1-paid-projects/personas/README.md) stay meaningful.
 
-The three critical personas are `ai-persona-01..03.md`: the Tinkerer and Late
-Sprinter were selected in the [Session 8 deck](session8-personas-deck.pptx), the
-Skeptical Verifier on 2026-10-12; the
-other hypotheses stay in `drafts/` until the team records its merge decisions.
+### The three critical personas and why
+
+| Persona | Why it is critical in v2 | Assumptions it carries |
+|---|---|---|
+| [The Tinkerer](ai-persona-01.md) | The core student user: tool-curious, builds side projects that nobody outside reviews. Tests whether a student finishes a 2–7 hour challenge without a prize. Best grounded (UV-S01, V2-S01). | A1.2 completion, A1.3 paying |
+| [The Late Sprinter](ai-persona-02.md) | The most likely payer: an application deadline makes a fast, credible signal worth money. Also the counter-case: may churn after one certificate. | A1.3 paying, A3.1 recruiter trust |
+| [The Skeptical Verifier](ai-persona-03.md) | The recruiter who decides whether the certificate is worth anything. In v2 the riskiest assumption sits here, so it replaced the Once-Bitten Owner (small businesses are no longer the customer). | A3.1 trust, A3.3 replacing take-homes |
+
+The Tinkerer and Late Sprinter were selected in the
+[Session 8 deck](session8-personas-deck.pptx), the Skeptical Verifier on
+2026-10-12. The other hypotheses stay in `drafts/` as history.
 
 | File | Persona | Status |
 |---|---|---|

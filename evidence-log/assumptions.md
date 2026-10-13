@@ -26,7 +26,7 @@ Importance and evidence are rated High / Medium / Low.
 | # | Assumption | Importance | Evidence | Status |
 |---|---|---|---|---|
 | A2.1 | SaaS, engineering and data companies will provide a real brief and sign off a rubric. | High | Low | **Interview proposal:** V2-E01 Q1-Q2 identifies a CSV task, offers non-sensitive examples and gives five criteria. No written brief, examples or final rubric sign-off supplied. |
-| A2.2 | A company engineer will review the top submissions within one week. | Medium | Low | **Stated willingness:** V2-E01 Q3 estimates one hour for three submissions if coordination stays minimal. No completed review or one-week deadline agreed. |
+| A2.2 | A company engineer will score a sample of submissions and write feedback on every certified result within one week. | Medium | Low | **Stated willingness:** V2-E01 Q3 estimates one hour for three submissions if coordination stays minimal. No completed review or one-week deadline agreed. |
 | A2.3 | An AI rubric plus automated tests scores close enough to the engineer's judgement. | High | None | **Hypothesis.** V2-E01 Q4 suggests checking a low-ranked submission; this is a trust condition, not a measured accuracy result. Compare paired AI and engineer scores in the pilot. |
 
 ## Area 3: Credential credibility
@@ -51,6 +51,15 @@ existing budgets, but supply no accepted SkillBridge price or payment. The
 engineer is not the spending decision-maker. These signals do not change the
 ranking or establish a paying customer.
 
+The [one-on-one interviews](validation/one-on-one-interviews-2026-10-12.md)
+add a contrary signal: all three interviewees (a graduate, an IE student and a
+recruiter) say companies should pay most or all of the cost, with students
+paying at most a small fee. This matches the desk research. The ranking stays
+until the pilot decides; the company price is defined alongside the pilot
+([details to narrow](experiment-card.md#next-details-to-narrow), row 3) so the
+"students fail, recruiters pass" branch of the
+[decision rule](experiment-card.md#decision-rule) can start at once.
+
 ## MECE checks
 
 - Areas split by actor: student (1), company (2), recruiter (3). Each assumption
@@ -72,8 +81,8 @@ Test: [experiment card](experiment-card.md).
 
 - Price point for the certification fee (the test uses one price; see the card).
 - Whether students prefer solo or team challenges.
-- Whether the certificate includes the specific engineer-written feedback
-  V2-S01 conditions payment on, given the plan to review only top submissions.
+- Whether engineer-written feedback on every certified result (decided
+  2026-10-12) still fits the engineer's time once more than three students pay.
 - Public-score visibility, pass criteria, live authenticity checks and rubric
   calibration; see [v2 findings](validation/v2-findings-2026-10-12.md).
 - Legal: IP of student submissions on a company brief (see

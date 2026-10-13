@@ -1,3 +1,0 @@
-# Large binary prototype artifacts tracked via Git LFS
-prototype/*.pdf filter=lfs diff=lfs merge=lfs -text
-prototype/*.png filter=lfs diff=lfs merge=lfs -text

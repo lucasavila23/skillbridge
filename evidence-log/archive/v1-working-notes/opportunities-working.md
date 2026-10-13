@@ -1,5 +1,7 @@
 # Opportunities — SkillBridge (Empathize / Define)
 
+> **Archived 2026-10-13.** v1 working notes, moved from the repo root so only current files sit there. The live v2 file is [evidence-log/opportunity.md](../../opportunity.md).
+
 **Status: LOCKED v1 — 2026-09-08.** Produced by running `downloads/ai-prompt-opportunity.md`
 autonomously against everything discussed + desk research. The clean deliverable
 version is mirrored in `evidence-log/opportunity.md`; this file keeps the full
@@ -8,15 +10,15 @@ working context, research and sources behind it.
 > **Competitive evidence update — 2026-10-01:** The historical “nobody combines”
 > claim below is not established. Current Riipen documentation overlaps with
 > several proposed SkillBridge features. The
-> [competitive alternatives analysis](evidence-log/market-research/competitive-analysis.md)
+> [competitive alternatives analysis](../../market-research/competitive-analysis.md)
 > is the current comparison; it separates published features, Madrid access and
 > untested reasons to switch. The September notes remain a historical record.
 
 **Current evidence review (2026-09-22):** This file preserves the September 8
 research and handoff; its no-primary-interview statements describe that baseline.
 Four teammate-reported accounts are now documented in the
-[validation findings](evidence-log/validation/findings-2026-09-22.md). The
-[current Opportunity review](evidence-log/opportunity.md) keeps unsupported
+[validation findings](../../validation/findings-2026-09-22.md). The
+[current Opportunity review](../../opportunity.md) keeps unsupported
 network, hiring-impact and market-wide claims distinct from those accounts.
 
 > Direction (user, tech segment, pain = "experience without experience",

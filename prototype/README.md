@@ -1,8 +1,14 @@
 # SkillBridge prototypes
 
-## v1: challenge platform (current, 2026-10-12)
+## v1: challenge platform (current, updated 2026-10-13)
 
 Open [prototype-v1.html](prototype-v1.html) in a browser; it works offline.
+Updated on 2026-10-13 to match the decisions taken after the v2 interviews:
+AI scores are labelled, the engineer scores a sample that includes
+lower-ranked entries and writes feedback on every certified result, results
+are private by default, and the certificate always shows the true score. The
+version presented on 2026-10-12 is kept in
+[backups/v1-2026-10-12/](backups/v1-2026-10-12/README.md).
 Exports: [prototype-v1.pdf](prototype-v1.pdf) (all four steps) and
 [prototype-v1-backup.png](prototype-v1-backup.png) (step 1).
 
@@ -24,8 +30,8 @@ walkthrough. It demonstrates the v2 flow; it is not evidence.
 **Version:** v0 — 2026-09-09.
 
 Open [index.html](index.html) in a browser. It is self-contained and works without
-installing dependencies or connecting to a service. The prototype demonstrates
-the business commitment flow in the [Experiment Card](../evidence-log/experiment-card.md).
+installing dependencies or connecting to a service. The prototype demonstrated
+the business commitment flow in the [v1 Experiment Card](../evidence-log/archive/v1-paid-projects/experiment-card.md).
 
 ## Walkthrough
 
@@ -63,10 +69,12 @@ pricing method, real business/project details, actual student evidence, a usable
 charter and payment route, and recruitment records. No actual experiment results
 are produced by clicking through this demo.
 
-## Versioned backup
+## Versioned backups
 
 [backups/v0-2026-09-09/](backups/v0-2026-09-09/) contains the v0 walkthrough,
 this README, the rehearsal plan, and a SHA-256 manifest.
+[backups/v1-2026-10-12/](backups/v1-2026-10-12/README.md) holds the v1 page and
+its exports as presented on 2026-10-12.
 
 Keep that snapshot unchanged. For the next reviewed version, update the working
 files and version label, then save them into a new version folder such as

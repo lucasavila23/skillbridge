@@ -142,7 +142,7 @@
                   <tr><td>Communication: could the team ship this?</td><td class="num">10%</td></tr>
                 </tbody>
               </table>
-              <p class="small muted">Rubric signed off by a Northwind data engineer. Automated tests and an AI rubric score every submission; the engineer reviews the top submissions and any score the AI flags as uncertain.</p>
+              <p class="small muted">Rubric signed off by a Northwind data engineer. Automated tests and an AI rubric score every submission (labelled AI-assisted); the engineer scores a sample that includes lower-ranked entries and writes the feedback on every certified result.</p>
             </div>
           </div>
           <aside class="box" aria-label="Challenge facts">
@@ -177,7 +177,7 @@
       </section>
 
       <section class="panel" aria-labelledby="score-title" hidden>
-        <div class="intro"><p class="eyebrow">03 / Score and feedback</p><h1 id="score-title" tabindex="-1">82 / 100 against Northwind's rubric</h1><p>Top 15% of 48 submissions. The engineer reviewed this one because it was in the top group.</p></div>
+        <div class="intro"><p class="eyebrow">03 / Score and feedback</p><h1 id="score-title" tabindex="-1">82 / 100 against Northwind's rubric</h1><p>Top 15% of 48 submissions. Your result is private until you choose to share it.</p></div>
         <div class="columns">
           <div>
             <table>
@@ -195,7 +195,7 @@
           </div>
           <aside class="box" aria-label="Certify this result">
             <span class="eyebrow">Your score is free to keep</span>
-            <p>Certify it to get the rubric breakdown, the engineer's feedback, your verified contribution and a shareable link for your CV.</p>
+            <p>Certify it to get the rubric breakdown, written feedback from the Northwind engineer, your verified contribution and a shareable link for your CV. The certificate always shows your true score.</p>
             <strong class="amount">€15</strong>
             <div class="actions"><button type="button" class="button primary" id="certify">Certify my result</button></div>
             <p class="status small" id="certify-status" role="status" hidden></p>
@@ -262,7 +262,7 @@
       byId("certify").addEventListener("click", () => {
         const status = byId("certify-status");
         status.hidden = false;
-        status.textContent = "Simulated: payment recorded. Your certificate is added to your profile (step 4).";
+        status.textContent = "Simulated: payment recorded. Your certificate is added to your private profile; you choose where to share it (step 4).";
         byId("certify").disabled = true;
       });
     })();

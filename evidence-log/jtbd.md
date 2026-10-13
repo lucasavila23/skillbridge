@@ -52,9 +52,10 @@ These are participant reports, not measured outcomes from using SkillBridge.
   feedback and rubric provenance valued above the raw score. The exact shown
   profiles and real hiring effects are not supplied; the five-recruiter test
   remains incomplete.
-- The student's payment condition assumes personal engineer-written feedback;
-  the pitched model and V2-E01 Q3 cover review of only top submissions. Clarify
-  feedback coverage before treating the response as acceptance of the offer.
+- The student's payment condition assumes personal engineer-written feedback.
+  The team decided on 2026-10-12 that every certified result gets it
+  ([v2 findings](validation/v2-findings-2026-10-12.md#consequences-for-the-current-offer));
+  whether engineer time scales beyond the pilot is open.
 - Survey respondents' university, year and programme are not recorded. V2-S01
   is identified as an IE CSAI student; year and internship history are missing.
 - See the [v2 findings](validation/v2-findings-2026-10-12.md) for source limits,

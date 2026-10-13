@@ -119,7 +119,8 @@ Selected by the user in Question 8; both remain unvalidated:
 2. **Delivery with coursework-level skills:** Coursework-level skills and light
    scaffolding are enough to deliver something a real small business accepts.
 
-These correspond to Area 1 in [the assumption map](../assumptions.md#area-1-student-pull--delivery-capability).
+These correspond to Area 1 in [the v1 assumption map](../archive/v1-paid-projects/assumptions.md#area-1-student-pull--delivery-capability).
+In v2 they map to A1.2 (completing a 2–7 hour challenge) in the [current assumptions](../assumptions.md#area-1-student-pull-and-payment).
 This selection defines the persona's research focus; it does not establish a
 new venture-wide risk ranking or a completed student-supply test.
 
