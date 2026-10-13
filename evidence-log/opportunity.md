@@ -86,7 +86,7 @@ calibrates the result to a company's bar or records individual contribution.
 | Student user | Same as v1 | Evidence |
 | Paying side | Ranked revenue hypotheses: 1. students pay a certification fee; 2. companies pay to use challenges as a hiring screen; 3. companies pay a sponsorship | Decision (ranking), Hypothesis (each) |
 | Challenge source | SaaS, engineering and data companies | One interview proposal (V2-E01); delivery and sign-off unconfirmed |
-| Scoring | Automated tests and an AI rubric score every submission; a company engineer signs off the rubric, reviews the top submissions and writes the feedback on every certified result | Decision |
+| Scoring | Automated tests and an AI rubric score every submission; a company engineer signs off the rubric, scores a sample of submissions (including lower-ranked ones) and writes the feedback on every certified result | Decision |
 | Credential | Score, rubric breakdown, written feedback, per-member contribution record, on a shareable profile | Decision |
 | Time per challenge | Sized to 2–7 hours | Evidence (survey capacity) |
 
