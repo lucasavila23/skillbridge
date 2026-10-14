@@ -13,6 +13,12 @@ unmeasured and all four model rates remain assumptions.
 
 ## Latest validation update
 
+**2026-10-13 market feature review:** [individual-contribution verification](contribution-verification-review-2026-10-13.md)
+now has an explicit definition and a dated competitor/source table. NUWE is
+labelled **not publicly disclosed**; the claimed difference is scoped to the
+reviewed benchmark offers and does not establish market-wide uniqueness.
+This is desk research, not new user validation.
+
 The [actual pilot assessment](pilot-assessment-2026-10-01.md) strengthens the
 case for the student problem and reports commitments, accepted client work and
 clearer contribution evidence for recruiters. In the 11-person survey, 9 selected

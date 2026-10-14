@@ -53,18 +53,18 @@ deadlines (11/17) and feedback (8/17 named its absence as a blocker).
 
 ## INSIGHT
 
-Existing options each give students one piece and miss the rest: Forage is
-free and branded but only self-checked against a model answer; HackerRank gives
-a standard score but on puzzles; Devpost and Kaggle give prizes and ranks but no
-calibrated feedback or contribution record
-([v2 competitive analysis](market-research/competitive-analysis.md#v2-alternatives-challenge-and-assessment-platforms-2026-10-12)).
-In the published materials of those four we found no record of **who did what**
-in a team, which is the most common difficulty students report. NUWE, the
-closest local competitor, does not publish its contribution model, so this is a
-bounded negative, not an exhaustive market check. **Evidence** for the four
-platforms' published features; **Unverified** for NUWE; **Hypothesis** that employers broadly value closing it; V2-R01 supplies one
-supportive interview response about inspectable evidence, not verification
-that SkillBridge can reliably attribute contributions.
+**Individual-contribution verification** means checking what each student
+personally produced within a team. SkillBridge proposes to attach that verified
+work to a company-calibrated challenge certificate. The reviewed public offers
+of Forage, HackerRank certifications, Devpost and Kaggle do not describe that
+combined feature. **NUWE: not publicly disclosed** in the reviewed material.
+Riipen has partial overlap, so contribution verification alone is not an
+established unique feature. See the dated [feature comparison](market-research/contribution-verification-review-2026-10-13.md).
+
+**Evidence:** public feature descriptions and the student contribution problem.
+**Hypothesis:** our particular certificate is more useful to employers.
+V2-R01 supports inspectable evidence in one interview; this does not establish
+reliable attribution by SkillBridge or market-wide exclusivity.
 
 ## HOW MIGHT WE
 
@@ -76,8 +76,9 @@ result an employer trusts, with each student's contribution visible?
 A 2nd–4th-year tech student with mainly coursework experience needs a short,
 real piece of work an employer will believe, with their own contribution
 provable, because applications ask for exactly that and coursework cannot show
-it. Existing platforms give a badge, a rank or a puzzle score, but none
-calibrates the result to a company's bar or records individual contribution.
+it. SkillBridge's proposed difference is a short company challenge with a
+certificate that makes each student's verified work inspectable; whether this
+improves employer decisions over existing alternatives remains to be tested.
 
 ## Summary table
 

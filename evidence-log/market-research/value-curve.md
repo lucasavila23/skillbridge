@@ -5,6 +5,13 @@ challenge and assessment market competes on. **Scores are team judgement** from
 published offers and the [deep research notes][N]; they are not measured. The
 moves behind SkillBridge's curve are in the [ERRC grid](../ERRC.md).
 
+**Contribution clarification, 2026-10-13:** SkillBridge's score represents the
+intended offer, not measured verification quality. The feature checks what a
+person actually did within a team. The [current source comparison](contribution-verification-review-2026-10-13.md)
+separates that from solo assessment and team membership, records Riipen's
+partial overlap, and labels NUWE **not publicly disclosed**. The chart does
+not establish that contribution verification is unique to SkillBridge.
+
 ![Strategy canvas: SkillBridge v2 against Forage, HackerRank certification, Devpost hackathons and coursework](value-curve.png)
 
 Source chart: [value-curve.svg](value-curve.svg). Kaggle and NUWE are discussed
@@ -27,14 +34,17 @@ below but left off the chart to keep it readable.
 
 - **Divergence:** SkillBridge drops prizes and events and stays low on time and
   price, then rises on proof of contribution, integrity, feedback and employer
-  calibration, the factors where every alternative is weak. That is the
-  value-innovation shape in the [ERRC](../ERRC.md).
-- **Where we lose:** price. Every alternative is free to students; this is the
-  riskiest part of the curve ([assumptions](../assumptions.md#riskiest-assumption)).
+  calibration. This is the proposed value-innovation shape in the [ERRC](../ERRC.md),
+  not a measured superiority claim across all alternatives.
+- **Where we lose:** the €15 fee competes with free benchmarks, including
+  Forage. Do not extend the chart's price comparison to every alternative:
+  paid courses also exist and NUWE's student pricing is not publicly disclosed
+  in the reviewed material ([competitive analysis](competitive-analysis.md)).
 - **Off-chart alternatives:** Kaggle (free, data science only, leaderboard rank,
   weeks of work); NUWE (Barcelona, company challenges for CaixaBank, Oracle and
   Schneider Electric; €739k raised), the closest local competitor, whose student
-  pricing and contribution model are not published ([market landscape][N-m]).
+  pricing and individual-contribution verification are **not publicly disclosed**
+  in the material reviewed ([feature comparison](contribution-verification-review-2026-10-13.md)).
 
 ## Four actions and cold start
 

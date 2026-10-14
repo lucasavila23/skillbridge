@@ -1,5 +1,11 @@
 # Market Size, Funding and Competitive Landscape: Challenge, Assessment, Data-Competition and Virtual Work-Experience Platforms (SkillBridge v2)
 
+> **Update, 2026-10-13:** the [current feature comparison](../../../contribution-verification-review-2026-10-13.md)
+> supersedes the broad contribution-verification gap inferred in section 4.
+> Original research is retained below; absence from reviewed material does not
+> establish exclusivity. NUWE's feature is **not publicly disclosed** in the
+> reviewed material.
+
 Research date: 2026-10-12. Figures are dated where the source dates them. **Quality flag:** every "market size" figure below comes from paid-report press pages (Market Research Future, Dataintelo, Marketintelo, DataHorizzon, Intel Market Research, etc.). These are low-quality, non-transparent estimates with undisclosed methods, and they often disagree by 3-5x. Treat them as order-of-magnitude only. Company revenue figures from GetLatka/Growjo are also low quality (self-reported or modelled). Sacra/PitchBook/TechCrunch/CNBC/company press releases are more reliable.
 
 ## 1. Market size estimates (with methodology caveats)

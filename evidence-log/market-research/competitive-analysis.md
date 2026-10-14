@@ -176,12 +176,19 @@ below come from each provider's own pages, reviewed **2026-10-12**, except
 Kaggle (secondary source, see KG1). None of these rows is evidence that our
 students use, prefer or reject a platform; that is untested.
 
+**Contribution comparison updated 2026-10-13:** the feature means verifying
+what each person actually contributed within a team, not listing members or
+testing someone individually. The [source-by-source review](contribution-verification-review-2026-10-13.md)
+distinguishes the four benchmark offers, Riipen's partial overlap, and NUWE's
+**not publicly disclosed** contribution feature. Absence from reviewed public
+documentation is not proof of market-wide exclusivity.
+
 | Platform | Who sets the task, who scores | What the student gets | Teams; individual contribution | Cost to student; who pays | Gap SkillBridge v2 targets | Evidence basis |
 |---|---|---|---|---|---|---|
-| **Devpost** (CA8) | Companies host public, internal or customer hackathons; the platform manages "registrations, submissions, and judging" [DV1] | Project portfolio on a profile; prizes set per event [DV1] | Team projects; no published per-member contribution record | Student hackathons free; hosts pay (price not published) [DV1] | Results are prizes per event, not a comparable score; no calibrated feedback or contribution record | Published |
+| **Devpost** (CA8) | Companies host public, internal or customer hackathons; the platform manages "registrations, submissions, and judging" [DV1] | Project portfolio on a profile; prizes set per event [DV1] | Team members and a shared project submission; per-member contribution verification is not described in the reviewed standard flow [CV1] | Student hackathons free; hosts pay (price not published) [DV1] | Proposed difference: a company-calibrated certificate showing each member's verified work; event-specific judging and requirements vary | Published; contribution comparison refreshed 2026-10-13 [CV1] |
 | **HackerEarth** (CA9) | Companies run "coding events" and hiring assessments; AI interviews with "rubric-based evaluation" [HE1], [HE2] | Event participation; possible recruiter contact [HE2] | Not stated on reviewed pages | Developers not charged on reviewed pages; companies buy assessments and events [HE1] | Assessment output belongs to the hiring company, not to a portable student record | Published |
 | **HackerRank** (CA10) | Platform skills tests "curated based on years of recruiting data from 2000+ companies"; company screens and AI interviews [HR1], [HR2] | Skills certificates to "promote yourself … to peers and employers" [HR2] | Individual tests only | Free developer sign-up [HR1]; companies pay for hiring products | Short standardised tests, not a real business brief; no team work | Published |
-| **Kaggle** (CA11) | Companies and researchers host data competitions; scored by a fixed metric on public and private leaderboards [KG1] | Rank, medals and progression tiers (Novice to Grandmaster) [KG1] | Teams can merge before a deadline [KG1]; no per-member record | Free to enter; hosts fund prizes [KG1] | Data science only; rank without written feedback; large time commitment in most competitions (not measured here) | Secondary |
+| **Kaggle** (CA11) | Prediction competitions use an evaluation metric; hackathon competitions can use judges [CV1] | Rankings and progression rewards [CV1] | Team ranking and size are reflected in points; verification of who performed which work is not described in the reviewed documentation [CV1] | Free to enter; hosts fund prizes [KG1] | Proposed difference: written engineer feedback and verified individual work attached to a company-calibrated challenge result | Official documentation via search-index extracts for scoring/contribution, 2026-10-13 [CV1]; older price source remains secondary [KG1] |
 | **Forage** (CA3, refreshed) | 90+ employers design job simulations; students "compare your work with model answers" [F1] | Completion certificate; "a chance to connect with recruiters" [F1] | Individual, self-paced | "100% free"; employers fund it [F1] | Self-check against a model answer, not scored work; the same certificate for every finisher | Published |
 
 ### Four-category alternatives map (v2)
@@ -191,24 +198,28 @@ each category, what to compare on, and the decision it drives.
 
 | Category (simple test) | Alternatives | Compare on | Evidence we have | So what | Decision / action |
 |---|---|---|---|---|---|
-| **Direct competitors** (same user, same job?) | NUWE (Barcelona company challenges), Forage (employer simulations), Riipen (employer projects) | Feature, price, trust, switching | Published offers; NUWE clients CaixaBank, Oracle, Schneider Electric ([market landscape](deep-research/research_notes/SkillBridge%20v2%20challenge%20market/market_landscape.md)); no student use observed | All free to students; none records individual contribution in a team | Differentiate on attributed, company-calibrated scores (ERRC Create); test switching in Arm A |
+| **Direct competitors** (same user, same job?) | NUWE (Barcelona company challenges), Forage (employer simulations), Riipen (employer projects) | Feature, price, trust, switching | [Public contribution-feature comparison][CV1]; no student use observed | Forage advertises free access [F1]; NUWE's student price and individual-contribution verification are not publicly disclosed in the reviewed material. Riipen has partial contribution-verification overlap [CV1] | Differentiate on the complete short-challenge certificate and inspectable individual evidence; test employer value, not an unsupported claim of exclusivity |
 | **Indirect substitutes** (same progress, different route?) | HackerRank certifications, Kaggle, Devpost hackathons, Coursera certificates, internships | Outcome, effort, cost, habit | Published offers; hackathon submit rate about 15% of registrants; certificates on LinkedIn +6% new jobs (trial population: Coursera learners without degrees in developing countries) | Students already have free ways to get a score or a badge; ours must be worth more to a recruiter | Complement rather than fight: shareable to LinkedIn; test recruiter preference in Arm B |
 | **Manual workarounds** (user does it themselves?) | Coursework projects, personal GitHub projects, portfolio, a professor's reference | Time, error risk, effort, ownership | 9/17 latest project reviewed only in class; 14/17 struggle to explain contribution ([survey](../validation/survey-summary-2026-10-12.md)); 11% of recruiters trust portfolio review (CoderPad 2026, [credential credibility](deep-research/research_notes/SkillBridge%20v2%20challenge%20market/credential_credibility.md)) | The most common behaviour today; costs nothing, but nobody outside class checks it | Remove the friction with the least change: accept a student's own repo as the submission format |
 | **Doing nothing** (delay or accept the pain?) | Keep applying with a CV only; postpone | Urgency, pain cost, risk tolerance | 6/17 applied with no interview; 3/17 would do nothing now ([survey](../validation/survey-summary-2026-10-12.md)); 140 applications per UK graduate vacancy (ISE 2025) | Pain is high during application season, low otherwise | Time recruitment to application season; test urgency in the follow-up survey |
 
 ### So what
 
-- **Strongest alternatives for v2: Forage and HackerRank.** Forage owns "free,
-  short, employer-branded" and HackerRank owns "a standardised score employers
-  already use". SkillBridge v2 has to beat both on one axis neither covers: a
+- **Strongest alternatives for v2: Forage and HackerRank.** Forage offers free,
+  short, employer-branded simulations; HackerRank offers individual skills
+  certification. SkillBridge proposes a difference not described as a combined
+  feature in their reviewed offers: a
   **scored, company-calibrated result on a real brief, with a verified record of
   each member's contribution**. That axis maps to the top two survey
   difficulties (14/17 explaining contribution, 12/17 showing experience beyond
   coursework; [survey summary](../validation/survey-summary-2026-10-12.md)).
-- **Paying is our weakest point.** Every alternative reviewed is free to the
-  student. Students paying (revenue hypothesis 1) must be justified by
-  employer credibility that none of these platforms has shown for its own
-  credential; this is the riskiest assumption in [assumptions](../assumptions.md).
+  This is a positioning hypothesis, not proof that no competitor verifies
+  contribution; see the Riipen and NUWE distinctions in [CV1].
+- **Paying is our weakest point.** Free benchmarks already exist, including
+  Forage and the HackerRank certifications recorded above. Do not generalise
+  that to every alternative: Coursera sells certificates [C2], and NUWE's
+  student pricing is not publicly disclosed in the reviewed material. The €15
+  fee still needs demonstrated employer value ([assumptions](../assumptions.md)).
 - **Devpost and HackerEarth compete for company budget**, not just student time:
   companies already pay them to host events. Revenue hypotheses 2 and 3 compete
   with them directly.
@@ -280,3 +291,4 @@ product changes.
 [HR1]: https://www.hackerrank.com/
 [HR2]: https://www.hackerrank.com/skills-verification
 [KG1]: https://en.wikipedia.org/wiki/Kaggle
+[CV1]: contribution-verification-review-2026-10-13.md
