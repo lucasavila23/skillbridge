@@ -29,8 +29,19 @@ quoted in short; the full text is in the team's grade sheet.
 | Venture continuity & traceability (0.4 / 0.4, Ready) | Student and business sides read as one venture; AI Usage Log easy to follow | Kept. After the pivot the chain runs through the [Venture Skeleton v0.1](venture-skeleton.md); v1 is archived, not deleted ([v1 archive](archive/v1-paid-projects/README.md)) | — |
 | Jobs to Be Done (1.1 / 1.12, Ready) | Clear, specific student Job; honest about hypotheses | Job unchanged (it is solution-neutral); v2 interview evidence added per element ([JTBD](jtbd.md)) | — |
 | Personas (1.0 / 1.12, **Revise**) | Root file still says "two Personas"; never says which three are critical; make the root file match the evidence-log version | Root `personas.md` removed; one file per persona in [personas/](personas/README.md), which now names the three critical personas and **why each was chosen**. Other v1 working files moved off the root into the [archive](archive/v1-working-notes/) | The Skeptical Verifier has no standalone agent prompt yet |
-| Real-user validation (0.5 / 0.96, **Rework**) | Nothing tested with real people; talk to students and small-business owners; write down which claims changed | Since then: survey (n = 17), pilot (n = 11), Sep interviews with 2 students and 2 business owners, v2 interviews with a student, a recruiter and an engineer, and three one-on-ones. **[Claims changed by evidence](validation/claims-changed.md)** lists 11 claims, what people said, and what changed | All evidence is stated, not observed; payment and hiring are tested only in the 16–30 Oct pilot |
+| Real-user validation (0.5 / 0.96, **Rework**) | Nothing tested with real people; talk to students and small-business owners; write down which claims changed | Current records: 17-response survey; older pilot report with an 11-person survey and unknown delivery/interview counts; Sep interviews with 2 students, Baya's owner and Nolita's manager; three v2 interviews, three one-on-ones and DF-R01. **[Claims changed by evidence](validation/claims-changed.md)** maps findings to decisions | Older activity is reported without raw logs; v2 reactions are preliminary. The planned pilot tests certification payment and stated recruiter judgment, not observed hiring. Neither arm has a documented formal result |
 | Sprint focus (1.0 / 0.40, Ready) | Sprint Goal, risk and test aligned; metric, threshold and branches set before running | Same structure for v2: [goals](goals.md), [assumptions](assumptions.md#riskiest-assumption), [experiment card](experiment-card.md) | — |
 | Defense (2.5 / 4.0) | Link between what changed and what you learned isn't clear | [Claims changed](validation/claims-changed.md): before → what people said → what changed, row by row | — |
 | Defense | Several assumptions not tested thoroughly or with the right audience | The v2 test recruits the right audiences: screened students (Arm A) and recruiters who screened interns in the last 12 months (Arm B); [participant fit](recruitment.md#participant-fit-against-the-target-user) excludes non-matching participants | Past samples were unscreened |
 | Defense | Understand the dynamics, the value for each player, hurdles and options: partnerships, private and public pro-bono programmes, university plans; break it down and prioritise | **[Stakeholder map](stakeholder-map.md):** value and cost per player, five market dynamics, hurdles with how we handle them, and 11 options ranked Now / Next / Later / Not now | Options are desk research; none is tested |
+
+## Group Project I: evidence discipline (reviewed 2026-10-14)
+
+**Current assessment: Revise.** The historical grades above are unchanged.
+The [evidence audit](validation/evidence-discipline.md) maps sources, decisions,
+counterevidence and missing records to this criterion. The
+[pilot packet](validation/pilot-records.md) adds a neutral recruiter script,
+screening, exact-stimulus retention, counting rules, student outcome records
+and planned scoring/workload checks. These are preparation, not new validation.
+Completing the highest-risk test and recording the resulting decision remains
+necessary before claiming Ready.

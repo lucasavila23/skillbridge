@@ -5,9 +5,12 @@ target users, both students and small business owners, and write down which of
 your claims changed", and "the link between what changed and what you learned
 isn't clear" ([feedback response](../feedback-response.md#challenge-ii-venture-skeleton-v01-65--80)).
 
-Each row reads left to right: what we believed, what real people told us, and
-what we changed. Interview sources are participant reports, not observed
-behaviour. Samples are never added together because participants may overlap.
+Each row reads left to right: what we believed, what the linked evidence says,
+and what we changed. Interviews contain reported behaviour and stated reactions;
+the older pilot report also describes actual activity without underlying logs.
+Row 5 is desk research. Samples are never added together because participants
+may overlap. The [14 October audit](evidence-discipline.md) distinguishes these
+sources from the formal v2 test, which has no documented result yet.
 
 ## Who we talked to
 
@@ -15,7 +18,7 @@ behaviour. Samples are never added together because participants may overlap.
 |---|---|---|---|---|
 | Sep interviews (15–20 Sep) | 2 IE students, 2 small-business respondents (Baya, Nolita) | 4 | Medium: teammate-reported | [records](interviews-2026-09-22.md) |
 | Student survey (from 22 Sep) | Students, unscreened | 17 | Medium: stated | [summary](survey-summary-2026-10-12.md) |
-| Pilot (1 Oct) | 3rd-year software students, Madrid | 11 | Medium: aggregate only | [assessment](../market-research/pilot-assessment-2026-10-01.md) |
+| Pilot report (1 Oct) | Pilot participants described as 3rd-year software students in Madrid; survey fit unconfirmed | 11 survey respondents; other cohort counts unknown | Medium: reported actual activity, aggregate only | [assessment](../market-research/pilot-assessment-2026-10-01.md) |
 | V2 interviews | 1 IE CSAI student, 1 tech recruiter, 1 company engineer | 3 | Medium: one per role | [records](v2-interviews-2026-10-12.md) |
 | One-on-ones | 1 graduate (outside target), 1 IE student, 1 recruiter | 3 | Low–medium: undated, direct price questions | [record](one-on-one-interviews-2026-10-12.md) |
 | Company interview | 1 fintech recruiter (Deem Finance) who screened interns in the last 12 months | 1 | Low–medium: undated, interviewer and consent not recorded | [record](sources/company-interview-deem-finance.md) |
@@ -38,15 +41,17 @@ behaviour. Samples are never added together because participants may overlap.
 
 ## What did not change, and why
 
-- **The student Job to Be Done.** Every round supports it; it is
-  solution-neutral, so it survived the pivot ([JTBD](../jtbd.md)).
+- **The student Job to Be Done.** Student survey and interview accounts support
+  the problem of showing individual work beyond coursework; its solution-neutral
+  wording survives the pivot ([JTBD](../jtbd.md)). Business interviews and
+  conditional payment answers do not independently validate that Job.
 - **The €15 price and the 30% / 3-of-5 thresholds.** Interview answers are
   stated and conditional; only the pilot (16–30 Oct) can move them. They were
   fixed before the test and are not adjusted after.
 
 ## What is still unknown
 
-Real payment, real challenge completion, a signed company brief and rubric,
+V2 certification payment, v2 challenge completion, a signed company brief and rubric,
 AI–engineer score agreement, and any hiring decision made on a certified
 result. The [experiment card](../experiment-card.md) tests the first two
 directly; the [stakeholder map](../stakeholder-map.md) lists the rest.

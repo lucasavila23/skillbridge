@@ -79,8 +79,9 @@ Students will pay for a certified challenge score, because employers treat that 
 
 It combines A1.3 and A3.1: both remain High importance with limited interview
 signals, and revenue hypothesis 1 fails if either fails. Conditional payment
-interest and one mock-profile judgment do not establish the combined claim.
-Test: [experiment card](experiment-card.md).
+interest and the two preliminary mock-profile judgments do not establish the
+combined claim. Test: [experiment card](experiment-card.md); current source
+strength, contradictions and missing results: [evidence audit](validation/evidence-discipline.md).
 
 ## Certification decision
 

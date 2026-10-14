@@ -8,9 +8,11 @@ v1 records are in the [archive](archive/v1-paid-projects/recruitment.md).
 | Record | What it is | Where |
 |---|---|---|
 | UV-S01, UV-S02, UV-B01, UV-B02 | Four teammate-reported interviews, 15–20 Sep 2026 | [interviews](validation/interviews-2026-09-22.md) |
-| Pilot, n = 11 | User-supplied pilot findings, 1 Oct 2026 | [pilot assessment](market-research/pilot-assessment-2026-10-01.md) |
+| October 1 pilot report | User-supplied aggregate findings; n = 11 applies to its survey only, delivery/interview/recruiter counts not supplied | [pilot assessment](market-research/pilot-assessment-2026-10-01.md) |
 | Survey, n = 17 | Live Google Form, from 22 Sep 2026 | [survey summary](validation/survey-summary-2026-10-12.md) |
 | V2-S01, V2-R01, V2-E01 | Three user-conducted interviews: student 5 Oct, recruiter 6 Oct, engineer 10 Oct 2026; received 12 Oct | [v2 records](validation/v2-interviews-2026-10-12.md) and [findings](validation/v2-findings-2026-10-12.md) |
+| OO-S01, OO-S02, OO-R01 | Three interviews in a Word file received 12 Oct; actual dates missing | [one-on-one records](validation/one-on-one-interviews-2026-10-12.md) |
+| DF-R01 | Deem Finance recruiter interview, confirmed real 13 Oct; actual date missing | [source record](validation/sources/company-interview-deem-finance.md) |
 
 ## Participant fit against the target user
 
@@ -33,25 +35,29 @@ experience, no relevant internship. ✓ confirmed · ✗ does not match · ? not
 | OO-S01 | ✗ recent graduate | ✗ | ? | ? | ? | Outside the target; logged, not counted toward student claims ([record](validation/one-on-one-interviews-2026-10-12.md)) |
 | OO-S02 | ✓ current IE student | ? | ? | ? | ? | Partial: year, programme and internship status missing |
 | OO-R01 | n/a recruiter | n/a | ? | n/a | n/a | Arm B role stated; company and recent intern screening not recorded |
+| DF-R01 | n/a recruiter | n/a | ✓ fintech intern screening reported | n/a | n/a | Fits Arm B role and last-12-month screening rule; actual interview date and exact comparison artifacts missing |
 
-**Fix for the next round:** every v2 participant answers four screening
-questions before counting: year of study, degree programme, university, and
-whether they have had a relevant internship. Non-matching participants are
-logged but excluded from the metric.
+**Fix for the next round:** screen students for year, programme, university,
+latest project experience and relevant internship history. Screen recruiters
+for personal involvement in relevant intern/junior hiring within 12 months;
+engineers for the review role and capacity below. Non-matching participants
+are logged but excluded from the relevant arm's metric. Missing screening is
+not a confirmed match.
 
 ## Who the v2 test recruits
 
 | Arm | Target | Screening | Channels | Goal |
 |---|---|---|---|---|
-| A: students | 2nd–4th-year software, web or data students with mainly coursework experience | Year, programme, latest project type (survey Q3), weekly time ≥ 2 h | Survey respondents who left a contact; classmates; IE tech and data clubs | ≥ 15 starts for ≥ 10 submissions |
+| A: students | 2nd–4th-year software, web or data students with mainly coursework experience and no relevant internship | Year, programme, university, internship history, latest project type; weekly time ≥ 2 h and availability for this specific four-hour challenge | Survey respondents who left a contact; classmates; IE tech and data clubs | ≥ 15 starts for ≥ 10 submissions |
 | A: company | One engineer at a SaaS, engineering or data company | Hires interns or juniors; can sign off the rubric and pass requirements, score the sample, confirm individual eligibility and write feedback on every certified result | Team and alumni contacts; IE Talent & Careers; LinkedIn | Brief confirmed by 2026-10-16; written brief and rubric sign-off by 2026-10-20; agree full [review capacity](ERRC.md#engineer-workload-and-cost) before committing to the student cohort |
 | B: recruiters | Recruiters or hiring managers who screen interns or juniors in tech | Has screened at least one tech intern or junior in the last 12 months | IE Talent & Careers; LinkedIn; alumni | ≥ 5 completed conversations |
 
 ## Log
 
 Record each contact: date, arm, channel, screened yes/no, outcome, link to notes.
-Use the [interview record template](validation/interview-record-template.md) for
-Arm B conversations.
+Use the [v2 pilot script and records](validation/pilot-records.md) for both arms,
+including the exact comparison pack for Arm B. The older general interview
+template does not capture the formal pilot's denominator and stimulus records.
 
 | Date | Arm | Who (role, no names) | Channel | Screened | Outcome | Notes |
 |---|---|---|---|---|---|---|
@@ -59,8 +65,9 @@ Arm B conversations.
 | 2026-10-06 | B: recruiter, preliminary interview | V2-R01, tech recruiter | Not recorded | Role and recent screening stated in source; shown profile artifacts missing | One supportive mock-profile judgment; conditional take-home replacement and possible company payment | [Q1-Q10](validation/v2-interviews-2026-10-12.md#v2-r01) |
 | 2026-10-10 | A: company, preliminary interview | V2-E01, company engineer | Not recorded | Relevant task and review criteria reported; not payment decision-maker | Proposed CSV task, five criteria and review estimate; no final brief or rubric sign-off | [Q1-Q6](validation/v2-interviews-2026-10-12.md#v2-e01) |
 | Not recorded (file created 2026-10-12) | A and B: one-on-ones | OO-S01 graduate, OO-S02 IE student, OO-R01 recruiter | Not recorded | No: dates, context and consent not recorded | Conditional €15 willingness (OO-S02), €5–10 (OO-S01); all three say companies should pay | [record](validation/one-on-one-interviews-2026-10-12.md) |
+| Not recorded (confirmed real 2026-10-13) | B: recruiter, preliminary interview | DF-R01, Deem Finance recruiter | Not recorded | Role and recent screening reported; exact profiles missing | Supportive profile judgment and conditional company payment; no formal pilot or hiring result | [record](validation/sources/company-interview-deem-finance.md) |
 
-The user confirmed these actual interview dates on 2026-10-12. They predate
+The user confirmed the V2-S01, V2-R01 and V2-E01 dates on 2026-10-12. They predate
 the experiment's planned pilot window and are recorded as preliminary
 evidence. No contact, invitation, payment or sign-off has been inferred from
 the script's closing requests. Overlap with earlier samples is unknown.

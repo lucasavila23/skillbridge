@@ -2,6 +2,11 @@
 
 **v2, 2026-10-12. Certification rule revised 2026-10-13.**
 
+**Evidence audit, 2026-10-14:** [current readiness](validation/evidence-discipline.md)
+and [pilot script and records](validation/pilot-records.md). Neither arm has a
+formal result documented. The records specify screening, exact stimuli,
+outcome classification and source retention; they contain no test results.
+
 **Interview intake, 2026-10-12:** the user supplied three interviews conducted
 on October 5, 6 and 10, before the planned pilot window. See the
 [source records](validation/v2-interviews-2026-10-12.md) and
@@ -98,6 +103,11 @@ Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
 3. Ask: which would you shortlist and why; does the certificate change your
    decision; would you accept it instead of your take-home test; what would make
    you distrust it.
+4. Use the [standard script and counting rule](validation/pilot-records.md#arm-b-15-minute-recruiter-comparison).
+   The primary cohort is the first five qualifying completed comparisons in
+   chronological order. Keep negative and uncertain answers; do not replace
+   them. Count explicit support for the bundle actually shown, not interest
+   conditional on missing features. Additional comparisons are exploratory.
 
 ## Certification eligibility
 
@@ -158,9 +168,18 @@ Fixed before the test; not adjusted after seeing results.
 
 ## Evidence strength
 
-A is **High**: real money, real submissions. B is **Medium**: stated intent from
-real recruiters, not observed hiring. Fewer than 10 submitting students makes A
-inconclusive, not a pass or fail.
+**Planned evidence strength:** A could provide strong behavioural evidence
+through real submissions and payments; B provides stated judgments from real
+recruiters, not observed hiring. These describe the methods, not results already
+obtained. Current evidence is preliminary and conditional; see the
+[audit](validation/evidence-discipline.md).
+
+Fewer than 10 submitting students makes A inconclusive; fewer than five usable
+qualifying recruiter records makes B inconclusive. Missing records or still-open
+payment windows prevent a final result. Keep the combined claim unresolved if
+either arm is inconclusive/not run; the four branches below require final
+pass/fail outcomes. Two passing arms would support payment and stated credibility
+separately, not prove that employer trust caused payment or that hiring improves.
 
 ## Decision rule
 
@@ -188,7 +207,7 @@ test starts, not after seeing results.
 
 | # | What we know | What we still need to define | How we narrow it |
 |---|---|---|---|
-| 1 | Certificates can help: showing a certificate on LinkedIn raised new employment by about 6%, and by about 12% for the weakest candidates (Athey & Palikot, Stanford trial, Coursera learners in developing countries). Platform claims of "2–4x" are vendor figures with no method. | **By how many percentage points our certificate must raise shortlisting** for it to be worth paying for (to define). | Arm B: show recruiters the same CV with and without the certificate; compare shortlist rates and set the minimum uplift in advance. |
+| 1 | Certificates can help: showing a certificate on LinkedIn raised new employment by about 6%, and by about 12% for the weakest candidates (Athey & Palikot, Stanford trial, Coursera learners in developing countries). Platform claims of "2–4x" are vendor figures with no method. | **Actual shortlisting uplift** remains a future outcome-test question; the current 3-of-5 criterion measures stated support, not uplift. | Arm B records reasons and mock-profile choices using the fixed threshold above. Precommit a separate outcome study and minimum uplift before claiming improved hiring; do not substitute it for this pilot's metric. |
 | 2 | Free alternatives such as Forage compete with our fee; students pay for prep they believe works (LeetCode about $35/month, AWS exam about $100). Research puts a plausible one-off student fee at €10–30. | **The student price** within €10–30 that students accept and that still reads as credible, not as buying a pass (€15 is the first test value). | Survey follow-up question on price, then Arm A at €15; record "yes at a lower price" answers. |
 | 3 | Companies already pay for screening and challenges: HackerRank from $79/month, Riipen $11.67/hour per student, Parker Dewey 10-hour projects, hackathon sponsorship $500–$50k+. | **The company price per challenge** and what the company gets for it (shortlist, engineer time saved, branding). | Ask the Arm A company contact and Arm B recruiters what they would pay instead of their current take-home or event. [DF-R01](validation/sources/company-interview-deem-finance.md) Q15–16: per hire or per challenge, compared with job-board spend, from the campus and employer-branding budget. |
 | 4 | The team ranks students paying first; the research recommends companies pay and students get the certificate free. All three [one-on-one interviewees](validation/one-on-one-interviews-2026-10-12.md) say companies should pay most or all. The [v2 Fermi estimate](market-research/README.md#v2-fermi-estimate-challenge-completers-in-madrid-2026-10-12) shows student fees alone in Madrid stay under €9,000 a year even at the 30% threshold. | **Which side pays first**, and whether the two prices together cover one challenge's cost. | Decided by the Arm A/Arm B results through the decision rule above. |

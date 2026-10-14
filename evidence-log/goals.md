@@ -18,6 +18,8 @@ It targets the [riskiest assumption](assumptions.md#riskiest-assumption): both
 halves must hold for revenue hypothesis 1 (students pay) to work. The student
 problem itself already has survey and pilot support
 ([opportunity](opportunity.md)). The [v2 interviews](validation/v2-findings-2026-10-12.md)
-add conditional student willingness to pay and one supportive recruiter
-judgment about a mock profile. Actual payment and hiring effects remain
-unestablished. The test is in the [experiment card](experiment-card.md).
+add conditional student willingness to pay and a supportive recruiter
+judgment about a mock profile; [DF-R01](validation/sources/company-interview-deem-finance.md)
+adds a second preliminary judgment. V2 payment and hiring effects remain
+unestablished. The [experiment card](experiment-card.md) tests payment and
+stated recruiter credibility; observed hiring outcomes require a later test.
