@@ -44,7 +44,7 @@ logged but excluded from the metric.
 | Arm | Target | Screening | Channels | Goal |
 |---|---|---|---|---|
 | A: students | 2nd–4th-year software, web or data students with mainly coursework experience | Year, programme, latest project type (survey Q3), weekly time ≥ 2 h | Survey respondents who left a contact; classmates; IE tech and data clubs | ≥ 15 starts for ≥ 10 submissions |
-| A: company | One engineer at a SaaS, engineering or data company | Hires interns or juniors; can sign off a rubric, score a sample of submissions and write feedback on certified results | Team and alumni contacts; IE Talent & Careers; LinkedIn | Brief confirmed by 2026-10-16; written brief and rubric sign-off by 2026-10-20 |
+| A: company | One engineer at a SaaS, engineering or data company | Hires interns or juniors; can sign off the rubric and pass requirements, score the sample, confirm individual eligibility and write feedback on every certified result | Team and alumni contacts; IE Talent & Careers; LinkedIn | Brief confirmed by 2026-10-16; written brief and rubric sign-off by 2026-10-20; agree full [review capacity](ERRC.md#engineer-workload-and-cost) before committing to the student cohort |
 | B: recruiters | Recruiters or hiring managers who screen interns or juniors in tech | Has screened at least one tech intern or junior in the last 12 months | IE Talent & Careers; LinkedIn; alumni | ≥ 5 completed conversations |
 
 ## Log

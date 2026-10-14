@@ -49,7 +49,8 @@ Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
    with the brief before students start; see [certification eligibility](#certification-eligibility).
 2. Recruit students from survey respondents who left a contact, classmates and
    IE tech clubs ([recruitment](recruitment.md)). Solo or teams of up to 3; teams
-   log who did what in a shared commit history or task list.
+   log who did what in a shared commit history or task list. Confirm the full
+   engineer workload and capacity before committing to the student cohort.
 3. Entry is free. After submitting, each student sees their overall score and
    pass/fail status privately. Label AI scores as provisional where human
    review is pending.
@@ -59,21 +60,29 @@ Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
    or card link within 5 days of the offer. Refund on request within 14 days.
    Engineer-written feedback covers every certified result, not only top
    submissions (decided 2026-10-12,
-   [v2 findings](validation/v2-findings-2026-10-12.md)). Results are private by
+   [v2 findings](validation/v2-findings-2026-10-12.md)). Each certified student
+   receives feedback about their own work and contribution, including team
+   members; attach it before issuing the certificate. Results are private by
    default; the student chooses what to share, and the certified result always
    shows the true score. A failed result cannot be certified or made passing
    by payment; no certification fee is collected for it.
 5. The AI rubric scores every submission. The engineer independently scores a
-   sample of five — the top three plus two drawn from the lower half, following
+   sample of five distinct project submissions — the top three plus two drawn
+   from the lower half, following
    V2-E01 Q4's own suggestion to check a low-ranked submission before trusting
-   the AI ranking — and both scores are recorded for each (tests A2.3). At his
-   own estimate of 20 minutes per review, the sample takes about 100 minutes,
+   the AI ranking — and both scores are recorded for each (tests A2.3). If teams
+   produce fewer than five distinct submissions, review all and report the
+   actual sample size; the primary minimum of 10 submitting students remains.
+   At his estimate of 20 minutes per review, five reviews take about 100 minutes,
    plus eligibility checks on certification requests outside that sample and
    written feedback on every certified result (at the threshold, 3 certified
    results). Reuse sample reviews where applicable; do not assume they cover
    every request. Confirm this expanded workload when the brief is signed;
    scoring all ten alone would take about 3.3 hours, before any additional
-   contribution checks or feedback time.
+   contribution checks or feedback time. Include setup, debriefs, coordination
+   and rework in the full estimate. The sample is not a limit on feedback
+   coverage; use the [ERRC workload accounting](ERRC.md#engineer-workload-and-cost)
+   to count shared reviews once and individual feedback for every certificate.
 
 **Arm B: recruiters (A3.1, A3.3).**
 1. Contact 5+ recruiters or hiring managers who screen interns or juniors in
@@ -120,12 +129,20 @@ without them.
 ## Metric
 
 - **A:** paid conversion = students who pay ÷ students who submit.
+  Count each student once, including members of a shared team submission;
+  distinct project submissions are the separate unit for the review sample.
 - **B:** share of recruiters who say the certificate would change or support a
   shortlisting decision (stated).
 - **Secondary:** AI vs engineer score gap per submission; completion rate
   (submit ÷ start); counts of passed, failed and pending results; eligible-to-paid
   conversion (students who pay ÷ students confirmed eligible and offered
   certification). Report a zero eligible denominator as not applicable.
+- **Delivery and cost:** record actual engineer minutes by setup, sample review,
+  additional eligibility work, feedback, debrief and coordination/rework;
+  also record operator time and cash/automation costs. Track distinct project
+  submissions, certification requests and individual certificates separately.
+  Check that every issued certificate has its student's written feedback;
+  this is an offer-fulfilment requirement, not a replacement for A or B.
 
 The primary A denominator remains **all submitting students**, including
 those who fail certification. Keep the 30% threshold unchanged and report
@@ -134,7 +151,7 @@ pay. Do not replace the primary result with the eligible-only rate.
 
 ## Threshold
 
-- **A:** ≥ 30% paid conversion with at least 10 submissions.
+- **A:** ≥ 30% paid conversion with at least 10 submitting students.
 - **B:** ≥ 3 of 5 recruiters.
 
 Fixed before the test; not adjusted after seeing results.
@@ -142,7 +159,7 @@ Fixed before the test; not adjusted after seeing results.
 ## Evidence strength
 
 A is **High**: real money, real submissions. B is **Medium**: stated intent from
-real recruiters, not observed hiring. Fewer than 10 submissions makes A
+real recruiters, not observed hiring. Fewer than 10 submitting students makes A
 inconclusive, not a pass or fail.
 
 ## Decision rule

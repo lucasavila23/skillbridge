@@ -1,6 +1,7 @@
 # Eliminate-Reduce-Raise-Create Grid
 
-**Status:** Confirmed value innovation hypothesis requiring evidence (v2, 2026-10-12).
+**Status:** Four strategic moves and their cost/value trade-offs defined;
+outcomes remain hypotheses (v2, revised 2026-10-14).
 The v1 working file (Extern baseline, Stages A–B) is in the
 [archive](archive/v1-paid-projects/ERRC.md).
 
@@ -54,24 +55,85 @@ saving below remains a hypothesis to measure, not a demonstrated saving.
 
 | Action | Strategic move | Assumption challenged | Cost effect | Buyer value effect | Evidence status | What must be verified |
 |---|---|---|---|---|---|---|
-| Eliminate | Prize pools and weekend-long events: no prizes, no venues, no 24–48 h hackathons | "Students participate for prizes" | No prize budget or event logistics for companies or for us; a company's cost becomes one brief, one rubric sign-off, a sampled check of the AI scores and feedback on certified results | Students keep their evenings and weekends; the reward is the scored result itself | **Contradicted in part:** prize amount is the top hackathon-choice reason (Devpost 2023, organiser survey); our survey shows clear scope (11/17) and career relevance (11/17) far above payment (3/17) | Whether students start and finish a challenge with no prize |
-| Reduce | Time per challenge to 2–7 h; company judging time by letting automated tests and an AI rubric score every submission, with the engineer scoring a sample (the top three plus two from the lower half), confirming eligibility for certification requests and writing feedback on every certified result, whatever its rank | "A credible result needs a long project and a human grading every entry" | Intended reduction in engineer hours, including eligibility checks and feedback; lower student time cost | Fits stated capacity: 12/17 can give ≤4 h/week, 0 can give 8+ | **Evidence** for capacity (survey). Completion risk: 15% of registrants submitted in one Devpost online hackathon; MOOC completion 3% overall vs 46% for payers (Science 2019) | Completion rate on a 4 h challenge; AI vs engineer score agreement; total review time |
-| Raise | Verifiability: per-member contribution from commits **plus** peer ratings, and a 10-minute live debrief for top results; written feedback on every certified result | "A certificate or a final output is enough proof" | Higher cost per top submission (debrief and engineer time) | Answers the recruiter's "what did *you* do?" and the AI-cheating worry | **Evidence** for the need: 14/17 struggle to explain contribution; peer assessment cut free-riding complaints from 26% to 7% in one study; git data alone misses silent or absent members ([student motives][N-s]). AI cheating rising (see baseline) | That the debrief scales; that students accept contribution scoring |
-| Create | A company-calibrated score with a verified individual-contribution record, stacked on a portable profile and shareable to LinkedIn and Europass | "A shared result or completion badge is sufficient evidence of each person's work" | Profile and sharing can be software; contribution verification still carries review cost | Proposed value: inspectable individual evidence. Showing certificates on LinkedIn raised new jobs by about 6% and by about 12% for the weakest candidates in a Stanford trial with Coursera learners without degrees in developing countries, not Spanish students ([credential credibility][N-r]); this does not validate our feature | **Proposed difference from four benchmark offers**, with partial overlap elsewhere; NUWE: **not publicly disclosed** ([feature comparison](market-research/contribution-verification-review-2026-10-13.md)). **Employer value: Hypothesis.** | Whether recruiters use the contribution evidence to shortlist (experiment card, Arm B) |
+| Eliminate | Prize pools, venues and mandatory weekend-long events | "A challenge needs prizes and an event to attract students" | Removes prize and event expenditure; brief preparation, scoring, verification and feedback still cost time | Students can participate without an event schedule; companies fund evidence of skill instead of event logistics | **Mixed:** clear scope and career relevance each 11/17 versus payment 3/17 in our survey; prize appeal remains counterevidence in hackathon research [N-s] | Whether students start and finish without prizes; actual event costs avoided |
+| Reduce | Challenge length to 2–7 h (4 h in the pilot); routine first-pass grading through automated tests and an AI rubric | "Useful evidence needs a long project and full manual grading of every entry" | Aims to reduce student time and repetitive grading; retains the engineer sample, eligibility checks and feedback for every certified result | A bounded task fits stated capacity and can be repeated around coursework | **Capacity evidence:** 12/17 can give ≤4 h/week. Completion, score agreement and net savings are untested | Completion, paired AI/engineer scores and total review time, including all retained work |
+| Raise | Depth of human feedback and confidence in authorship: engineer-written feedback on every certified result; individual eligibility checks and the planned live debriefs | "A score or badge alone is sufficient evidence" | Adds work for each certification request and every certified student, plus debriefs; cost is not confined to top submissions | Students receive actionable feedback; recruiters can inspect who did the work and why it passed | **Conditional evidence:** V2-S01 wants specific human feedback; V2-R01 values work and an engineer's note ([findings](validation/v2-findings-2026-10-12.md)). Delivery cost and trust remain untested | Feedback coverage for every certificate, attribution quality, reviewer capacity and recruiter response |
+| Create | A portable, company-calibrated challenge certificate connecting the work, rubric, individual-contribution record and engineer feedback; earned by passing, shared only by choice | "Students must rely on a CV, completion badge or shared team result to explain their own work" | Profile and sharing can be software; issuing another certificate still requires individual verification and engineer feedback | A reusable piece of work evidence for applications, with the student's contribution inspectable | **Proposed difference from four benchmark offers**, with partial overlap elsewhere; NUWE: **not publicly disclosed** ([feature comparison](market-research/contribution-verification-review-2026-10-13.md)). Employer value remains a hypothesis | Whether recruiters use the bundle in shortlisting and whether eligible students pay for it (Arms B and A) |
+
+## How the four moves work together
+
+Eliminate removes event spending. Reduce limits the task and automates routine
+scoring. Raise spends human attention on verification and feedback for every
+certified student. Create packages that work into evidence the student can
+reuse in applications. Raise describes the quality of assessment; Create
+describes the portable result produced by it.
+
+**New-demand hypothesis:** attract students who currently stay with coursework
+or personal projects and do not take part in long events or placements, along
+with employers unwilling to organise an event for early screening. The intended
+new offer is a short route to inspectable work evidence, rather than another
+prize competition. The capacity and contribution findings support investigating
+this group; they do not establish that these people will switch or participate.
+
+The trade-off is explicit: fewer prizes and less event experience, but more
+feedback and attributable evidence. Students still face an optional €15 fee
+against free alternatives. Reduced event and grading work must offset the
+added verification and feedback effort for total company cost to fall.
+
+## Engineer workload and cost
+
+**Coverage rule:** every certified result includes engineer-written feedback
+about that student's work and contribution, regardless of rank. A team can
+share a code review, but each student's certificate still needs individual
+eligibility confirmation and feedback. The five-submission calibration sample
+does not cap the number of students receiving feedback.
+
+| Work | What must be counted | Current evidence |
+|---|---|---|
+| Setup | Brief, examples, rubric and pass requirements | Proposed, not timed or signed off |
+| Calibration sample | Top three distinct submissions plus two from the lower half; all available submissions if fewer than five | At the interview estimate of 20 min per review, five reviews are about 100 min; not an observed duration |
+| Additional eligibility work | Performance/authorship checks outside the sample, individual checks within teams, and disputes; include requests that fail or do not lead to payment | Scope and time to confirm before the pilot |
+| Feedback | Specific written feedback on **every certified result** | Coverage decided; additional writing time not yet measured |
+| Other human work | Live debriefs, coordination, corrections and rework | Time to record, including the engineer's stated concern about meetings |
+
+**Total engineer time = setup + sample reviews + additional eligibility work + feedback + debriefs + coordination/rework.** Log each minute once by activity;
+reuse a review when it serves several purposes. If its timed duration already
+includes writing feedback, do not add that same writing time again. Record
+distinct project submissions separately from individual students/certificates.
+
+For **10 solo submissions and 3 certificates**, the five-review sample alone
+is estimated at **100 minutes**, plus the other work above; three paid results
+produce **€45 gross revenue**. This is not a one-hour workload or evidence of
+profitability. If all 10 certify, all 10 receive engineer-written feedback;
+the sample stays at five but total workload does not stay fixed. The engineer's
+original estimate covered reviewing three solutions, not this entire service
+([V2-E01 Q3–Q4](validation/v2-interviews-2026-10-12.md#v2-e01-q3)).
+
+Record actual engineer minutes, operator time, automation costs and cash costs
+in the pilot. Value donated engineer time explicitly before claiming a cost
+advantage. Compare against the company's stated alternative for an equivalent
+cohort and assessment quality; approval of €15 or a positive recruiter answer
+does not establish lower operating cost. Reviewer capacity and the time/cost
+baseline must be agreed before committing to the student cohort; no rate or
+saving is invented here.
 
 ## Value innovation hypothesis
 
-By dropping prizes and long events and letting automated tests and AI do
-first-pass scoring, SkillBridge cuts the cost of a challenge for companies and
-the time cost for students, while raising what the result is worth: a score
-calibrated to a real company's bar, with each student's contribution and an
-integrity check on record. It is falsified if fewer than 30% of submitting
-students pay €15 for the certified result (with at least 10 submissions; fewer
-is inconclusive), or fewer than 3 of 5 recruiters say
-it would change or support a shortlisting decision
-([experiment card](experiment-card.md)).
+SkillBridge aims to lower event and routine-grading costs and student time,
+while raising the value of each result through company calibration, verified
+contribution and engineer-written feedback on every certificate. **Net savings
+are conditional on the full workload above**, not a consequence of using AI.
 
-This remains a hypothesis, not a validated blue ocean or confirmed business model
+The demand tests remain ≥30% of submitting students paying €15 (at least 10
+submitting students) and ≥3 of 5 recruiters saying the bundle changes or
+supports shortlisting. Fewer than 10 students is inconclusive; the
+[experiment card](experiment-card.md) retains the existing decision branches.
+These test demand and stated credibility, not cost savings. Even if both pass,
+do not claim lower company cost unless the complete cost comparison supports it.
+
+This is a strategy ready to be challenged, not a validated blue ocean or
+confirmed business model. The net-cost advantage fails if retained review and
+feedback costs erase the proposed savings at comparable assessment quality.
 
 ## Critical outstanding validation points
 
@@ -84,6 +146,9 @@ This remains a hypothesis, not a validated blue ocean or confirmed business mode
 4. AI rubric scores agree with the engineer's closely enough to skip full human
    review (A2.3).
 5. A company will provide a real brief and sign off a rubric (A2.1).
+6. The engineer can deliver the sample, eligibility checks and feedback on every
+   certified result within the agreed capacity; net cost is below the agreed
+   comparison after accounting for human time (A2.2).
 
 ## Evidence boundaries
 
@@ -95,9 +160,11 @@ This remains a hypothesis, not a validated blue ocean or confirmed business mode
   in the full evidence bundle but not a bare score, and a view from all three
   one-on-one interviewees that companies should pay
   ([claims changed](validation/claims-changed.md)).
-- **Desk research:** competitor offers, market prices, cheating trends, the
-  Stanford certificate trial and the absence of team-attribution platforms
-  ([deep research notes][N]). Most platform outcome figures are vendor claims.
+- **Desk research:** competitor offers, market prices, cheating trends and the
+  Stanford certificate trial ([deep research notes][N]); the
+  [current contribution comparison](market-research/contribution-verification-review-2026-10-13.md)
+  records the proposed distinction and partial overlap. Most platform outcome
+  figures are vendor claims; market-wide exclusivity is not established.
 - **Team or AI inference:** the €15 price, the 30% and 3-of-5 thresholds, the
   value-curve scores and the claim that employers value attributed team work.
 - **Contradictions:** prizes motivate hackathon participants; free alternatives

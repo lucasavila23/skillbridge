@@ -16,9 +16,9 @@ Tags: **Evidence** (real users, linked), **Desk** (published sources, linked),
 | Player | What they get | What it costs them | Biggest hurdle | Status |
 |---|---|---|---|---|
 | **Student** (2nd–4th year, mainly coursework) | Proof of what they personally did on a real brief, plus specific feedback | 2–7 hours; €15 if they certify | Free alternatives compete for attention; a poor score is a risk; four hours clash with exams | Pain: **Evidence** (14/17 contribution, 12/17 beyond coursework). Paying: stated, conditional ([claims changed](validation/claims-changed.md) rows 4, 7, 11) |
-| **Company engineer** (writes the brief, signs off the rubric) | A cheaper first screen than reviewing every take-home | One brief, one rubric, about 20 min per review | Time, and no say over the budget | One CSV task offered, not signed (V2-E01) |
+| **Company engineer** (writes the brief, signs off the rubric) | A potentially cheaper first screen; net saving untested | Brief/rubric setup, sample reviews, individual eligibility checks, feedback for every certified result, debriefs and coordination; [full accounting](ERRC.md#engineer-workload-and-cost) | Total capacity, and no say over the budget | One CSV task offered, not signed; 20 min per solution review is an estimate, not the complete service cost (V2-E01) |
 | **Recruiter / talent lead** (decides whether the result counts) | A shortlist signal they can inspect: work, company rubric, engineer note, contribution record | Learning a new signal | Distrusts unfamiliar credentials and bare scores; worries about AI cheating | Conditional trust in the bundle (V2-R01, OO-R01, [DF-R01](validation/sources/company-interview-deem-finance.md)). **Hypothesis** that it changes real shortlists |
-| **Budget owner** (head of talent / HR) | Less engineer time on take-homes; employer branding with students | A per-challenge or sponsorship fee | Needs a named budget and something it replaces | V2-R01 and the engineer point to talent-brand budgets; DF-R01 names the campus and employer-branding budget, signed by the HR director, paid per hire or per challenge; no price agreed ([v2 findings](validation/v2-findings-2026-10-12.md) F10) |
+| **Budget owner** (head of talent / HR) | Potential reduction in take-home review time; employer branding with students | A per-challenge or sponsorship fee plus any engineer time supplied | Needs a named budget, a comparison and complete costs | V2-R01 and the engineer point to talent-brand budgets; DF-R01 names the campus and employer-branding budget, signed by the HR director, paid per hire or per challenge; no price or saving established ([v2 findings](validation/v2-findings-2026-10-12.md) F10) |
 | **University careers office** (e.g. IE Talent & Careers) | Better outcomes for its students; a ready-made partner programme | Promotion, perhaps a licence fee | Already backs other routes (IE × Extern externships) | **Desk:** IE publicises Extern ([competitive analysis](market-research/competitive-analysis.md) CA6). Interest untested |
 | **SkillBridge** (operator) | Fees from whichever side values the result most | Matching, scoring, engineer coordination, payments, legal compliance | Cold start: students come for company names, companies come for students | [Value curve](market-research/value-curve.md#four-actions-and-cold-start) |
 
@@ -38,9 +38,10 @@ Tags: **Evidence** (real users, linked), **Desk** (published sources, linked),
 3. **Scarcity protects value.** V2-S01: "The second it's on fifty profiles it's
    noise." Certificates must be possible to fail and limited per company, which
    caps student volume and makes company-side revenue more important.
-4. **AI cuts both ways.** It makes scoring cheap (the Reduce move) but also
+4. **AI cuts both ways.** It may reduce routine scoring work (the Reduce move) but also
    makes remote work less trustworthy (cheating encounters doubled 7% → 15%,
-   ISE Dec 2025). Hence the live debrief and the engineer sample.
+   ISE Dec 2025). Hence the sample, eligibility checks, live debriefs and
+   engineer-written feedback on every certified result. All count toward cost.
 5. **Regulation favours proof without employment.** Spain's pending Estatuto
    del Becario would make internships more regulated and costly; a challenge is
    not an internship ([internship struggles][N-i], speculative until passed).
@@ -51,7 +52,7 @@ Tags: **Evidence** (real users, linked), **Desk** (published sources, linked),
 |---|---|---|---|
 | No signed company brief | Without it the certificate has no calibration | Written CSV brief by 20 Oct (owner: Lucas Avila), else Arm B alone ([experiment card](experiment-card.md)) | Open |
 | Students won't pay while alternatives are free | Breaks revenue hypothesis 1 | Pilot Arm A at €15; company price defined alongside the pilot ([details to narrow](experiment-card.md#next-details-to-narrow), row 3) | Open, tested 16–30 Oct |
-| Engineer time grows with paying students | Feedback on every certified result is promised | At pilot scale (3 certified at the threshold) it fits his estimate; above that it needs a price per review or a cap | Open risk |
+| Engineer time grows with requests and certificates | Eligibility work can occur without payment; every certified student still needs written feedback | Five sample reviews alone are estimated at 100 min, before additional work. Agree capacity before committing to the cohort, count reused reviews once, and limit intake to what can receive the promised feedback. See [workload accounting](ERRC.md#engineer-workload-and-cost). | Open risk even at 3 certificates; one-hour capacity is not established |
 | AI-only scores | The team's legal notes require a human review step before an automated process lowers a credential rating, a plain-language explanation of any score, and a visible AI label ([legal constraints](../legal-constraints.md) ALG-1, ALG-3, AI-1) | Engineer scores a sample; label AI-scored results; certified results always get a human | Partly handled |
 | Payments | Holding money directly needs a payment-institution licence ([legal constraints](../legal-constraints.md) PAY-1) | Pilot uses a payment link from a licensed provider, not a team member's account | To confirm before 16 Oct |
 | IP and data | Who owns student code; GDPR for profiles | Students keep their code; assessment use only (V2-E01 Q5); results private by default | Agreed in interview, not in writing |

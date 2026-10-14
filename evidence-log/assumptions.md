@@ -95,8 +95,10 @@ validate a particular pass mark.
 
 - Price point for the certification fee (the test uses one price; see the card).
 - Whether students prefer solo or team challenges.
-- Whether engineer-written feedback on every certified result (decided
-  2026-10-12) still fits the engineer's time once more than three students pay.
+- Whether the complete sample, eligibility checks and engineer-written feedback
+  on every certified result fit the reviewer's capacity, even at three paying
+  students; count setup, debriefs and coordination as well. See
+  [workload accounting](ERRC.md#engineer-workload-and-cost).
 - The challenge-specific pass mark, mandatory criteria, individual-verification
   procedure and rubric calibration; these must be agreed before Arm A starts.
   Whether the rules increase recruiter trust remains untested; see
