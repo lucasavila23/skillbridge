@@ -37,9 +37,12 @@ contribution comes from the commit history plus teammates' ratings.
 > **Head of data engineering, a Madrid SaaS company (illustrative)**
 
 **How it works.** Pick a challenge that matches the role you want, work on it
-in an evening or a weekend afternoon, submit, see your score for free, and
-certify the result if you want it on your profile. Each certified result stacks
-on a profile recruiters can open to see the brief, the rubric and your part.
+in an evening or a weekend afternoon, submit, and see your score privately for
+free. Meet the published passing requirements and verify your individual work
+before choosing whether to pay to certify the result. Students can fail:
+payment cannot buy a pass, and failed results receive no certificate or
+certification charge. Each certified result stacks on a profile recruiters
+can open to see the brief, the rubric and your part.
 
 > "In interviews they always asked what I did on the group project. Now I send
 > the link and talk them through it."
@@ -58,7 +61,7 @@ Find your first challenge at skillbridge.example.
 | Two to seven hours fits students | **Evidence (unscreened sample, n = 17)**: 12/17 can give ≤4 h a week; 0 can give 8+ | [survey summary](validation/survey-summary-2026-10-12.md) |
 | The market context: 24.5% under-25 unemployment in Spain; new grads 7% of Big Tech hires | **Desk research** (INE Q1 2026; SignalFire 2025) | [internship struggles][N-i] |
 | AI cheating makes employers wary of remote tests | **Desk research** (ISE Dec 2025 independent; CodeSignal Feb 2026 vendor) | [company motives][N-c] |
-| Not found in the published materials of Forage, HackerRank, Devpost or Kaggle; NUWE unverified | **Desk research, bounded** | [market landscape][N-m] |
+| Individual-contribution verification within a company-calibrated challenge certificate is not described in the reviewed offers of Forage, HackerRank certifications, Devpost or Kaggle. NUWE: not publicly disclosed. | **Desk research, bounded:** Riipen has partial overlap; this does not establish market-wide uniqueness | [Contribution comparison](market-research/contribution-verification-review-2026-10-13.md) |
 | Companies will post briefs and engineers will review | **Hypothesis** | [assumptions](assumptions.md) A2.1–A2.2 |
 | Recruiters trust the score; students pay to certify | **Hypothesis: the riskiest assumption** | [experiment card](experiment-card.md) |
 

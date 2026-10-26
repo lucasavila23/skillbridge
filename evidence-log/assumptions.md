@@ -26,7 +26,7 @@ Importance and evidence are rated High / Medium / Low.
 | # | Assumption | Importance | Evidence | Status |
 |---|---|---|---|---|
 | A2.1 | SaaS, engineering and data companies will provide a real brief and sign off a rubric. | High | Low | **Interview proposal:** V2-E01 Q1-Q2 identifies a CSV task, offers non-sensitive examples and gives five criteria. No written brief, examples or final rubric sign-off supplied. |
-| A2.2 | A company engineer will score a sample of submissions and write feedback on every certified result within one week. | Medium | Low | **Stated willingness:** V2-E01 Q3 estimates one hour for three submissions if coordination stays minimal. No completed review or one-week deadline agreed. |
+| A2.2 | A company engineer will score a sample of submissions, confirm certification eligibility and write feedback on every certified result within one week. | Medium | Low | **Stated willingness:** V2-E01 Q3 estimates one hour for three submissions if coordination stays minimal. No completed review, expanded eligibility-check workload or one-week deadline agreed. |
 | A2.3 | An AI rubric plus automated tests scores close enough to the engineer's judgement. | High | None | **Hypothesis.** V2-E01 Q4 suggests checking a low-ranked submission; this is a trust condition, not a measured accuracy result. Compare paired AI and engineer scores in the pilot. |
 
 ## Area 3: Credential credibility
@@ -79,16 +79,30 @@ Students will pay for a certified challenge score, because employers treat that 
 
 It combines A1.3 and A3.1: both remain High importance with limited interview
 signals, and revenue hypothesis 1 fails if either fails. Conditional payment
-interest and one mock-profile judgment do not establish the combined claim.
-Test: [experiment card](experiment-card.md).
+interest and the two preliminary mock-profile judgments do not establish the
+combined claim. Test: [experiment card](experiment-card.md); current source
+strength, contradictions and missing results: [evidence audit](validation/evidence-discipline.md).
+
+## Certification decision
+
+**2026-10-13:** certification is conditional on passing the published challenge
+requirements and verifying individual work. Failed results cannot be certified;
+payment is offered only after eligibility is confirmed. Results are private by
+default. See the [eligibility rules](experiment-card.md#certification-eligibility).
+This resolves the offer wording; it does not establish recruiter trust or
+validate a particular pass mark.
 
 ## Open gaps
 
 - Price point for the certification fee (the test uses one price; see the card).
 - Whether students prefer solo or team challenges.
-- Whether engineer-written feedback on every certified result (decided
-  2026-10-12) still fits the engineer's time once more than three students pay.
-- Public-score visibility, pass criteria, live authenticity checks and rubric
-  calibration; see [v2 findings](validation/v2-findings-2026-10-12.md).
+- Whether the complete sample, eligibility checks and engineer-written feedback
+  on every certified result fit the reviewer's capacity, even at three paying
+  students; count setup, debriefs and coordination as well. See
+  [workload accounting](ERRC.md#engineer-workload-and-cost).
+- The challenge-specific pass mark, mandatory criteria, individual-verification
+  procedure and rubric calibration; these must be agreed before Arm A starts.
+  Whether the rules increase recruiter trust remains untested; see
+  [v2 findings](validation/v2-findings-2026-10-12.md).
 - Legal: IP of student submissions on a company brief (see
   [legal constraints](../legal-constraints.md)).

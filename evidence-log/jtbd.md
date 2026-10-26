@@ -55,7 +55,8 @@ These are participant reports, not measured outcomes from using SkillBridge.
 - The student's payment condition assumes personal engineer-written feedback.
   The team decided on 2026-10-12 that every certified result gets it
   ([v2 findings](validation/v2-findings-2026-10-12.md#consequences-for-the-current-offer));
-  whether engineer time scales beyond the pilot is open.
+  whether full review and feedback work fits the pilot or scales beyond it is
+  open ([workload accounting](ERRC.md#engineer-workload-and-cost)).
 - Survey respondents' university, year and programme are not recorded. V2-S01
   is identified as an IE CSAI student; year and internship history are missing.
 - See the [v2 findings](validation/v2-findings-2026-10-12.md) for source limits,
