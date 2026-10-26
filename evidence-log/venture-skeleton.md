@@ -1,6 +1,6 @@
 # Venture Skeleton v0.1 (SkillBridge v2)
 
-**2026-10-13.** The whole venture logic on one page. Each line is the current
+**Updated 2026-10-26.** The whole venture logic on one page. Each line is the current
 one-liner; the linked file is the source of truth. v0 and the v1 Session 8
 version are in the [v1 archive](archive/v1-paid-projects/README.md) and the
 [Session 8 deck](personas/session8-personas-deck.pptx).
@@ -21,7 +21,7 @@ version are in the [v1 archive](archive/v1-paid-projects/README.md) and the
 | Smallest test | Two-arm concierge pilot, 16–30 Oct: students take one 4-hour challenge; those who pass and verify their individual work may pay €15 to certify. 5+ recruiters compare a CV with and without the certified result. | [experiment-card.md](experiment-card.md) |
 | Certification rule | Students can fail. Publish the passing and individual-verification requirements before participation; a failed result cannot be certified or made passing by payment. | [eligibility rules](experiment-card.md#certification-eligibility) |
 | Decision rule | Both pass → build in Phase 2. Students fail, recruiters pass → companies pay. Students pass, recruiters fail → sell practice and feedback. Both fail → stop the credential model. | [experiment-card.md](experiment-card.md#decision-rule) |
-| Real-user evidence | Problem supported; payment and recruiter trust stated and conditional; the interviews changed four parts of the offer. | [claims changed](validation/claims-changed.md) |
+| Real-user evidence | Problem supported; five reported illustrative-profile comparisons add favourable recruiter reactions, with trust conditions. Three predate the pilot window; B is inconclusive and A remains unmeasured. | [latest findings](validation/recruiter-comparison-findings-2026-10-26.md), [claims changed](validation/claims-changed.md) |
 | Players, hurdles, options | Company is the scarce side; first moves are one signed brief, IE Talent & Careers and tech clubs, with the company price defined before results. | [stakeholder map](stakeholder-map.md) |
 | AI traceability | Every AI working session, what it produced and what the team kept. | [ai-usage-log.md](ai-usage-log.md) |
 | Rough test | Prototype v1: brief, team submission, score and feedback, certificate. | [prototype v1](../prototype/prototype-v1.html), [README](../prototype/README.md) |

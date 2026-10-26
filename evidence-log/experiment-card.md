@@ -2,10 +2,17 @@
 
 **v2, 2026-10-12. Certification rule revised 2026-10-13.**
 
-**Evidence audit, 2026-10-14:** [current readiness](validation/evidence-discipline.md)
-and [pilot script and records](validation/pilot-records.md). Neither arm has a
-formal result documented. The records specify screening, exact stimuli,
-outcome classification and source retention; they contain no test results.
+**Results intake, 2026-10-26:** [five recruiter comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
+now document favourable stated reactions to the same illustrative profiles.
+Interview dates were 10, 11, 13, 16 and 18 October; three are outside the agreed
+pilot window. Screening and exact profile files remain incomplete, and trust
+conditions need checking against the displayed material. **B is inconclusive,
+not a final 3-of-5 pass or fail. A remains unmeasured in the supplied evidence.**
+No decision branch is triggered. Price, window and thresholds remain unchanged.
+
+**Evidence audit:** [current readiness](validation/evidence-discipline.md) and
+[pilot script and records](validation/pilot-records.md). The latter remains a
+blank protocol/template; actual results are in the dated intake above.
 
 **Interview intake, 2026-10-12:** the user supplied three interviews conducted
 on October 5, 6 and 10, before the planned pilot window. See the
@@ -171,7 +178,8 @@ Fixed before the test; not adjusted after seeing results.
 **Planned evidence strength:** A could provide strong behavioural evidence
 through real submissions and payments; B provides stated judgments from real
 recruiters, not observed hiring. These describe the methods, not results already
-obtained. Current evidence is preliminary and conditional; see the
+obtained. The five reported comparisons add conditional concept evidence;
+the formal cohort remains incomplete. See the
 [audit](validation/evidence-discipline.md).
 
 Fewer than 10 submitting students makes A inconclusive; fewer than five usable

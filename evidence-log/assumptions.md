@@ -9,6 +9,11 @@ Inputs: [opportunity](opportunity.md), [JTBD](jtbd.md),
 one recruiter and one engineer. V2 source IDs refer to the
 [interview records](validation/v2-interviews-2026-10-12.md).
 
+**Updated 2026-10-26:** [five illustrative-profile comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
+add favourable stated screening judgments and explicit trust conditions. Three
+predate the formal pilot window; qualification and original profile files are
+pending. This strengthens concept support, not payment or actual hiring evidence.
+
 Tags: **Evidence** (linked), **Decision** (team), **Hypothesis** (untested).
 Importance and evidence are rated High / Medium / Low.
 
@@ -33,9 +38,9 @@ Importance and evidence are rated High / Medium / Low.
 
 | # | Assumption | Importance | Evidence | Status |
 |---|---|---|---|---|
-| A3.1 | Recruiters treat a company-calibrated score as credible evidence of job-ready skill. | High | Low | **Stated screening judgment:** V2-R01 Q6-Q7 favours a mock profile with work and engineer feedback, but discounts an unexplained numerical score. [DF-R01](validation/sources/company-interview-deem-finance.md) Q10-Q12 picks the certified profile on the same conditions. Two recruiters; no observed hiring effect. |
-| A3.2 | A verified contribution record answers the recruiter's "what did *you* do?" question. | High | Low | **Reported problem:** pilot P016, V2-S01 Q3 and V2-R01 Q3. The recruiter values inspectable evidence (Q6-Q7); actual contribution verification remains untested. |
-| A3.3 | Employers would use the score in place of a take-home test. | Medium | Low | **Conditional interest:** V2-R01 Q8 would consider the company's own brief and engineer sign-off, retaining a live check. [DF-R01](validation/sources/company-interview-deem-finance.md) Q14 says the same for the first screen. No replacement decision recorded. |
+| A3.1 | Recruiters treat a company-calibrated score as credible evidence of job-ready skill. | High | Medium for stated concept value | **Stated screening judgments:** earlier V2-R01 and DF-R01 favour inspectable work and feedback over a bare score. CV-R01–CV-R05 Q2–Q4 add five favourable reactions to the same illustrative profiles, conditional on credible reviewers, rubrics and authorship checks. Formal B remains inconclusive; no observed hiring effect. Do not sum rounds with unknown overlap. |
+| A3.2 | A verified contribution record answers the recruiter's "what did *you* do?" question. | High | Low | **Reported problem and stated value:** pilot P016, V2-S01 Q3, V2-R01 Q3; CV-R01/R03 Q3 value contribution proof, but R03 Q4 still wants evidence the candidate understands the work. Actual verification reliability remains untested. |
+| A3.3 | Employers would use the score in place of a take-home test. | Medium | Low | **Conditional interest:** V2-R01 and DF-R01 suggest replacement with their own brief/sign-off. All five CV respondents' Q5 answers suggest replacing some early assessment; R01–R04 retain live discussion/interviews. No actual workflow replacement or measured time saving recorded. |
 
 ## Revenue hypotheses (ranked by the team)
 
@@ -79,8 +84,10 @@ Students will pay for a certified challenge score, because employers treat that 
 
 It combines A1.3 and A3.1: both remain High importance with limited interview
 signals, and revenue hypothesis 1 fails if either fails. Conditional payment
-interest and the two preliminary mock-profile judgments do not establish the
-combined claim. Test: [experiment card](experiment-card.md); current source
+interest, the earlier mock-profile judgments and five newly supplied illustrative
+comparisons do not establish the combined claim. The new set strengthens stated
+bundle value, while reviewer provenance and AI-grading distrust remain conditions.
+Test: [experiment card](experiment-card.md); current source
 strength, contradictions and missing results: [evidence audit](validation/evidence-discipline.md).
 
 ## Certification decision

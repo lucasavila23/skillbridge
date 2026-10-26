@@ -1,23 +1,26 @@
 # Evidence discipline — readiness check
 
-**Reviewed 2026-10-14 · Status: REVISE.** Existing real-user records inform the
-offer, but the current highest-risk hypothesis has not completed its test.
-This audit and the [pilot records](pilot-records.md) improve traceability;
-they are not new user evidence. CTR work is outside this assessment.
+**Reviewed 2026-10-26 · Status: REVISE.** The new
+[five-recruiter comparison intake](recruiter-comparison-findings-2026-10-26.md)
+adds completed, team-reported concept research: five favourable stated reactions
+to the same illustrative profiles. Three interviews predate the formal window;
+screening and exact profile files are still missing. Arm B is inconclusive and
+Arm A remains unmeasured in the supplied evidence. CTR work is outside this assessment.
 
 ## What the criterion requires
 
 | Requirement | Current evidence / status | What still closes the gap |
 |---|---|---|
 | Clear, verifiable feedback from potential users | Real interviews have source files, participant IDs and answers. The [recruitment table](../recruitment.md#participant-fit-against-the-target-user) distinguishes confirmed fit from missing screening. | Recover missing dates, interviewer/channel and permission records where available; retain the exact mock profiles shown. Do not reconstruct missing answers or stimuli. |
-| Highest-risk hypothesis tested with real people | Preliminary support for useful proof of skill; conditional payment and recruiter interest. Neither formal v2 arm has a qualifying result documented. | Run the [current card](../experiment-card.md): ≥10 submitting target students at €15 and five qualifying recruiter comparisons. Record unsuccessful outcomes as well as successful ones. |
+| Highest-risk hypothesis tested with real people | Five reported comparison interviews now test the proposed bundle; all Q3 answers are favourable, with explicit trust conditions. Only two interviews fall in the 16–30 Oct window, and screening remains unconfirmed. | Audit the two in-window records and complete the qualifying cohort using the [unchanged card](../experiment-card.md). Student payment still needs its own test; do not equate five concept reactions with a formal pass. |
 | Roadblocks tested with spikes | Engineer proposal and time estimate exist; no measured AI–engineer comparison or timed end-to-end certification review is supplied. | Run and save the bounded checks in [pilot records](pilot-records.md#roadblock-checks). A technical spike informs feasibility, not demand. |
-| Results changed a decision | Work bundle, individual attribution, feedback for every certificate and private results follow specific interview findings below. | After the pilot, record the measured result and apply the card's precommitted branch, including a failed or inconclusive outcome. |
+| Results changed a decision | Earlier interviews changed the bundle and certification rules; the new comparisons reinforce them and identify reviewer provenance, authorship checks and AI-grading distrust as next checks. | Retain those conditions in the findings and future test materials. Neither paid demand nor a complete formal B result is established, so no overall pass/fail branch is triggered. |
 | Evidence and unknowns stay traceable | Source → finding → decision links below; historic and current tests remain separate. AI assistance is [logged](../ai-usage-log.md). | Attach actual pilot records and source artifacts; update this status from those records, not from the existence of a test plan. |
 
 **Ready does not mean the idea must pass.** A well-documented failed test can
 meet this criterion when the team explains the result and acts on it. At
-present, missing execution and source records prevent an honest Ready rating.
+present, incomplete formal test coverage and source records prevent an honest
+Ready rating; the five completed comparison interviews are acknowledged below.
 
 ## What changed because of evidence
 
@@ -28,6 +31,7 @@ present, missing execution and source records prevent an honest Ready rating.
 | Students will pay €15 (A1.3) | [V2-S01 Q9–Q10](v2-interviews-2026-10-12.md#v2-s01-q9): conditional on specific engineer-written feedback. [OO-S02](one-on-one-interviews-2026-10-12.md#oo-s02-current-ie-student): conditional on recruiter recognition. | Every certified student receives human-written feedback; retain €15 as a test price. | No v2 submission/payment documented. All three one-on-one respondents prefer companies paying most or all; OO-S01 is outside the target. |
 | Certification preserves credibility and student control | [V2-S01 Q8–Q11](v2-interviews-2026-10-12.md#v2-s01-q8): poor public scores and buying a pass are concerns. | Private by default; opt-in sharing; published pass/fail and individual checks before payment. | A design response, not proof the revised rule earns recruiter trust. |
 | Engineer effort and AI scoring are workable (A2.2–A2.3) | [V2-E01 Q3–Q4](v2-interviews-2026-10-12.md#v2-e01-q3): 20 minutes per review estimated; check a lower-ranked submission too. | Five distinct sample reviews including two from the lower half; full workload and individual feedback counted. | Estimate only. Signed rubric, capacity agreement, paired scores and actual minutes remain missing. |
+| The proposed bundle helps a screening decision | [CV-R01–CV-R05 Q2–Q4](recruiter-comparison-findings-2026-10-26.md): five favourable judgments; demands for reviewer identity, authorship checks and payment-independent passing | Retain the bundle; make provenance and check details explicit in the next pack. R04's AI-grading distrust challenges the automation assumption. | Illustrative-profile reactions, not actual hires; three interviews precede the pilot window, qualification and exact stimuli remain incomplete. |
 
 The complete decision history, including contradictory evidence, is in
 [claims changed](claims-changed.md). These changes show learning; they do not
@@ -43,20 +47,22 @@ causal connection or improved employment outcomes.
 | [October 1 pilot report](../market-research/pilot-assessment-2026-10-01.md) | Reports actual commitments, paid student work, accepted delivery and recruiter feedback. | **11 is the survey sample**, not a verified delivery/interview/recruiter count. Raw records and denominators are missing; student compensation is not students paying for certification. |
 | [17-response survey](survey-summary-2026-10-12.md) | Local raw export supports problem and stated capacity counts. | Selection-limit violations and missing target screening remain visible; overlap with the 11-person survey is unknown. “Payment amount” asks about being paid, not buying certification. |
 | [Three v2 interviews](v2-interviews-2026-10-12.md), [three one-on-ones](one-on-one-interviews-2026-10-12.md), [DF-R01](sources/company-interview-deem-finance.md) | Recent episodes, conditional reactions, proposed task and preliminary profile judgments. | Do not sum them into a unique sample across rounds. Missing metadata and direct price-question bias limit strength. |
-| [Current experiment](../experiment-card.md) | A defined test, thresholds and decision rules. | **No formal v2 result documented as of this review.** Missing denominators mean “not measured”, not 0% or failure. |
+| [CV-R01–CV-R05](recruiter-comparison-findings-2026-10-26.md) | Five reported comparisons on 10/11/13/16/18 Oct; same illustrative profiles confirmed by user; all five reactions favourable | Only two dates fall in the formal window. No final qualifying numerator/denominator; participant overlap with earlier samples unknown. |
+| [Current experiment](../experiment-card.md) | A defined test, thresholds and decision rules; comparison findings now supplied | **B inconclusive; A unmeasured in supplied records.** Neither a final pass/fail branch nor a hiring-effect claim is established. |
 
 ## Next evidence to obtain
 
 Lucas Avila remains the card's coordinator; the arm owners still need naming.
 Use the [pilot records](pilot-records.md) to:
 
-1. Freeze the exact offer, screening rules and comparison artifacts before
-   exposure; complete engineer sign-off and capacity checks before Arm A.
-2. Run Arm B with five qualifying recruiters using the same comparison pack.
-   It can proceed independently while Arm A prerequisites are outstanding.
-3. Run Arm A when ready, retaining every submitting student's outcome and
-   linked payment/fulfilment record. If the sign-off deadline is missed, apply
-   the existing stop condition rather than substitute another metric.
+1. Attach the exact profiles already used and recover screening/source details;
+   do not substitute a revised pack for the historical comparison artifacts.
+2. Audit CV-R04/R05 against Arm B rules and complete the remaining qualifying
+   comparisons in the agreed window. If incomplete at close, precommit a separate
+   follow-up rather than pooling out-of-window results retrospectively.
+3. Record whether the 20 October sign-off milestone was met. If it was missed,
+   apply the existing Arm A stop condition. If met, retain every submitting
+   student's outcome, payment and fulfilment record.
 4. Save the scoring/review checks and actual workload; record disagreements,
    missing records, refunds and protocol deviations alongside successes.
 5. Record the result, limitations and resulting decision. Reassess this

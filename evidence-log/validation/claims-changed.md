@@ -1,6 +1,6 @@
 # Claims changed by real-user evidence
 
-**2026-10-13.** Answers the Challenge II feedback: "Talk to a handful of real
+**Updated 2026-10-26.** Answers the Challenge II feedback: "Talk to a handful of real
 target users, both students and small business owners, and write down which of
 your claims changed", and "the link between what changed and what you learned
 isn't clear" ([feedback response](../feedback-response.md#challenge-ii-venture-skeleton-v01-65--80)).
@@ -9,8 +9,8 @@ Each row reads left to right: what we believed, what the linked evidence says,
 and what we changed. Interviews contain reported behaviour and stated reactions;
 the older pilot report also describes actual activity without underlying logs.
 Row 5 is desk research. Samples are never added together because participants
-may overlap. The [14 October audit](evidence-discipline.md) distinguishes these
-sources from the formal v2 test, which has no documented result yet.
+may overlap. The [current audit](evidence-discipline.md) distinguishes favourable
+reported concept comparisons from a completed formal v2 result.
 
 ## Who we talked to
 
@@ -22,6 +22,7 @@ sources from the formal v2 test, which has no documented result yet.
 | V2 interviews | 1 IE CSAI student, 1 tech recruiter, 1 company engineer | 3 | Medium: one per role | [records](v2-interviews-2026-10-12.md) |
 | One-on-ones | 1 graduate (outside target), 1 IE student, 1 recruiter | 3 | Low–medium: undated, direct price questions | [record](one-on-one-interviews-2026-10-12.md) |
 | Company interview | 1 fintech recruiter (Deem Finance) who screened interns in the last 12 months | 1 | Low–medium: undated, interviewer and consent not recorded | [record](sources/company-interview-deem-finance.md) |
+| CV comparison, received 26 Oct | Five hiring/recruitment roles; dates 10/11/13/16/18 Oct; same illustrative profiles confirmed | 5 records; overlap with prior rounds unknown | Directional stated support; three outside pilot window, qualification and exact profile files pending | [findings and source](recruiter-comparison-findings-2026-10-26.md) |
 
 ## What changed
 
@@ -38,6 +39,24 @@ sources from the formal v2 test, which has no documented result yet.
 | 9 | The AI rubric can rank submissions; the engineer checks the top | V2-E01 Q4: check a low-ranked submission before trusting the AI ranking. | The engineer scores five distinct submissions, **including two from the lower half**, to measure AI–engineer agreement; review all if teams produce fewer than five. This sample does not limit feedback for certified students. | [experiment card](../experiment-card.md) Arm A step 5 |
 | 10 | The critical third persona is a wary small-business owner | The riskiest assumption moved to whether recruiters trust the credential (rows 1 and 6). | **Skeptical Verifier** (recruiter) replaces the Once-Bitten Owner as a critical persona. | [personas](../personas/README.md) |
 | 11 | Students pay first (revenue hypothesis 1) | All three one-on-one interviewees say **companies should pay** most or all; students at most a small fee. Desk research: free alternatives compete with our student fee. V2-R01 links company spend to replacing take-home review. [DF-R01](sources/company-interview-deem-finance.md) Q15–16: maybe, **per hire or per challenge**, not a subscription, from the campus and employer-branding budget (HR director signs), replacing part of a ~€5,000 datathon sponsorship that hired no one. | **Not yet reversed.** The ranking stays until the pilot decides; the company price is defined alongside the pilot so the "students fail, recruiters pass" branch can start at once. | [assumptions](../assumptions.md#revenue-hypotheses-ranked-by-the-team), [experiment card](../experiment-card.md#decision-rule) |
+
+## 26 October comparison: implications
+
+**26 October intake:** five reported comparisons reinforce the existing bundle
+direction: all Q2 answers favour the evidence profile and all Q3 answers say it
+changes or supports the decision. Three interviews preceded the formal window,
+so this does not establish the card's 3-of-5 result. New implications are:
+
+| Claim / expectation | Source | Finding-led next step | Limit |
+|---|---|---|---|
+| An engineer's note is sufficient trust evidence | CV-R01/R04 Q4 | Make reviewer identity/role and rubric provenance inspectable in the next pack | Original profiles pending; genuine reviewer approval is not established by illustrative material |
+| A verification label resolves authorship concerns | CV-R03 Q4 | Show what was checked and test the candidate's understanding | Check effectiveness remains unmeasured |
+| Human-reviewed AI scoring will be acceptable | CV-R04 Q4 distrusts automated/generic grading | Explain first-pass AI scoring and final human review; test acceptance of that division | This response challenges, rather than validates, the AI-efficiency assumption |
+| Earned pass/fail certification addresses buying-a-pass concerns | CV-R02/R05 Q4 | Retain the rule; collect real pass/fail data before satisfying R02's request for rates | No rates or actual certificate outcomes supplied |
+
+These are implications for the next pack and test, not prototype changes or
+claims that checks have already been implemented. See the
+[full classification and decision](recruiter-comparison-findings-2026-10-26.md).
 
 ## What did not change, and why
 

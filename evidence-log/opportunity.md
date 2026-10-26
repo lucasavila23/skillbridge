@@ -40,8 +40,11 @@ repeat participation remain hypotheses.
 **Recruiter (new, decides credential value):** the hiring manager or recruiter
 who reads the score. Modelled in the [Skeptical Verifier](personas/ai-persona-03.md).
 **Partial interview evidence:** V2-R01 favours a mock profile with inspectable
-work and engineer feedback, while discounting an unexplained score. This is
-one stated screening judgment, not an observed hiring outcome.
+work and engineer feedback, while discounting an unexplained score. The
+[26 October intake](validation/recruiter-comparison-findings-2026-10-26.md)
+adds five favourable stated comparisons using the same illustrative profiles,
+with reviewer, rubric and authorship conditions. Three predate the formal pilot
+window; screening and exact files remain pending. No actual hiring effect is established.
 
 ## NEED
 
@@ -104,11 +107,13 @@ adds initial concept feedback; v2 completion and paid conversion remain untested
 
 ## Open gaps
 
-- One student, one recruiter and one engineer have now been interviewed about
-  v2. More participants and the planned behavioural test are still needed.
+- Five new recruiter-comparison records add concept evidence to earlier v2
+  interviews. Complete screening/material checks and the formal in-window
+  cohort; student payment and actual hiring remain unmeasured.
 - V2-S01 states willingness to pay EUR 15 for specific engineer-written
   feedback after completing the work. No actual payment or challenge
-  submission is recorded, and feedback coverage needs clarification.
+  submission is recorded. Feedback for every certified result is decided;
+  actual delivery capacity remains unmeasured.
 - The engineer's written brief, sample files and rubric sign-off are pending;
   the recruiter's conditional interest is not a company purchase.
 - Survey respondents' university and programme are not recorded.
@@ -122,5 +127,6 @@ adds initial concept feedback; v2 completion and paid conversion remain untested
 [interviews](validation/interviews-2026-09-22.md) ·
 [v2 interviews](validation/v2-interviews-2026-10-12.md) ·
 [v2 findings](validation/v2-findings-2026-10-12.md) ·
+[recruiter comparison findings](validation/recruiter-comparison-findings-2026-10-26.md) ·
 [competitive analysis](market-research/competitive-analysis.md) ·
 [v1 archive](archive/v1-paid-projects/README.md)
