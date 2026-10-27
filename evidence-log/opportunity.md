@@ -43,8 +43,10 @@ who reads the score. Modelled in the [Skeptical Verifier](personas/ai-persona-03
 work and engineer feedback, while discounting an unexplained score. The
 [26 October intake](validation/recruiter-comparison-findings-2026-10-26.md)
 adds five favourable stated comparisons using the same illustrative profiles,
-with reviewer, rubric and authorship conditions. Three predate the formal pilot
-window; screening and exact files remain pending. No actual hiring effect is established.
+with reviewer, rubric and authorship conditions. The 27 October update accepts
+all five dates according to availability and preserves both CVs. Screening and
+the missing full rubric/work/feedback in the PDF remain gaps; no actual hiring
+effect is established.
 
 ## NEED
 
@@ -108,8 +110,8 @@ adds initial concept feedback; v2 completion and paid conversion remain untested
 ## Open gaps
 
 - Five new recruiter-comparison records add concept evidence to earlier v2
-  interviews. Complete screening/material checks and the formal in-window
-  cohort; student payment and actual hiring remain unmeasured.
+  interviews. Complete screening and reconcile the saved CVs with the rubric
+  and feedback mentioned in answers; student payment and actual hiring remain unmeasured.
 - V2-S01 states willingness to pay EUR 15 for specific engineer-written
   feedback after completing the work. No actual payment or challenge
   submission is recorded. Feedback for every certified result is decided;

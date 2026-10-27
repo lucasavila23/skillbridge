@@ -1,10 +1,12 @@
 # Jobs to Be Done hypothesis
 
-**26 October evidence update:** [five recruiter comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
-add favourable stated reactions to illustrative work/rubric/contribution/feedback
-evidence, with explicit trust conditions. They strengthen the employer-side
-rationale for demonstrating individual work; they do not change the student
-Job below or establish actual hiring progress. Formal Arm B remains inconclusive.
+**27 October evidence update:** [five recruiter comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
+add favourable stated reactions to an illustrative challenge profile and the
+described evidence bundle, with explicit trust conditions. The CVs are saved and
+all dates accepted; the full rubric/work/feedback cited in answers is absent from
+the PDF. These accounts strengthen the employer-side rationale for demonstrating
+individual work; they do not change the student Job or establish actual hiring
+progress. Screening and material checks leave formal Arm B inconclusive.
 
 **Version:** 0.5 — 2026-10-12 (v2 interview intake)
 

@@ -35,7 +35,7 @@ quoted in short; the full text is in the team's grade sheet.
 | Defense | Several assumptions not tested thoroughly or with the right audience | The v2 test recruits the right audiences: screened students (Arm A) and recruiters who screened interns in the last 12 months (Arm B); [participant fit](recruitment.md#participant-fit-against-the-target-user) excludes non-matching participants | Past samples were unscreened |
 | Defense | Understand the dynamics, the value for each player, hurdles and options: partnerships, private and public pro-bono programmes, university plans; break it down and prioritise | **[Stakeholder map](stakeholder-map.md):** value and cost per player, five market dynamics, hurdles with how we handle them, and 11 options ranked Now / Next / Later / Not now | Options are desk research; none is tested |
 
-## Group Project I: evidence discipline (reviewed 2026-10-26)
+## Group Project I: evidence discipline (reviewed 2026-10-27)
 
 **Current assessment: Revise.** The historical grades above are unchanged.
 The [evidence audit](validation/evidence-discipline.md) maps sources, decisions,
@@ -45,7 +45,8 @@ screening, exact-stimulus retention, counting rules, student outcome records
 and planned scoring/workload checks. Those documents are preparation. The
 [26 October intake](validation/recruiter-comparison-findings-2026-10-26.md)
 now adds five actual, team-reported comparisons of illustrative profiles, all
-favourable with trust conditions. Three predate the formal window; the other
-two still need screening and exact-material checks. B is inconclusive and A
-remains unmeasured in supplied records. Complete the qualifying cohort, recover
-source artifacts and document Arm A readiness/results before claiming Ready.
+favourable with trust conditions. The 27 October update accepts all five dates
+according to availability and retains the [actual CVs](validation/recruiter-comparison-materials-2026-10-27.md).
+Screening is unconfirmed; the PDF does not show the full rubric/work/feedback
+mentioned in answers. Formal B is inconclusive and A remains unmeasured. Resolve
+those specific gaps and document Arm A readiness/results before claiming Ready.

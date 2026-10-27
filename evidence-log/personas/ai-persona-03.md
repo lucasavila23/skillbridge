@@ -16,8 +16,10 @@ determines whether the supply-side value proposition holds.
 [five CV comparisons received 2026-10-26](../validation/recruiter-comparison-findings-2026-10-26.md).
 The new set supports interest in inspectable work and human review, conditional
 on reviewer credibility, authorship checks and no pay-to-pass. All five saw
-illustrative profiles; three predate the formal window, screening and exact
-files remain pending. Wider screening patterns and hiring outcomes remain
+illustrative profiles. On 27 October the CVs were attached and all five dates
+accepted according to availability. Screening and the discrepancy between
+the saved CVs and full feedback/rubric mentioned in answers remain open.
+Wider screening patterns and hiring outcomes remain
 hypotheses. The persona voice above is illustrative, not an interview quote.
 
 **Evidence review — 2026-09-22:** not addressed by this round — the four
@@ -157,8 +159,9 @@ frequency of these concerns across recruiters has been observed.
 ## Validate next
 
 Use Arm B of the [v2 experiment](../experiment-card.md). The new five-record
-intake is completed concept research, but only two interviews are in-window;
-recover screening and exact profiles, then complete the qualifying cohort.
+intake is completed concept research; all dates are accepted and CVs retained.
+Recover screening for those five and establish whether the full evidence
+bundle was shown beyond the CVs. If not, precommit a separate full-bundle test.
 Preserve trust conditions and distinguish illustrative-profile choices from
 actual shortlist decisions. Possible subsequent tests:
 
@@ -180,5 +183,5 @@ actual shortlist decisions. Possible subsequent tests:
   [v2 evidence assessment](../validation/v2-findings-2026-10-12.md).
 
 **Readiness:** partial interview grounding with wider hypotheses retained.
-Observed hiring and actual spending remain open; the formal recruiter cohort
-and source checks are incomplete despite five favourable reported comparisons.
+Observed hiring and actual spending remain open; participant screening and
+full-bundle exposure remain unconfirmed despite five favourable comparisons.

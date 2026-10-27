@@ -37,11 +37,11 @@ experience, no relevant internship. ✓ confirmed · ✗ does not match · ? not
 | OO-S02 | ✓ current IE student | ? | ? | ? | ? | Partial: year, programme and internship status missing |
 | OO-R01 | n/a recruiter | n/a | ? | n/a | n/a | Arm B role stated; company and recent intern screening not recorded |
 | DF-R01 | n/a recruiter | n/a | ✓ fintech intern screening reported | n/a | n/a | Fits Arm B role and last-12-month screening rule; actual interview date and exact comparison artifacts missing |
-| CV-R01 | n/a technical hiring manager | n/a | Technical context stated | n/a | n/a | Recent relevant screening unconfirmed; 10 Oct is outside pilot window |
-| CV-R02 | n/a HR recruiter | n/a | Junior hiring context stated | n/a | n/a | Recent relevant screening unconfirmed; 11 Oct is outside pilot window |
-| CV-R03 | n/a hiring manager | n/a | Startup/code delivery context stated | n/a | n/a | Recent relevant screening unconfirmed; 13 Oct is outside pilot window |
-| CV-R04 | n/a talent acquisition | n/a | Technical evaluation context stated | n/a | n/a | 16 Oct is in window; recent relevant screening and exact stimuli still missing |
-| CV-R05 | n/a technical hiring manager | n/a | Corporate-client junior screening stated | n/a | n/a | 18 Oct is in window; recent relevant screening and exact stimuli still missing |
+| CV-R01 | n/a technical hiring manager | n/a | Technical context stated | n/a | n/a | Recent relevant screening unconfirmed; 10 Oct accepted under availability adjustment |
+| CV-R02 | n/a HR recruiter | n/a | Junior hiring context stated | n/a | n/a | Recent relevant screening unconfirmed; 11 Oct accepted under availability adjustment |
+| CV-R03 | n/a hiring manager | n/a | Startup/code delivery context stated | n/a | n/a | Recent relevant screening unconfirmed; 13 Oct accepted under availability adjustment |
+| CV-R04 | n/a talent acquisition | n/a | Technical evaluation context stated | n/a | n/a | Recent relevant screening unconfirmed; 16 Oct accepted |
+| CV-R05 | n/a technical hiring manager | n/a | Corporate-client junior screening stated | n/a | n/a | Recent relevant screening unconfirmed; 18 Oct accepted |
 
 **Fix for the next round:** screen students for year, programme, university,
 latest project experience and relevant internship history. Screen recruiters
@@ -72,12 +72,14 @@ template does not capture the formal pilot's denominator and stimulus records.
 | 2026-10-10 | A: company, preliminary interview | V2-E01, company engineer | Not recorded | Relevant task and review criteria reported; not payment decision-maker | Proposed CSV task, five criteria and review estimate; no final brief or rubric sign-off | [Q1-Q6](validation/v2-interviews-2026-10-12.md#v2-e01) |
 | Not recorded (file created 2026-10-12) | A and B: one-on-ones | OO-S01 graduate, OO-S02 IE student, OO-R01 recruiter | Not recorded | No: dates, context and consent not recorded | Conditional €15 willingness (OO-S02), €5–10 (OO-S01); all three say companies should pay | [record](validation/one-on-one-interviews-2026-10-12.md) |
 | Not recorded (confirmed real 2026-10-13) | B: recruiter, preliminary interview | DF-R01, Deem Finance recruiter | Not recorded | Role and recent screening reported; exact profiles missing | Supportive profile judgment and conditional company payment; no formal pilot or hiring result | [record](validation/sources/company-interview-deem-finance.md) |
-| 2026-10-10 / 11 / 13 / 16 / 18, respectively | B: CV comparison, intake 26 Oct | CV-R01–CV-R05; five hiring/recruitment roles | Not supplied | Role titles supplied; last-12-month screening unconfirmed | Five favourable stated comparisons of the same illustrative profiles; only two in window; formal result inconclusive | [participant results](validation/recruiter-comparison-findings-2026-10-26.md#participant-level-results) |
+| 2026-10-10 / 11 / 13 / 16 / 18, respectively | B: CV comparison, intake 26 Oct | CV-R01–CV-R05; five hiring/recruitment roles | Not supplied | Role titles supplied; last-12-month screening unconfirmed | Five favourable stated comparisons; all dates accepted and CVs saved. Full-bundle discrepancy and screening leave formal B inconclusive | [participant results](validation/recruiter-comparison-findings-2026-10-26.md#participant-level-results) |
 
 **26 October metadata:** the user named Lucas, Ariel, Juan Bravo and Omar as
 interviewers, without per-record assignments, and confirmed the same two
-illustrative profiles were shown to all five. Profile files will follow; source
-notes are preserved. Dates are mapped in the order supplied. Recruitment channel,
+illustrative profiles were shown to all five. The [CVs supplied 27 October](validation/recruiter-comparison-materials-2026-10-27.md)
+and original notes are preserved. That audit records the availability adjustment
+accepting all five dates and the absence of the full bundle from the PDF.
+Dates are mapped in the order supplied. Recruitment channel,
 permission answers and overlap with earlier interviewees remain unconfirmed.
 
 The user confirmed the V2-S01, V2-R01 and V2-E01 dates on 2026-10-12. They predate

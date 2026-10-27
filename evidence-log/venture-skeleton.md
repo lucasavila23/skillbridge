@@ -1,6 +1,6 @@
 # Venture Skeleton v0.1 (SkillBridge v2)
 
-**Updated 2026-10-26.** The whole venture logic on one page. Each line is the current
+**Updated 2026-10-27.** The whole venture logic on one page. Each line is the current
 one-liner; the linked file is the source of truth. v0 and the v1 Session 8
 version are in the [v1 archive](archive/v1-paid-projects/README.md) and the
 [Session 8 deck](personas/session8-personas-deck.pptx).
@@ -18,10 +18,10 @@ version are in the [v1 archive](archive/v1-paid-projects/README.md) and the
 | Product Goal | Help tech students prove job-ready skill through short, company-calibrated challenges, with each student's contribution verified. | [goals.md](goals.md) |
 | Riskiest assumption | Students will pay for a certified challenge score, because employers treat that score as credible evidence of job-ready skill. | [assumptions.md](assumptions.md#riskiest-assumption) |
 | Sprint Goal | Learn whether students will pay for a company-calibrated challenge score, and whether employers treat that score as credible. | [goals.md](goals.md) |
-| Smallest test | Two-arm concierge pilot, 16–30 Oct: students take one 4-hour challenge; those who pass and verify their individual work may pay €15 to certify. 5+ recruiters compare a CV with and without the certified result. | [experiment-card.md](experiment-card.md) |
+| Smallest test | Arm A planned for 16–30 Oct: one 4-hour challenge; passing, individually verified students may pay €15 to certify. Arm B: five CV comparisons conducted 10–18 Oct according to availability; materials and screening under review. | [experiment-card.md](experiment-card.md) |
 | Certification rule | Students can fail. Publish the passing and individual-verification requirements before participation; a failed result cannot be certified or made passing by payment. | [eligibility rules](experiment-card.md#certification-eligibility) |
 | Decision rule | Both pass → build in Phase 2. Students fail, recruiters pass → companies pay. Students pass, recruiters fail → sell practice and feedback. Both fail → stop the credential model. | [experiment-card.md](experiment-card.md#decision-rule) |
-| Real-user evidence | Problem supported; five reported illustrative-profile comparisons add favourable recruiter reactions, with trust conditions. Three predate the pilot window; B is inconclusive and A remains unmeasured. | [latest findings](validation/recruiter-comparison-findings-2026-10-26.md), [claims changed](validation/claims-changed.md) |
+| Real-user evidence | Problem supported; 5/5 reported illustrative-profile comparisons favourable. CVs saved, all dates accepted; screening and the missing full bundle leave formal B inconclusive. A remains unmeasured. | [latest findings](validation/recruiter-comparison-findings-2026-10-26.md), [claims changed](validation/claims-changed.md) |
 | Players, hurdles, options | Company is the scarce side; first moves are one signed brief, IE Talent & Careers and tech clubs, with the company price defined before results. | [stakeholder map](stakeholder-map.md) |
 | AI traceability | Every AI working session, what it produced and what the team kept. | [ai-usage-log.md](ai-usage-log.md) |
 | Rough test | Prototype v1: brief, team submission, score and feedback, certificate. | [prototype v1](../prototype/prototype-v1.html), [README](../prototype/README.md) |

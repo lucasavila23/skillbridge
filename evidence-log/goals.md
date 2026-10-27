@@ -24,8 +24,9 @@ adds a second preliminary judgment. V2 payment and hiring effects remain
 unestablished. The [experiment card](experiment-card.md) tests payment and
 stated recruiter credibility; observed hiring outcomes require a later test.
 
-**26 October update:** [five completed illustrative-profile comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
-add favourable stated reactions and reviewer/authorship requirements. Three
-occurred before the pilot window; the formal B result is inconclusive and A
-remains unmeasured in the supplied evidence. Keep both goals; complete the
-qualifying comparison cohort and resolve Arm A readiness before a venture decision.
+**27 October update:** [five completed illustrative-profile comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
+add favourable stated reactions and reviewer/authorship requirements. All five
+dates are accepted according to availability and both CVs are retained. Formal
+B remains inconclusive because screening and the full-bundle discrepancy are
+unresolved; A remains unmeasured. Keep both goals; resolve those existing-record
+gaps and Arm A readiness before a venture decision.

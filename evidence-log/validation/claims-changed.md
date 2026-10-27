@@ -1,6 +1,6 @@
 # Claims changed by real-user evidence
 
-**Updated 2026-10-26.** Answers the Challenge II feedback: "Talk to a handful of real
+**Updated 2026-10-27.** Answers the Challenge II feedback: "Talk to a handful of real
 target users, both students and small business owners, and write down which of
 your claims changed", and "the link between what changed and what you learned
 isn't clear" ([feedback response](../feedback-response.md#challenge-ii-venture-skeleton-v01-65--80)).
@@ -22,7 +22,7 @@ reported concept comparisons from a completed formal v2 result.
 | V2 interviews | 1 IE CSAI student, 1 tech recruiter, 1 company engineer | 3 | Medium: one per role | [records](v2-interviews-2026-10-12.md) |
 | One-on-ones | 1 graduate (outside target), 1 IE student, 1 recruiter | 3 | Low–medium: undated, direct price questions | [record](one-on-one-interviews-2026-10-12.md) |
 | Company interview | 1 fintech recruiter (Deem Finance) who screened interns in the last 12 months | 1 | Low–medium: undated, interviewer and consent not recorded | [record](sources/company-interview-deem-finance.md) |
-| CV comparison, received 26 Oct | Five hiring/recruitment roles; dates 10/11/13/16/18 Oct; same illustrative profiles confirmed | 5 records; overlap with prior rounds unknown | Directional stated support; three outside pilot window, qualification and exact profile files pending | [findings and source](recruiter-comparison-findings-2026-10-26.md) |
+| CV comparison, received 26 Oct; CVs attached 27 Oct | Five hiring/recruitment roles; dates 10/11/13/16/18 Oct accepted by availability; same illustrative profiles saved | 5 records; overlap with prior rounds unknown | 5/5 stated support; qualification and the PDF's missing full bundle remain gaps | [findings and source](recruiter-comparison-findings-2026-10-26.md) |
 
 ## What changed
 
@@ -33,23 +33,27 @@ reported concept comparisons from a completed formal v2 result.
 | 3 | Students can commit to a multi-week client project | Survey Q6: 12/17 can give 4 h a week or less, 0 can give 8+. One-on-ones: 3–5 h and 4–6 h. V2-S01: four hours clashes with deadlines. | Challenges sized to 2–7 h; the pilot uses a 4-hour time box. | [ERRC](../ERRC.md) Reduce, [experiment card](../experiment-card.md) |
 | 4 | The core student pain is getting experience | Survey Q2: **explaining personal contribution 14/17**, showing work beyond coursework 12/17. V2-S01 froze when asked which parts they wrote. | The product centres on a **verified individual-contribution record**. | [opportunity](../opportunity.md), [ERRC](../ERRC.md) Create |
 | 5 | "Nobody combines real projects, teams and verification" | **Desk evidence, not an interview:** the 13 Oct feature review distinguishes individual-contribution verification from rosters and solo tests; Riipen has partial overlap. | Proposed differentiation is verified individual work within a company-calibrated challenge certificate, not a blanket claim that no competitor checks contribution. NUWE: **not publicly disclosed** in the reviewed material. | [Dated feature comparison](../market-research/contribution-verification-review-2026-10-13.md) |
-| 6 | The score is the product ("82/100") | V2-R01: "82 out of 100 means nothing to me on its own." OO-R01 wants the rubric, company review, work sample and a benchmark. [DF-R01](sources/company-interview-deem-finance.md) Q12: their own rubric, an engineer's note, the code and the candidate's rank; "a bare number would be ignored". | **Certified result = evidence bundle** (work, company-named rubric, contribution record, engineer's note), never a bare score. Arm B shows the full bundle. | [experiment card](../experiment-card.md) Arm B, [v2 findings](v2-findings-2026-10-12.md#consequences-for-the-current-offer) |
+| 6 | The score is the product ("82/100") | V2-R01: "82 out of 100 means nothing to me on its own." OO-R01 wants the rubric, company review, work sample and a benchmark. [DF-R01](sources/company-interview-deem-finance.md) Q12: their own rubric, an engineer's note, the code and the candidate's rank; "a bare number would be ignored". | **Certified result = evidence bundle** (work, company-named rubric, contribution record, engineer's note), never a bare score. Arm B requires the full bundle; the supplied CVs do not yet evidence that full display. | [experiment card](../experiment-card.md) Arm B, [v2 findings](v2-findings-2026-10-12.md#consequences-for-the-current-offer) |
 | 7 | The engineer reviews only the top submissions | V2-S01 would pay €15 if "an actual engineer wrote it, not generated" and the feedback is specific. | **Every paying student gets engineer-written feedback.** | [experiment card](../experiment-card.md) Arm A step 4 |
 | 8 | Results appear on a public profile; the 12 Oct offer allowed certification at any score | V2-S01: "If a bad score is attached to my name somewhere public, that's worse for me than…"; and if "the money is what gets you the certificate rather than the work, then it's worthless". | **Revised team decision, 13 Oct:** private by default, sharing is optional, and certification can be failed. Only passing, individually verified results are eligible for the €15 offer; payment cannot buy a pass. Certificates show the actual score. Recruiter acceptance remains untested. | [certification eligibility](../experiment-card.md#certification-eligibility), [decision history](v2-findings-2026-10-12.md#consequences-for-the-current-offer) |
 | 9 | The AI rubric can rank submissions; the engineer checks the top | V2-E01 Q4: check a low-ranked submission before trusting the AI ranking. | The engineer scores five distinct submissions, **including two from the lower half**, to measure AI–engineer agreement; review all if teams produce fewer than five. This sample does not limit feedback for certified students. | [experiment card](../experiment-card.md) Arm A step 5 |
 | 10 | The critical third persona is a wary small-business owner | The riskiest assumption moved to whether recruiters trust the credential (rows 1 and 6). | **Skeptical Verifier** (recruiter) replaces the Once-Bitten Owner as a critical persona. | [personas](../personas/README.md) |
 | 11 | Students pay first (revenue hypothesis 1) | All three one-on-one interviewees say **companies should pay** most or all; students at most a small fee. Desk research: free alternatives compete with our student fee. V2-R01 links company spend to replacing take-home review. [DF-R01](sources/company-interview-deem-finance.md) Q15–16: maybe, **per hire or per challenge**, not a subscription, from the campus and employer-branding budget (HR director signs), replacing part of a ~€5,000 datathon sponsorship that hired no one. | **Not yet reversed.** The ranking stays until the pilot decides; the company price is defined alongside the pilot so the "students fail, recruiters pass" branch can start at once. | [assumptions](../assumptions.md#revenue-hypotheses-ranked-by-the-team), [experiment card](../experiment-card.md#decision-rule) |
 
-## 26 October comparison: implications
+## 26 October comparison: implications (updated 27 October)
 
 **26 October intake:** five reported comparisons reinforce the existing bundle
 direction: all Q2 answers favour the evidence profile and all Q3 answers say it
-changes or supports the decision. Three interviews preceded the formal window,
-so this does not establish the card's 3-of-5 result. New implications are:
+changes or supports the decision. On 27 October the user directed that all five
+dates be accepted according to availability and supplied the CVs. Their baseline
+content matches; B adds a challenge/contribution summary and simulated pass.
+The PDF lacks the work, rubric breakdown and engineer comments cited in answers.
+Together with missing screening, this prevents a formal full-bundle pass despite
+the 5/5 favourable tally. New implications are:
 
 | Claim / expectation | Source | Finding-led next step | Limit |
 |---|---|---|---|
-| An engineer's note is sufficient trust evidence | CV-R01/R04 Q4 | Make reviewer identity/role and rubric provenance inspectable in the next pack | Original profiles pending; genuine reviewer approval is not established by illustrative material |
+| An engineer's note is sufficient trust evidence | CV-R01/R04 Q4 | Make reviewer identity/role and rubric provenance inspectable in the next pack | Saved CVs show no reviewer identity or actual note; illustrative claims are not genuine reviewer approval |
 | A verification label resolves authorship concerns | CV-R03 Q4 | Show what was checked and test the candidate's understanding | Check effectiveness remains unmeasured |
 | Human-reviewed AI scoring will be acceptable | CV-R04 Q4 distrusts automated/generic grading | Explain first-pass AI scoring and final human review; test acceptance of that division | This response challenges, rather than validates, the AI-efficiency assumption |
 | Earned pass/fail certification addresses buying-a-pass concerns | CV-R02/R05 Q4 | Retain the rule; collect real pass/fail data before satisfying R02's request for rates | No rates or actual certificate outcomes supplied |
@@ -64,9 +68,10 @@ claims that checks have already been implemented. See the
   the problem of showing individual work beyond coursework; its solution-neutral
   wording survives the pivot ([JTBD](../jtbd.md)). Business interviews and
   conditional payment answers do not independently validate that Job.
-- **The €15 price and the 30% / 3-of-5 thresholds.** Interview answers are
-  stated and conditional; only the pilot (16–30 Oct) can move them. They were
-  fixed before the test and are not adjusted after.
+- **The €15 price and the 30% / 3-of-5 thresholds.** These remain the test values;
+  favourable interview answers do not change them. The availability-based
+  timing adjustment applies to these five Arm B interviews only; Arm A dates
+  and sign-off conditions remain unchanged.
 
 ## What is still unknown
 

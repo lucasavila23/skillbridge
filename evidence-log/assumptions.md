@@ -9,10 +9,11 @@ Inputs: [opportunity](opportunity.md), [JTBD](jtbd.md),
 one recruiter and one engineer. V2 source IDs refer to the
 [interview records](validation/v2-interviews-2026-10-12.md).
 
-**Updated 2026-10-26:** [five illustrative-profile comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
-add favourable stated screening judgments and explicit trust conditions. Three
-predate the formal pilot window; qualification and original profile files are
-pending. This strengthens concept support, not payment or actual hiring evidence.
+**Updated 2026-10-27:** [five illustrative-profile comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
+add favourable stated screening judgments and explicit trust conditions. All
+five dates are accepted according to availability, and the CVs are now saved.
+Qualification and the absence of the full rubric/work/feedback bundle from the
+PDF remain open. This strengthens concept support, not payment or actual hiring evidence.
 
 Tags: **Evidence** (linked), **Decision** (team), **Hypothesis** (untested).
 Importance and evidence are rated High / Medium / Low.
@@ -38,7 +39,7 @@ Importance and evidence are rated High / Medium / Low.
 
 | # | Assumption | Importance | Evidence | Status |
 |---|---|---|---|---|
-| A3.1 | Recruiters treat a company-calibrated score as credible evidence of job-ready skill. | High | Medium for stated concept value | **Stated screening judgments:** earlier V2-R01 and DF-R01 favour inspectable work and feedback over a bare score. CV-R01–CV-R05 Q2–Q4 add five favourable reactions to the same illustrative profiles, conditional on credible reviewers, rubrics and authorship checks. Formal B remains inconclusive; no observed hiring effect. Do not sum rounds with unknown overlap. |
+| A3.1 | Recruiters treat a company-calibrated score as credible evidence of job-ready skill. | High | Medium for stated concept value | **Stated screening judgments:** earlier V2-R01 and DF-R01 favour inspectable work and feedback over a bare score. CV-R01–CV-R05 Q2–Q4 add 5/5 favourable reactions to the same illustrative profiles, conditional on credible reviewers, rubrics and authorship checks. CVs are retained and dates accepted; screening and the full-bundle discrepancy leave formal B inconclusive. No observed hiring effect; do not sum rounds with unknown overlap. |
 | A3.2 | A verified contribution record answers the recruiter's "what did *you* do?" question. | High | Low | **Reported problem and stated value:** pilot P016, V2-S01 Q3, V2-R01 Q3; CV-R01/R03 Q3 value contribution proof, but R03 Q4 still wants evidence the candidate understands the work. Actual verification reliability remains untested. |
 | A3.3 | Employers would use the score in place of a take-home test. | Medium | Low | **Conditional interest:** V2-R01 and DF-R01 suggest replacement with their own brief/sign-off. All five CV respondents' Q5 answers suggest replacing some early assessment; R01–R04 retain live discussion/interviews. No actual workflow replacement or measured time saving recorded. |
 

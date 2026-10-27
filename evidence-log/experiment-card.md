@@ -2,13 +2,16 @@
 
 **v2, 2026-10-12. Certification rule revised 2026-10-13.**
 
-**Results intake, 2026-10-26:** [five recruiter comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
-now document favourable stated reactions to the same illustrative profiles.
-Interview dates were 10, 11, 13, 16 and 18 October; three are outside the agreed
-pilot window. Screening and exact profile files remain incomplete, and trust
-conditions need checking against the displayed material. **B is inconclusive,
-not a final 3-of-5 pass or fail. A remains unmeasured in the supplied evidence.**
-No decision branch is triggered. Price, window and thresholds remain unchanged.
+**Results update, 2026-10-27:** [five recruiter comparisons](validation/recruiter-comparison-findings-2026-10-26.md)
+record **5/5 favourable stated reactions**, numerically above the 3-of-5 threshold.
+All five interview dates (10, 11, 13, 16 and 18 October) are accepted following
+the user's availability-based timing clarification on 27 October. The
+[CVs are preserved and inspected](validation/recruiter-comparison-materials-2026-10-27.md):
+B adds a challenge/contribution summary and simulated pass, but the rubric,
+work artifact and written feedback referenced in answers are absent from the PDF.
+Screening and the materials discrepancy remain open. **Formal B is inconclusive;
+A remains unmeasured in the supplied evidence.** No venture decision branch is
+triggered. Price, thresholds and Arm A dates/conditions remain unchanged.
 
 **Evidence audit:** [current readiness](validation/evidence-discipline.md) and
 [pilot script and records](validation/pilot-records.md). The latter remains a
@@ -50,7 +53,11 @@ managers say the certificate would change or support a shortlisting decision.
 
 ## Method
 
-Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
+Original plan: concierge pilot, two arms in parallel, 2026-10-16 to 2026-10-30.
+**Arm B timing adjustment recorded 2026-10-27:** include all five supplied
+comparisons on 10/11/13/16/18 October because scheduling depended on respondent
+availability. This is a disclosed change after results were supplied, not a
+claim that the original window was met. Arm A's schedule is retained.
 
 **Arm A: students (A1.3).**
 1. Prepare one challenge: a real brief from one SaaS, engineering or data
@@ -97,6 +104,9 @@ Concierge pilot, two arms run in parallel, 2026-10-16 to 2026-10-30.
    to count shared reviews once and individual feedback for every certificate.
 
 **Arm B: recruiters (A3.1, A3.3).**
+The steps below remain the full-bundle protocol. The supplied CVs implement a
+partial version; see the materials audit above before classifying this run.
+
 1. Contact 5+ recruiters or hiring managers who screen interns or juniors in
    software, web or data (IE Talent & Careers, LinkedIn, alumni).
 2. Show two anonymised profiles side by side: CV only, and the same CV plus a
@@ -178,8 +188,9 @@ Fixed before the test; not adjusted after seeing results.
 **Planned evidence strength:** A could provide strong behavioural evidence
 through real submissions and payments; B provides stated judgments from real
 recruiters, not observed hiring. These describe the methods, not results already
-obtained. The five reported comparisons add conditional concept evidence;
-the formal cohort remains incomplete. See the
+obtained. Five reported comparisons and both CVs are retained; they add
+conditional concept evidence. Screening and full-bundle exposure remain
+unconfirmed, rather than interview dates being an exclusion. See the
 [audit](validation/evidence-discipline.md).
 
 Fewer than 10 submitting students makes A inconclusive; fewer than five usable

@@ -1,10 +1,12 @@
 # Recruiter CV comparison — findings received 2026-10-26
 
-**Result:** all five recorded respondents said they would shortlist the profile
-with the illustrative SkillBridge evidence bundle; three said it changed their
-decision and two said it supported it. **Formal Arm B status: inconclusive.**
-Three interviews predate the agreed pilot window; target screening, exact
-profile files and whether stated trust conditions were met remain unresolved.
+**Updated 2026-10-27. Result:** all five recorded respondents said they would
+shortlist the profile with the additional SkillBridge entry and described
+evidence bundle; three said it changed their decision and two said it supported
+it. **Formal Arm B status: inconclusive.**
+All five dates are accepted under the availability-based adjustment below.
+The exact CVs are now attached; target screening and the mismatch between the
+full bundle discussed in answers and the content shown in the PDF remain unresolved.
 This is completed, team-reported comparison research, not a planned exercise.
 
 ## Source and provenance
@@ -17,10 +19,14 @@ This is completed, team-reported comparison research, not a planned exercise.
   2026, listed below in the supplied order. Lucas, Ariel, Juan Bravo and Omar
   conducted the interviews; assignment of an interviewer to each record was
   not supplied. The same two profiles were shown to all five, and the profiles
-  were illustrative examples. The user will supply those files separately.
+  were illustrative examples. The [two-page PDF](sources/2026-10-27-skillbridge-test-cvs.pdf)
+  was supplied on 27 October and preserved unchanged. See the
+  [page-by-page materials audit](recruiter-comparison-materials-2026-10-27.md)
+  for its checksum, contents and limits.
 - **Still missing:** recruitment channels, permission answers, company/sector
   details, confirmation of relevant intern/junior screening within 12 months,
-  per-session display order and the actual two profile files. The supplied
+  per-session display order and any additional work/rubric/feedback shown beyond
+  the CVs. The supplied
   introduction asks permission but does not record the answers. Prior-participant
   overlap and whether these were the first five qualifying completions are unknown.
 
@@ -52,30 +58,34 @@ client rejection figure are individual statements, not measured pilot results.
 ## Assessment against the precommitted test
 
 The [card](../experiment-card.md) requires ≥3 of five qualifying completed
-comparisons in the **16–30 October** window. Its
+comparisons. **Timing adjustment, 27 October:** the user confirmed scheduling
+depended on interviewee availability and directed that the original 16–30 October
+window not exclude these interviews. All five dates are accepted for this
+comparison; no extra interviews are required solely because of timing. This
+adjustment is recorded after receipt of results, without changing the threshold,
+screening requirements or Arm A schedule. The
 [counting rule](pilot-records.md#arm-b-15-minute-recruiter-comparison) requires
 explicit support for the bundle shown; approval conditional on a missing
-feature is not a positive. These rules are unchanged.
+feature is not a positive. That counting rule is unchanged.
 
 | Check | Evidence received | Effect on interpretation |
 |---|---|---|
 | Five completed comparison records | Five sets of Q1–Q5 answers | The comparison happened as reported; do not describe it as wholly unrun. |
-| Pilot dates | R01–R03 on 10/11/13 Oct; R04–R05 on 16/18 Oct | Keep all five as research, but only two fall in the formal window. The first three cannot be retrospectively added to that cohort. |
+| Interview dates | R01–R05 on 10/11/13/16/18 Oct | All five included under the disclosed availability adjustment. Timing is no longer an exclusion or an outstanding gap. |
 | Relevant screening in the last 12 months | Role titles and hiring context; no explicit screening answers | Plausible role fit, not confirmed qualification. |
-| Consistent material | User confirms the same two illustrative profiles for everyone | Consistency is reported; exact CV equivalence, evidence content and display order cannot yet be inspected. |
-| Positive under the counting rule | All five Q3 answers are favourable; Q4 adds requirements | An illustrative example can test a concept, but it does not demonstrate real reviewer/company verification. Confirm whether requirements were already represented or require absent features before final classification. |
+| Consistent material | Both supplied PDF pages inspected; user confirms this pair for all five | Same baseline CV; B adds a challenge, contribution/verification summary and simulated 88/100 pass. Display order remains unrecorded. |
+| Full bundle and positive counting | All five Q3 answers are favourable and mention engineer feedback; the PDF has no written feedback, work artifact or rubric breakdown | The numerical tally is 5/5 stated support, above 3/5. It cannot yet be classified as a formal full-bundle pass: establish what additional material, if any, was shown and whether support depends on missing features. |
 | Complete cohort / independent participants | Five records supplied; outreach/exclusion log and prior overlap absent | No population estimate or combined total with earlier interviews. |
 
-**No final 3-of-5 pass or fail is established.** This is not a 0/5 result:
-there are five favourable accounts, but the formal cohort and classifications
-are incomplete. Even both in-window respondents qualifying positively would
-leave fewer than five qualifying comparisons. A further three qualifying
-comparisons in the agreed window would be needed at minimum; more if either
-in-window record proves ineligible or unusable. Keep negative/uncertain answers.
+**Reported support clears the numerical bar: 5/5 versus ≥3/5. Formal Arm B
+remains inconclusive** because participant qualification and support for the
+specified full bundle are not established. This is not a 0/5 result, a failure,
+or a timing-based requirement for three more interviews. Review the existing
+five records first; keep conditional and uncertain answers in the record.
 
 Do not call this 100% hiring conversion, a 100-percentage-point hiring uplift,
 or proof that certification causes hiring. The exercise explicitly directs
-attention to additional evidence, and the original CV/profile files are pending.
+attention to additional evidence, and the PDF adds several signals together.
 It measures stated decisions about an illustrative candidate, not actual hires.
 No student payment, completed challenge, company sign-off or AI accuracy was
 measured by these interviews.
@@ -99,11 +109,13 @@ for the materials used in these five interviews.
 
 ## Next evidence and decision
 
-1. Attach the exact two profiles; add per-person screening and source metadata
-   that can be recovered. Do not fill gaps from the expected script answers.
-2. Audit the two in-window records against the existing criteria and complete
-   the remaining qualifying cohort. If the window closes without five usable
-   records, keep B inconclusive and precommit a separate follow-up test.
+1. Recover per-person screening and source metadata for the five existing
+   interviews. The exact CVs are now saved; do not infer missing answers.
+2. Resolve the [materials discrepancy](recruiter-comparison-materials-2026-10-27.md):
+   were code, rubric and engineer comments also shown, or only described?
+   Preserve any actual additional materials and review each classification.
+   If the full bundle was not shown, retain these five as concept comparisons
+   and precommit a separate full-bundle test rather than relabel this one.
 3. Record whether the 20 October engineer-sign-off milestone was met. If it was
    not, apply the existing Arm A stop condition; do not move that deadline silently.
 4. Keep the whole venture decision pending: Arm A remains unmeasured in the
@@ -113,6 +125,8 @@ for the materials used in these five interviews.
 **Presentation claim:** “In five reported comparisons using the same
 illustrative profiles, all respondents said the added evidence would change
 or support shortlisting. They wanted credible human review, clear authorship
-checks and no pay-to-pass. Three interviews preceded our formal pilot window,
-and screening and source-file checks remain open, so this is encouraging
-concept evidence rather than a completed pilot pass or an observed hiring effect.”
+checks and no pay-to-pass. We included all five according to availability and
+saved the CVs. They show a challenge and contribution summary, but not the
+rubric or written feedback mentioned in the answers. That gap and participant
+screening remain open, so this supports the concept without establishing a
+full-bundle pilot pass or an observed hiring effect.”
