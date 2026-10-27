@@ -3,8 +3,17 @@
 **Prepared 2026-10-14 · TEMPLATE / NOT RUN.** Fill from actual fieldwork only.
 No answers, participants, payments or technical results are recorded here.
 The [experiment card](../experiment-card.md) owns the €15 price, 30% / 3-of-5
-thresholds, 16–30 October window and decision branches. This packet makes the
-test inspectable without changing those thresholds.
+thresholds, originally planned 16–30 October window and decision branches.
+This packet makes the test inspectable without changing those thresholds.
+
+**27 October run update:** this remains the blank protocol, not a result log.
+Actual [five-interview findings](recruiter-comparison-findings-2026-10-26.md)
+and [supplied CV audit](recruiter-comparison-materials-2026-10-27.md) are separate.
+At the user's direction, all five dates (10/11/13/16/18 October) are accepted
+according to respondent availability. This disclosed timing adjustment leaves
+Arm A dates, eligibility, thresholds and the counting rule unchanged. The CV
+files are retained, but do not contain the full work/rubric/feedback bundle
+specified below. Historical preparation fields below are not current findings.
 
 ## Before collecting results
 

@@ -12,10 +12,15 @@ determines whether the supply-side value proposition holds.
 - Works through a mix of ATS keyword filtering and fast manual skims
 - Pattern-matches against known signals; treats unfamiliar credentials with default suspicion
 
-**Grounding: PARTIAL PARTICIPANT-REPORTED** — one user-conducted recruiter
-interview, V2-R01 on 2026-10-06, supplied on 2026-10-12. Wider screening
-patterns and hiring outcomes remain hypotheses. The illustrative persona
-voice above is not a quotation from that interview.
+**Grounding: PARTIAL PARTICIPANT-REPORTED** — V2-R01 on 2026-10-06 plus the
+[five CV comparisons received 2026-10-26](../validation/recruiter-comparison-findings-2026-10-26.md).
+The new set supports interest in inspectable work and human review, conditional
+on reviewer credibility, authorship checks and no pay-to-pass. All five saw
+illustrative profiles. On 27 October the CVs were attached and all five dates
+accepted according to availability. Screening and the discrepancy between
+the saved CVs and full feedback/rubric mentioned in answers remain open.
+Wider screening patterns and hiring outcomes remain
+hypotheses. The persona voice above is illustrative, not an interview quote.
 
 **Evidence review — 2026-09-22:** not addressed by this round — the four
 teammate-reported interviews were two students and two business owners, not
@@ -136,6 +141,7 @@ frequency of these concerns across recruiters has been observed.
 | STATED JUDGMENT | V2-R01 Q6-Q7 favours a mock profile with inspectable work and engineer feedback; an unexplained score alone has little value to this respondent |
 | UNKNOWN | Whether recruiters notice and credit this record in an unprompted real screening process; the supplied comparison explicitly drew attention to it |
 | STATED CONDITIONS | V2-R01 Q7-Q9 asks for rubric provenance, human sign-off and a live explanation; a general minimum format or verification threshold remains unknown |
+| STATED COMPARISON | CV-R01–CV-R05 Q2/Q3: five favourable judgments about illustrative profiles. R01/R04 require credible reviewer provenance; R03 wants authorship checks; R02/R05 require no pay-to-pass. R04's distrust of automated grading challenges the AI-assisted model. No actual hiring behaviour or final Arm B pass established. |
 
 ## Assumptions this persona stresses
 
@@ -152,10 +158,12 @@ frequency of these concerns across recruiters has been observed.
 
 ## Validate next
 
-Use Arm B of the [v2 experiment](../experiment-card.md). The preliminary
-V2-R01 conversation is one stated judgment, not a five-recruiter result.
-Preserve the exact comparison materials and distinguish mock choices from
-actual shortlist decisions. Possible next steps:
+Use Arm B of the [v2 experiment](../experiment-card.md). The new five-record
+intake is completed concept research; all dates are accepted and CVs retained.
+Recover screening for those five and establish whether the full evidence
+bundle was shown beyond the CVs. If not, precommit a separate full-bundle test.
+Preserve trust conditions and distinguish illustrative-profile choices from
+actual shortlist decisions. Possible subsequent tests:
 
 - Recruiter interviews: "Here's a resume line describing a SkillBridge campaign. Walk me through what you'd do with it in a 30-second resume scan."
 - Show the same recruiter a mock LinkedIn profile with and without the credential, and compare stated likelihood to advance
@@ -175,4 +183,5 @@ actual shortlist decisions. Possible next steps:
   [v2 evidence assessment](../validation/v2-findings-2026-10-12.md).
 
 **Readiness:** partial interview grounding with wider hypotheses retained.
-Observed hiring, actual spending and the planned recruiter sample remain open.
+Observed hiring and actual spending remain open; participant screening and
+full-bundle exposure remain unconfirmed despite five favourable comparisons.
